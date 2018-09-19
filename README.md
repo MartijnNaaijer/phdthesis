@@ -1,5 +1,5 @@
 # phdthesis
-The repository contains scripts related to my thesis "Clause Structure Variation in Biblical Hebrew, a Quantitative Approach"
+The repository contains scripts and data related to my thesis "Clause Structure Variation in Biblical Hebrew, a Quantitative Approach"
 
 The data on which the analyses are based are extracted from the ETCBC database of the Hebrew Bible and related texts, 
 using the open source software Text-Fabric. See: https://github.com/Dans-labs/text-fabric and also: https://etcbc.github.io/bhsa/
