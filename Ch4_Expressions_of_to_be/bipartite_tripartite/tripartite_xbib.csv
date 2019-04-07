@@ -1,0 +1,16 @@
+cl_id,book,chapter,verse,clause_type_etcbc,clause_rela,book2,ebh_lbh,genre,txt_type,s_p_order,CP,cl_len,subj_type,subj_det,subj_len,pc_type,pc_det,pc_len,main_sub,nega,language,Adju,Cmpl,Conj,EPPr,Exst,Frnt,Intj,Loca,Modi,NCop,Nega,Objc,PrAd,Ques,Rela,Time,Unkn,Voct,Unkn,mother
+41841,1QH,23,7,NmCl,Resu_,1QH,qumranic,poetry,Q,PS,no_conj,2,PPrP,det,2,PP,det,4,Main,non_neg,Hebrew,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no_pred
+44776,1QS,7,37,NmCl,Resu_,1QS,qumranic,prose,D,SP,no_conj,2,PPrP,det,2,NP,det,6,Main,non_neg,Hebrew,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no_pred
+45799,Pirqe,3,23,NmCl,Resu_,Pirqe,rabbinic,prose,Q,SP,no_conj,3,PPrP,det,2,NP,und,4,Main,non_neg,Hebrew,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,no_pred
+46288,Pirqe,5,22,NmCl,Resu_,Pirqe,rabbinic,prose,?,SP,no_conj,2,PPrP,det,2,PP,det,14,Main,non_neg,Hebrew,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no_pred
+46658,Shirata,1,14,NmCl,Resu_,Shirata,rabbinic,poetry,Q,PS,no_conj,2,PPrP,det,2,PP,und,4,Main,non_neg,Hebrew,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no_pred
+46769,Shirata,1,24,NmCl,Resu_,Shirata,rabbinic,poetry,?,SP,no_conj,3,PPrP,det,2,AdvP,NA,2,Main,neg,Hebrew,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,no_pred
+47453,Shirata,4,5,NmCl,Resu_,Shirata,rabbinic,poetry,Q,SP,no_conj,3,PPrP,det,2,AdvP,NA,2,Main,neg,Hebrew,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,no_pred
+47462,Shirata,4,6,NmCl,Resu_,Shirata,rabbinic,poetry,Q,SP,no_conj,3,PPrP,det,2,AdvP,NA,2,Main,neg,Hebrew,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,no_pred
+47474,Shirata,4,8,NmCl,Resu_,Shirata,rabbinic,poetry,Q,SP,no_conj,3,PPrP,det,2,AdvP,NA,2,Main,neg,Hebrew,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,no_pred
+47503,Shirata,4,9,NmCl,Resu_,Shirata,rabbinic,poetry,Q,SP,no_conj,3,PPrP,det,2,AdvP,NA,2,Main,neg,Hebrew,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,no_pred
+47516,Shirata,4,10,NmCl,Resu_,Shirata,rabbinic,poetry,Q,SP,no_conj,3,PPrP,det,2,AdvP,NA,2,Main,neg,Hebrew,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,no_pred
+48306,Shirata,8,9,NmCl,Resu_,Shirata,rabbinic,poetry,?,SP,no_conj,3,PPrP,det,2,AdvP,NA,2,Main,neg,Hebrew,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,no_pred
+48322,Shirata,8,9,NmCl,Resu_,Shirata,rabbinic,poetry,?,SP,no_conj,3,PPrP,det,2,AdvP,NA,2,Main,neg,Hebrew,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,no_pred
+48382,Shirata,8,9,NmCl,Resu_,Shirata,rabbinic,poetry,?,SP,no_conj,3,PPrP,det,2,AdvP,NA,2,Main,neg,Hebrew,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,no_pred
+48406,Shirata,8,12,NmCl,Resu_,Shirata,rabbinic,poetry,Q,PS,no_conj,3,PPrP,det,2,NP,und,2,Main,non_neg,Hebrew,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,no_pred
