@@ -1,0 +1,12 @@
+cl_id,book,chapter,verse,clause_type_etcbc,clause_rela,book2,ebh_lbh,genre,txt_type,s_p_order,CP,cl_len,subj_type,subj_det,subj_len,pc_type,pc_det,pc_len,main_sub,nega,language,Adju,Cmpl,Conj,EPPr,Exst,Frnt,Intj,Loca,Modi,NCop,Nega,Objc,PrAd,Ques,Rela,Time,Unkn,Voct,Unkn,mother
+41398,1QH,19,8,NmCl,NA_,1QH,qumranic,poetry,Q,PS,W,4,NP,und,10,IPrP,und,2,Main,non_neg,Hebrew,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,nominal
+41695,1QH,22,5,NmCl,NA_,1QH,qumranic,poetry,Q,PS,W,5,NP,und,2,IPrP,und,2,Main,non_neg,Hebrew,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,perf
+42734,1QM,2,12,NmCl,NA_,1QM,qumranic,prose,D,SP,KJ,4,NP,und,4,PP,det,4,SubAdv,non_neg,Hebrew,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,impf
+45471,Pirqe,2,13,NmCl,Objc_,Pirqe,rabbinic,prose,Q,PS,no_conj,3,NP,und,4,IPrP,und,2,SubArg,non_neg,Hebrew,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,impv
+45546,Pirqe,2,19,NmCl,Coor_,Pirqe,rabbinic,prose,Q,SP,W,4,IPrP,und,2,NP,det,6,Main,non_neg,Hebrew,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ptca
+45802,Pirqe,4,1,AjCl,NA_,Pirqe,rabbinic,prose,Q,SP,no_conj,3,IPrP,und,2,AdjP,NA,2,Main,non_neg,Hebrew,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ptca
+45805,Pirqe,4,1,NmCl,NA_,Pirqe,rabbinic,prose,Q,SP,no_conj,3,IPrP,und,2,NP,und,2,Main,non_neg,Hebrew,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,nominal
+45808,Pirqe,4,1,AjCl,NA_,Pirqe,rabbinic,prose,Q,SP,no_conj,3,IPrP,und,2,AdjP,NA,2,Main,non_neg,Hebrew,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,nominal
+46251,Pirqe,5,19,NmCl,NA_,Pirqe,rabbinic,prose,?,PS,no_conj,3,NP,und,2,IPrP,und,2,Main,non_neg,Hebrew,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ptca
+46265,Pirqe,5,20,NmCl,NA_,Pirqe,rabbinic,prose,?,PS,no_conj,3,NP,und,2,IPrP,und,2,Main,non_neg,Hebrew,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,nominal
+46416,Pirqe,6,4,NmCl,NA_,Pirqe,rabbinic,prose,Q,PS,no_conj,3,NP,det,8,AdvP,NA,2,Main,non_neg,Hebrew,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,ptca
