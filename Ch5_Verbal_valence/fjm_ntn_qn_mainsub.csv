@@ -1,0 +1,2616 @@
+verb,cl_id,book,chapter,verse,language,main_sub,txt_type,genre,clause
+NTN,427611,Genesis,1,17,Hebrew,Main,N,prose,W JTN >TM >LHJM B RQJ< H CMJM
+NTN,427664,Genesis,1,29,Hebrew,Main,Q,prose,HNH NTTJ LKM >T KL <FB W >T KL H <Y
+NTN,427797,Genesis,3,6,Hebrew,Main,N,prose,W TTN GM L >JCH <MH
+NTN,427823,Genesis,3,12,Hebrew,SubMod,Q,prose,>CR NTTH <MDJ
+NTN,427824,Genesis,3,12,Hebrew,Main,Q,prose,HW> NTNH LJ MN H <Y
+NTN,427922,Genesis,4,12,Hebrew,SubArg,Q,prose,TT KXH LK
+NTN,428269,Genesis,9,2,Hebrew,Main,Q,prose,B JDKM NTNW
+NTN,428272,Genesis,9,3,Hebrew,Main,Q,prose,K JRQ <FB NTTJ LKM >T KL
+NTN,428298,Genesis,9,12,Hebrew,SubMod,Q,prose,>CR >NJ NTN BJNJ W BJNJKM W BJN KL NPC XJH
+NTN,428300,Genesis,9,13,Hebrew,Main,Q,prose,>T QCTJ NTTJ B  <NN
+NTN,428530,Genesis,12,7,Hebrew,Main,Q,prose,L ZR<K >TN >T H >RY H Z>T
+NTN,428632,Genesis,13,15,Hebrew,Main,Q,prose,LK >TNNH
+NTN,428640,Genesis,13,17,Hebrew,SubAdv,Q,prose,KJ LK >TNNH
+NTN,428706,Genesis,14,20,Hebrew,Main,N,prose,W JTN LW M<FR M KL
+NTN,428708,Genesis,14,21,Hebrew,Main,Q,prose,TN LJ H NPC
+NTN,428731,Genesis,15,2,Hebrew,Main,Q,prose,MH TTN LJ
+NTN,428736,Genesis,15,3,Hebrew,Main,Q,prose,HN LJ L> NTTH ZR<
+NTN,428757,Genesis,15,7,Hebrew,SubAdv,Q,prose,L TT LK >T H >RY H Z>T
+NTN,428767,Genesis,15,10,Hebrew,Main,N,prose,W JTN >JC BTRW
+NTN,428796,Genesis,15,18,Hebrew,Main,Q,prose,L ZR<K NTTJ >T H >RY H Z>T M NHR MYRJM <D H NHR H GDL NHR PRT
+NTN,428811,Genesis,16,3,Hebrew,Main,N,prose,W TTN >TH L >BRM >JCH LW L >CH
+NTN,428819,Genesis,16,5,Hebrew,Main,Q,prose,>NKJ NTTJ CPXTJ B XJQK
+NTN,428871,Genesis,17,2,Hebrew,Main,Q,prose,W >TNH BRJTJ BJNJ W BJNK
+NTN,428881,Genesis,17,5,Hebrew,SubAdv,Q,prose,KJ >B HMWN GWJM NTTJK
+NTN,428883,Genesis,17,6,Hebrew,Main,Q,prose,W NTTJK L GWJM
+NTN,428887,Genesis,17,8,Hebrew,Main,Q,prose,W NTTJ LK W L ZR<K >XRJK >T >RY MGRJK >T KL >RY KN<N L >XZT <WLM
+NTN,428909,Genesis,17,16,Hebrew,Main,Q,prose,W GM NTTJ MMNH LK BN
+NTN,428930,Genesis,17,20,Hebrew,Main,Q,prose,W NTTJW L GWJ GDWL
+NTN,428976,Genesis,18,7,Hebrew,Main,N,prose,W JTN >L H N<R
+NTN,428981,Genesis,18,8,Hebrew,Main,N,prose,W JTN L PNJHM
+NTN,429306,Genesis,20,6,Hebrew,Main,N,prose,<L KN L> NTTJK
+NTN,429347,Genesis,20,14,Hebrew,Main,N,prose,W JTN L >BRHM
+NTN,429353,Genesis,20,16,Hebrew,Main,Q,prose,HNH NTTJ >LP KSP L >XJK
+NTN,429405,Genesis,21,14,Hebrew,Main,N,prose,W JTN >L HGR
+NTN,429464,Genesis,21,27,Hebrew,Main,N,prose,W JTN L >BJMLK
+NTN,429596,Genesis,23,4,Hebrew,Main,Q,prose,TNW LJ >XZT QBR <MKM
+NTN,429615,Genesis,23,9,Hebrew,Main,Q,prose,W JTN LJ >T M<RT H MKPLH
+NTN,429618,Genesis,23,9,Hebrew,Main,Q,prose,B KSP ML> JTNNH LJ B TWKKM L >XZT QBR
+NTN,429625,Genesis,23,11,Hebrew,Main,Q,prose,H FDH NTTJ LK
+NTN,429628,Genesis,23,11,Hebrew,Main,Q,prose,LK NTTJH
+NTN,429629,Genesis,23,11,Hebrew,Main,Q,prose,L <JNJ BNJ <MJ NTTJH LK
+NTN,429636,Genesis,23,13,Hebrew,Main,Q,prose,NTTJ KSP H FDH
+NTN,429685,Genesis,24,7,Hebrew,Main,Q,prose,L ZR<K >TN >T H >RY H Z>T
+NTN,429801,Genesis,24,32,Hebrew,Main,N,prose,W JTN TBN W MSPW> L  GMLJM
+NTN,429816,Genesis,24,35,Hebrew,Main,N,prose,W JTN LW Y>N W BQR W KSP W ZHB W <BDM W CPXT W GMLJM W XMRJM
+NTN,429818,Genesis,24,36,Hebrew,Main,N,prose,W JTN LW >T KL
+NTN,429835,Genesis,24,41,Hebrew,SubAdv,Q,prose,W >M L> JTNW LK
+NTN,429902,Genesis,24,53,Hebrew,Main,N,prose,W JTN L RBQH
+NTN,429903,Genesis,24,53,Hebrew,Main,N,prose,W MGDNT NTN L >XJH W L >MH
+NTN,429973,Genesis,25,5,Hebrew,Main,N,prose,W JTN >BRHM >T KL L JYXQ
+NTN,429975,Genesis,25,6,Hebrew,Main,N,prose,W L BNJ H PJLGCJM NTN >BRHM MTNT
+NTN,430068,Genesis,25,34,Hebrew,Main,N,prose,W J<QB NTN L <FW LXM W NZJD <DCJM
+NTN,430085,Genesis,26,3,Hebrew,SubAdv,Q,prose,KJ LK W L ZR<K >TN >T KL H >RYT H >L
+NTN,430089,Genesis,26,4,Hebrew,Main,Q,prose,W NTTJ L ZR<K >T KL H >RYT H >L
+NTN,430281,Genesis,27,17,Hebrew,Main,N,prose,W TTN >T H MV<MJM W >T H LXM B JD J<QB BNH
+NTN,430342,Genesis,27,28,Hebrew,Main,Q,prose,W JTN LK H >LHJM M VL H CMJM W M CMNJ H >RY
+NTN,430395,Genesis,27,37,Hebrew,Main,Q,prose,W >T KL >XJW NTTJ LW L <BDJM
+NTN,430457,Genesis,28,4,Hebrew,Main,Q,prose,W JTN LK >T BRKT >BRHM LK W L ZR<K >TK
+NTN,430459,Genesis,28,4,Hebrew,SubMod,Q,prose,>CR NTN >LHJM L >BRHM
+NTN,430494,Genesis,28,13,Hebrew,Main,Q,prose,LK >TNNH
+NTN,430528,Genesis,28,20,Hebrew,Main,Q,prose,W NTN LJ LXM W BGD
+NTN,430536,Genesis,28,22,Hebrew,SubMod,Q,prose,>CR TTN LJ
+NTN,430618,Genesis,29,19,Hebrew,SubArg,Q,prose,TTJ >TH LK
+NTN,430619,Genesis,29,19,Hebrew,SubAdv,Q,prose,M TTJ >TH L >JC >XR
+NTN,430633,Genesis,29,24,Hebrew,Main,N,prose,W JTN LBN LH >T ZLPH CPXTW
+NTN,430643,Genesis,29,26,Hebrew,SubAdv,Q,prose,L TT H Y<JRH L PNJ H BKJRH
+NTN,430645,Genesis,29,27,Hebrew,Main,Q,prose,W NTNH LK GM >T Z>T B <BDH
+NTN,430649,Genesis,29,28,Hebrew,Main,N,prose,W JTN LW >T RXL BTW
+NTN,430651,Genesis,29,29,Hebrew,Main,N,prose,W JTN LBN L RXL BTW >T BLHH CPXTW
+NTN,430671,Genesis,29,33,Hebrew,Main,N,prose,W JTN LJ GM >T ZH
+NTN,430702,Genesis,30,4,Hebrew,Main,N,prose,W TTN LW >T BLHH CPXTH L >CH
+NTN,430709,Genesis,30,6,Hebrew,Main,N,prose,W JTN LJ BN
+NTN,430721,Genesis,30,9,Hebrew,Main,N,prose,W TTN >TH L J<QB L >CH
+NTN,430735,Genesis,30,14,Hebrew,Main,Q,prose,TNJ N> LJ M DWD>J BNK
+NTN,430753,Genesis,30,18,Hebrew,Main,Q,prose,NTN >LHJM FKRJ
+NTN,430754,Genesis,30,18,Hebrew,SubAdv,Q,prose,>CR NTTJ CPXTJ L >JCJ
+NTN,430780,Genesis,30,26,Hebrew,Main,Q,prose,TNH >T NCJ W >T JLDJ
+NTN,430791,Genesis,30,28,Hebrew,Main,Q,prose,W >TNH
+NTN,430803,Genesis,30,31,Hebrew,Main,Q,prose,MH >TN LK
+NTN,430805,Genesis,30,31,Hebrew,Main,Q,prose,L> TTN LJ M>WMH
+NTN,430823,Genesis,30,35,Hebrew,Main,N,prose,W JTN B JD BNJW
+NTN,430841,Genesis,30,40,Hebrew,Main,N,prose,W JTN PNJ H Y>N >L <QD W KL XWM B Y>N LBN
+NTN,430875,Genesis,31,7,Hebrew,Main,Q,prose,W L> NTNW >LHJM
+NTN,430884,Genesis,31,9,Hebrew,Main,N,prose,W JTN LJ
+NTN,431142,Genesis,32,17,Hebrew,Main,N,prose,W JTN B JD <BDJW <DR <DR L BDW
+NTN,431335,Genesis,34,8,Hebrew,Main,Q,prose,TNW N> >TH LW L >CH
+NTN,431337,Genesis,34,9,Hebrew,Main,Q,prose,BNTJKM TTNW LNW
+NTN,431346,Genesis,34,11,Hebrew,Main,Q,prose,W >TN
+NTN,431349,Genesis,34,12,Hebrew,Main,Q,prose,W >TNH
+NTN,431351,Genesis,34,12,Hebrew,Main,Q,prose,W TNW LJ >T H N<R L >CH
+NTN,431358,Genesis,34,14,Hebrew,SubAdv,Q,prose,L TT >T >XTNW L >JC
+NTN,431364,Genesis,34,16,Hebrew,Main,Q,prose,W NTNW >T BNTJNW LKM
+NTN,431387,Genesis,34,21,Hebrew,Main,Q,prose,W >T BNTJNW NTN LHM
+NTN,431446,Genesis,35,4,Hebrew,Main,N,prose,W JTNW >L J<QB >T KL >LHJ H NKR W >T H NZMJM
+NTN,431481,Genesis,35,12,Hebrew,SubMod,Q,prose,>CR NTTJ L >BRHM W L JYXQ
+NTN,431482,Genesis,35,12,Hebrew,Main,Q,prose,LK >TNNH
+NTN,431483,Genesis,35,12,Hebrew,Main,Q,prose,W L ZR<K >XRJK >TN >T H >RY
+NTN,431837,Genesis,38,9,Hebrew,SubAdv,N,prose,L BLTJ NTN ZR< L >XJW
+NTN,431863,Genesis,38,14,Hebrew,SubAdv,N,prose,W HW> L> NTNH LW L >CH
+NTN,431874,Genesis,38,16,Hebrew,Main,Q,prose,MH TTN LJ
+NTN,431879,Genesis,38,17,Hebrew,Main,Q,prose,>M TTN <RBWN
+NTN,431883,Genesis,38,18,Hebrew,SubMod,Q,prose,>CR >TN LK
+NTN,431887,Genesis,38,18,Hebrew,Main,N,prose,W JTN LH
+NTN,431932,Genesis,38,26,Hebrew,SubAdv,Q,prose,KJ <L KN L> NTTJH L CLH BNJ
+NTN,431940,Genesis,38,28,Hebrew,Main,N,prose,W JTN JD
+NTN,431967,Genesis,39,4,Hebrew,Main,N,prose,W KL NTN B JDW
+NTN,431989,Genesis,39,8,Hebrew,Main,Q,prose,W KL NTN B JDJ
+NTN,432051,Genesis,39,20,Hebrew,Main,N,prose,W JTNHW >L BJT H SHR MQWM
+NTN,432056,Genesis,39,21,Hebrew,Main,N,prose,W JTN XNW B <JNJ FR BJT H SHR
+NTN,432057,Genesis,39,22,Hebrew,Main,N,prose,W JTN FR BJT H SHR B JD JWSP >T KL H >SJRM
+NTN,432068,Genesis,40,3,Hebrew,Main,N,prose,W JTN >TM B MCMR BJT FR H VBXJM >L BJT H SHR MQWM
+NTN,432102,Genesis,40,11,Hebrew,Main,N,prose,W >TN >T H KWS <L KP PR<H
+NTN,432109,Genesis,40,13,Hebrew,Main,Q,prose,W NTT KWS PR<H B JDW K  MCPV H R>CWN
+NTN,432140,Genesis,40,21,Hebrew,Main,N,prose,W JTN H KWS <L KP PR<H
+NTN,432172,Genesis,41,10,Hebrew,Main,N,prose,W JTN >TJ B MCMR BJT FR H VBXJM >TJ W >T FR H >PJM
+NTN,432278,Genesis,41,41,Hebrew,Main,Q,prose,NTTJ >TK <L KL >RY MYRJM
+NTN,432280,Genesis,41,42,Hebrew,Main,N,prose,W JTN >TH <L JD JWSP
+NTN,432287,Genesis,41,43,Hebrew,Main,N,prose,W NTWN >TW <L KL >RY MYRJM
+NTN,432292,Genesis,41,45,Hebrew,Main,N,prose,W JTN LW >T >SNT BT PWVJ_PR< KHN >N L >CH
+NTN,432301,Genesis,41,48,Hebrew,Main,N,prose,W JTN >KL B  <RJM
+NTN,432302,Genesis,41,48,Hebrew,Main,N,prose,>KL FDH H <JR NTN B TWKH
+NTN,432459,Genesis,42,25,Hebrew,Main,N,prose,W L TT LHM YDH L  DRK
+NTN,432464,Genesis,42,27,Hebrew,SubAdv,N,prose,L TT MSPW> L XMRW B  MLWN
+NTN,432480,Genesis,42,30,Hebrew,Main,N,prose,W JTN >TNW
+NTN,432501,Genesis,42,34,Hebrew,Main,Q,prose,>T >XJKM >TN LKM
+NTN,432520,Genesis,42,37,Hebrew,Main,Q,prose,TNH >TW <L JDJ
+NTN,432589,Genesis,43,14,Hebrew,Main,Q,prose,W >L CDJ JTN LKM RXMJM L PNJ H >JC
+NTN,432638,Genesis,43,23,Hebrew,Main,Q,prose,>LHJKM W >LHJ >BJKM NTN LKM MVMWN B >MTXTJKM
+NTN,432642,Genesis,43,24,Hebrew,Main,N,prose,W JTN MJM
+NTN,432644,Genesis,43,24,Hebrew,Main,N,prose,W JTN MSPW> L XMRJHM
+NTN,432862,Genesis,45,2,Hebrew,Main,N,prose,W JTN >T QLW B BKJ
+NTN,432932,Genesis,45,18,Hebrew,Main,Q,prose,W >TNH LKM >T VWB >RY MYRJM
+NTN,432943,Genesis,45,21,Hebrew,Main,N,prose,W JTN LHM JWSP <GLWT <L PJ PR<H
+NTN,432944,Genesis,45,21,Hebrew,Main,N,prose,W JTN LHM YDH L  DRK
+NTN,432945,Genesis,45,22,Hebrew,Main,N,prose,L KLM NTN L  >JC XLPWT FMLT
+NTN,432946,Genesis,45,22,Hebrew,Main,N,prose,W L BNJMN NTN CLC M>WT KSP W XMC XLPT FMLT
+NTN,433019,Genesis,46,18,Hebrew,SubMod,N,prose,>CR NTN LBN L L>H BTW
+NTN,433032,Genesis,46,25,Hebrew,SubMod,N,prose,>CR NTN LBN L RXL BTW
+NTN,433118,Genesis,47,11,Hebrew,Main,N,prose,W JTN LHM >XZH B >RY MYRJM B MJVB H >RY B >RY R<MSS
+NTN,433136,Genesis,47,16,Hebrew,Main,Q,prose,W >TNH LKM B MQNJKM
+NTN,433139,Genesis,47,17,Hebrew,Main,N,prose,W JTN LHM JWSP LXM B  SWSJM W B MQNH H Y>N W B MQNH H BQR W B  XMRJM
+NTN,433152,Genesis,47,19,Hebrew,Main,Q,prose,W TN ZR<
+NTN,433165,Genesis,47,22,Hebrew,SubMod,N,prose,>CR NTN LHM PR<H
+NTN,433172,Genesis,47,24,Hebrew,Main,Q,prose,W NTTM XMJCJT L PR<H
+NTN,433221,Genesis,48,4,Hebrew,Main,Q,prose,W NTTJK L QHL <MJM
+NTN,433222,Genesis,48,4,Hebrew,Main,Q,prose,W NTTJ >T H >RY H Z>T L ZR<K >XRJK >XZT <WLM
+NTN,433243,Genesis,48,9,Hebrew,SubMod,Q,prose,>CR NTN LJ >LHJM B ZH
+NTN,433309,Genesis,48,22,Hebrew,Main,Q,prose,W >NJ NTTJ LK CKM >XD <L >XJK
+NTN,433387,Genesis,49,20,Hebrew,Main,Q,prose,W HW> JTN M<DNJ MLK
+NTN,433389,Genesis,49,21,Hebrew,SubMod,Q,prose,H NTN >MRJ CPR
+NTN,433650,Exodus,2,9,Hebrew,Main,Q,prose,W >NJ >TN >T FKRK
+NTN,433715,Exodus,2,21,Hebrew,Main,N,prose,W JTN >T YPRH BTW L MCH
+NTN,433824,Exodus,3,19,Hebrew,SubArg,Q,prose,KJ L> JTN >TKM MLK MYRJM
+NTN,433831,Exodus,3,21,Hebrew,Main,Q,prose,W NTTJ >T XN H <M H ZH B <JNJ MYRJM
+NTN,434020,Exodus,5,7,Hebrew,SubAdv,Q,prose,L TT TBN L  <M
+NTN,434040,Exodus,5,10,Hebrew,Main,Q,prose,>JNNJ NTN LKM TBN
+NTN,434060,Exodus,5,16,Hebrew,Main,Q,prose,TBN >JN NTN L <BDJK
+NTN,434074,Exodus,5,18,Hebrew,Main,Q,prose,W TBN L> JNTN LKM
+NTN,434075,Exodus,5,18,Hebrew,Main,Q,prose,W TKN LBNJM TTNW
+NTN,434087,Exodus,5,21,Hebrew,SubAdv,Q,prose,L TT XRB B JDM
+NTN,434110,Exodus,6,4,Hebrew,SubAdv,N,prose,L TT LHM >T >RY KN<N >T >RY MGRJHM
+NTN,434128,Exodus,6,8,Hebrew,SubAdv,Q,prose,L TT >TH L >BRHM L JYXQ W L J<QB
+NTN,434129,Exodus,6,8,Hebrew,Main,Q,prose,W NTTJ >TH LKM MWRCH
+NTN,434191,Exodus,7,1,Hebrew,Main,Q,prose,NTTJK >LHJM L PR<H
+NTN,434200,Exodus,7,4,Hebrew,Main,Q,prose,W NTTJ >T JDJ B MYRJM
+NTN,434216,Exodus,7,9,Hebrew,Main,Q,prose,TNW LKM MWPT
+NTN,434512,Exodus,9,23,Hebrew,Main,N,prose,W JHWH NTN QLT W BRD
+NTN,434676,Exodus,10,25,Hebrew,Main,Q,prose,GM >TH TTN B JDNW ZBXJM W <LWT
+NTN,434708,Exodus,11,3,Hebrew,Main,N,prose,W JTN JHWH >T XN H <M B <JNJ MYRJM
+NTN,434756,Exodus,12,7,Hebrew,Main,Q,prose,W NTNW <L CTJ H MZWZT W <L H MCQWP <L H BTJM
+NTN,434821,Exodus,12,23,Hebrew,Main,Q,prose,W L> JTN H MCXJT
+NTN,434827,Exodus,12,25,Hebrew,SubMod,Q,prose,>CR JTN JHWH LKM
+NTN,434874,Exodus,12,36,Hebrew,Main,N,prose,W JHWH NTN >T XN H <M B <JNJ MYRJM
+NTN,434935,Exodus,13,5,Hebrew,SubAdv,Q,prose,L TT LK
+NTN,434953,Exodus,13,11,Hebrew,Main,Q,prose,W NTNH LK
+NTN,435242,Exodus,16,3,Hebrew,Main,Q,prose,MJ JTN
+NTN,435271,Exodus,16,8,Hebrew,Main,Q,prose,B TT JHWH LKM B  <RB BFR
+NTN,435315,Exodus,16,15,Hebrew,SubMod,Q,prose,>CR NTN JHWH LKM L >KLH
+NTN,435378,Exodus,16,29,Hebrew,SubArg,Q,prose,KJ JHWH NTN LKM H CBT
+NTN,435379,Exodus,16,29,Hebrew,Main,Q,prose,<L KN HW> NTN LKM B  JWM H CCJ LXM JWMJM
+NTN,435396,Exodus,16,33,Hebrew,Main,Q,prose,W TN CMH ML> H <MR MN
+NTN,435412,Exodus,17,2,Hebrew,Main,Q,prose,TNW LNW MJM
+NTN,435579,Exodus,18,25,Hebrew,Main,N,prose,W JTN >TM R>CJM <L H <M FRJ >LPJM FRJ M>WT FRJ XMCJM W FRJ <FRT
+NTN,435729,Exodus,20,12,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK
+NTN,435782,Exodus,21,4,Hebrew,SubAdv,Q,prose,>M >DNJW JTN LW >CH
+NTN,435836,Exodus,21,19,Hebrew,Main,Q,prose,RQ CBTW JTN
+NTN,435850,Exodus,21,22,Hebrew,Main,Q,prose,W NTN B PLLJM
+NTN,435852,Exodus,21,23,Hebrew,Main,Q,prose,W NTTH NPC TXT NPC
+NTN,435877,Exodus,21,30,Hebrew,Main,Q,prose,W NTN PDJN NPCW K KL
+NTN,435883,Exodus,21,32,Hebrew,Main,Q,prose,KSP CLCJM CQLJM JTN L >DNJW
+NTN,435927,Exodus,22,6,Hebrew,SubAdv,D,prose,KJ JTN >JC >L R<HW KSP >W KLJM
+NTN,435940,Exodus,22,9,Hebrew,SubAdv,D,prose,KJ JTN >JC >L R<HW XMWR >W CWR >W FH W KL BHMH
+NTN,435969,Exodus,22,16,Hebrew,SubAdv,D,prose,L TTH LW
+NTN,436004,Exodus,22,28,Hebrew,Main,D,prose,BKWR BNJK TTN LJ
+NTN,436007,Exodus,22,29,Hebrew,Main,D,prose,B  JWM H CMJNJ TTNW LJ
+NTN,436099,Exodus,23,27,Hebrew,Main,Q,prose,W NTTJ >T KL >JBJK >LJK <RP
+NTN,436109,Exodus,23,31,Hebrew,SubAdv,Q,prose,KJ >TN B JDKM >T JCBJ H >RY
+NTN,436160,Exodus,24,12,Hebrew,Main,Q,prose,W >TNH LK >T LXT H >BN W H TWRH W H MYWH
+NTN,436207,Exodus,25,12,Hebrew,Main,Q,prose,W NTTH <L >RB< P<MTJW
+NTN,436216,Exodus,25,16,Hebrew,Main,Q,prose,W NTT >L H >RN >T H <DT
+NTN,436217,Exodus,25,16,Hebrew,SubMod,Q,prose,>CR >TN >LJK
+NTN,436231,Exodus,25,21,Hebrew,Main,Q,prose,W NTT >T H KPRT <L H >RN M L M<LH
+NTN,436232,Exodus,25,21,Hebrew,Main,Q,prose,W >L H >RN TTN >T H <DT
+NTN,436233,Exodus,25,21,Hebrew,SubMod,Q,prose,>CR >TN >LJK
+NTN,436247,Exodus,25,26,Hebrew,Main,Q,prose,W NTT >T H VB<T <L >RB< H P>T
+NTN,436257,Exodus,25,30,Hebrew,Main,Q,prose,W NTT <L H CLXN LXM PNJM L PNJ TMJD
+NTN,436369,Exodus,26,32,Hebrew,Main,Q,prose,W NTTH >TH <L >RB<H <MWDJ CVJM <L >RB<H >DNJ KSP
+NTN,436372,Exodus,26,33,Hebrew,Main,Q,prose,W NTTH >T H PRKT TXT H QRSJM
+NTN,436375,Exodus,26,34,Hebrew,Main,Q,prose,W NTT >T H KPRT <L >RWN H <DT B QDC H QDCJM
+NTN,436378,Exodus,26,35,Hebrew,Main,Q,prose,W H CLXN TTN <L YL< YPWN
+NTN,436399,Exodus,27,5,Hebrew,Main,Q,prose,W NTTH >TH TXT KRKB H MZBX M L MVH
+NTN,436482,Exodus,28,14,Hebrew,Main,Q,prose,W NTTH >T CRCRT H <BTT <L H MCBYT
+NTN,436502,Exodus,28,23,Hebrew,Main,Q,prose,W NTT >T CTJ H VB<WT <L CNJ QYWT H XCN
+NTN,436503,Exodus,28,24,Hebrew,Main,Q,prose,W NTTH >T CTJ <BTT H ZHB <L CTJ H VB<T >L QYWT H XCN
+NTN,436504,Exodus,28,25,Hebrew,Main,Q,prose,W >T CTJ QYWT CTJ H <BTT TTN <L CTJ H MCBYWT
+NTN,436505,Exodus,28,25,Hebrew,Main,Q,prose,W NTTH <L KTPWT H >PD >L MWL PNJW
+NTN,436510,Exodus,28,27,Hebrew,Main,Q,prose,W NTTH >TM <L CTJ KTPWT H >PWD M L MVH M MWL PNJW L <MT MXBRTW M M<L L XCB H >PWD
+NTN,436516,Exodus,28,30,Hebrew,Main,Q,prose,W NTT >L XCN H MCPV >T H >WRJM W >T H TMJM
+NTN,436575,Exodus,29,3,Hebrew,Main,Q,prose,W NTT >WTM <L SL >XD
+NTN,436584,Exodus,29,6,Hebrew,Main,Q,prose,W NTT >T NZR H QDC <L H MYNPT
+NTN,436598,Exodus,29,12,Hebrew,Main,Q,prose,W NTTH <L QRNT H MZBX B >YB<K
+NTN,436613,Exodus,29,17,Hebrew,Main,Q,prose,W NTT <L NTXJW W <L R>CW
+NTN,436621,Exodus,29,20,Hebrew,Main,Q,prose,W NTTH <L TNWK >ZN >HRN W <L TNWK >ZN BNJW H JMNJT W <L BHN JDM H JMNJT W <L BHN RGLM H JMNJT
+NTN,436724,Exodus,30,6,Hebrew,Main,Q,prose,W NTTH >TW L PNJ H PRKT L PNJ H KPRT
+NTN,436743,Exodus,30,12,Hebrew,Main,Q,prose,W NTNW L JHWH
+NTN,436748,Exodus,30,13,Hebrew,Main,Q,prose,ZH JTNW KL MXYJT H CQL B CQL H QDC
+NTN,436752,Exodus,30,14,Hebrew,Main,Q,prose,KL M BN <FRJM CNH W M<LH JTN TRWMT JHWH
+NTN,436756,Exodus,30,15,Hebrew,SubAdv,Q,prose,L TT >T TRWMT JHWH
+NTN,436759,Exodus,30,16,Hebrew,Main,Q,prose,W NTT >TW <L <BDT >HL MW<D
+NTN,436767,Exodus,30,18,Hebrew,Main,Q,prose,W NTT >TW BJN >HL MW<D W BJN H MZBX
+NTN,436768,Exodus,30,18,Hebrew,Main,Q,prose,W NTT CMH MJM
+NTN,436804,Exodus,30,33,Hebrew,SubAdv,Q,prose,W >CR JTN MMNW <L ZR
+NTN,436811,Exodus,30,36,Hebrew,Main,Q,prose,W NTTH MMNH L PNJ H <DT B >HL MW<D
+NTN,436834,Exodus,31,6,Hebrew,Main,Q,prose,HNH NTTJ >TW >T >HLJ>B BN >XJSMK L MVH DN
+NTN,436835,Exodus,31,6,Hebrew,Main,Q,prose,W B LB KL XKM LB NTTJ XKMH
+NTN,436873,Exodus,31,18,Hebrew,Main,N,prose,W JTN >L MCH CNJ LXT H <DT LXT >BN
+NTN,436955,Exodus,32,13,Hebrew,Main,Q,prose,W KL H >RY H Z>T >TN L ZR<KM
+NTN,437008,Exodus,32,24,Hebrew,Main,N,prose,W JTNW LJ
+NTN,437034,Exodus,32,29,Hebrew,Main,Q,prose,W L TT <LJKM H JWM BRKH
+NTN,437071,Exodus,33,1,Hebrew,Main,Q,prose,L ZR<K >TNNH
+NTN,437300,Exodus,34,33,Hebrew,Main,N,prose,W JTN <L PNJW MSWH
+NTN,437387,Exodus,35,34,Hebrew,Main,N,prose,W NTN B LBW HW> W >HLJ>B BN >XJSMK L MVH DN
+NTN,437392,Exodus,36,1,Hebrew,SubMod,?,prose,>CR NTN JHWH XKMH W TBWNH B HMH
+NTN,437397,Exodus,36,2,Hebrew,SubMod,N,prose,>CR NTN JHWH XKMH B LBW
+NTN,437533,Exodus,37,13,Hebrew,Main,N,prose,W JTN >T H VB<T <L >RB< H P>T
+NTN,437707,Exodus,39,16,Hebrew,Main,N,prose,W JTNW >T CTJ H VB<T <L CNJ QYWT H XCN
+NTN,437708,Exodus,39,17,Hebrew,Main,N,prose,W JTNW CTJ H <BTT H ZHB <L CTJ H VB<T <L QYWT H XCN
+NTN,437709,Exodus,39,18,Hebrew,Main,N,prose,W >T CTJ QYWT CTJ H <BTT NTNW <L CTJ H MCBYT
+NTN,437710,Exodus,39,18,Hebrew,Main,N,prose,W JTNM <L KTPT H >PD >L MWL PNJW
+NTN,437715,Exodus,39,20,Hebrew,Main,N,prose,W JTNM <L CTJ KTPT H >PD M L MVH M MWL PNJW L <MT MXBRTW M M<L L XCB H >PD
+NTN,437727,Exodus,39,25,Hebrew,Main,N,prose,W JTNW >T H P<MNJM B TWK H RMNJM <L CWLJ H M<JL SBJB B TWK H RMNJM
+NTN,437740,Exodus,39,31,Hebrew,Main,N,prose,W JTNW <LJW PTJL TKLT
+NTN,437741,Exodus,39,31,Hebrew,SubAdv,N,prose,L TT <L H MYNPT M L M<LH
+NTN,437777,Exodus,40,5,Hebrew,Main,Q,prose,W NTTH >T MZBX H ZHB L QVRT L PNJ >RWN H <DT
+NTN,437779,Exodus,40,6,Hebrew,Main,Q,prose,W NTTH >T MZBX H <LH L PNJ PTX MCKN >HL MW<D
+NTN,437780,Exodus,40,7,Hebrew,Main,Q,prose,W NTT >T H KJR BJN >HL MW<D W BJN H MZBX
+NTN,437781,Exodus,40,7,Hebrew,Main,Q,prose,W NTT CM MJM
+NTN,437783,Exodus,40,8,Hebrew,Main,Q,prose,W NTT >T MSK C<R H XYR
+NTN,437814,Exodus,40,18,Hebrew,Main,N,prose,W JTN >T >DNJW
+NTN,437816,Exodus,40,18,Hebrew,Main,N,prose,W JTN >T BRJXJW
+NTN,437822,Exodus,40,20,Hebrew,Main,N,prose,W JTN >T H <DT >L H >RN
+NTN,437824,Exodus,40,20,Hebrew,Main,N,prose,W JTN >T H KPRT <L H >RN M L M<LH
+NTN,437829,Exodus,40,22,Hebrew,Main,N,prose,W JTN >T H CLXN B >HL MW<D <L JRK H MCKN YPNH M XWY L  PRKT
+NTN,437843,Exodus,40,30,Hebrew,Main,N,prose,W JTN CMH MJM
+NTN,437851,Exodus,40,33,Hebrew,Main,N,prose,W JTN >T MSK C<R H XYR
+NTN,437887,Leviticus,1,7,Hebrew,Main,Q,prose,W NTNW BNJ >HRN H KHN >C <L H MZBX
+NTN,437928,Leviticus,2,1,Hebrew,Main,?,prose,W NTN <LJH LBNH
+NTN,437972,Leviticus,2,15,Hebrew,Main,Q,prose,W NTT <LJH CMN
+NTN,438052,Leviticus,4,7,Hebrew,Main,Q,prose,W NTN H KHN MN H DM <L QRNWT MZBX QVRT H SMJM L PNJ JHWH
+NTN,438084,Leviticus,4,18,Hebrew,Main,Q,prose,W MN H DM JTN <L QRNT H MZBX
+NTN,438112,Leviticus,4,25,Hebrew,Main,Q,prose,W NTN <L QRNT MZBX H <LH
+NTN,438128,Leviticus,4,30,Hebrew,Main,Q,prose,W NTN <L QRNT MZBX H <LH
+NTN,438141,Leviticus,4,34,Hebrew,Main,Q,prose,W NTN <L QRNT MZBX H <LH
+NTN,438206,Leviticus,5,11,Hebrew,Main,?,prose,W L> JTN <LJH LBNH
+NTN,438226,Leviticus,5,16,Hebrew,Main,Q,prose,W NTN >TW L  KHN
+NTN,438267,Leviticus,5,24,Hebrew,Main,Q,prose,JTNNW B JWM
+NTN,438310,Leviticus,6,10,Hebrew,Main,Q,prose,XLQM NTTJ >TH M >CJ
+NTN,438474,Leviticus,7,32,Hebrew,Main,Q,prose,W >T CWQ H JMJN TTNW TRWMH L  KHN M ZBXJ CLMJKM
+NTN,438479,Leviticus,7,34,Hebrew,Main,N,prose,W >TN >TM L >HRN H KHN W L BNJW L XQ <WLM M >T BNJ JFR>L
+NTN,438484,Leviticus,7,36,Hebrew,SubArg,N,prose,L TT LHM
+NTN,438505,Leviticus,8,7,Hebrew,Main,N,prose,W JTN <LJW >T H KTNT
+NTN,438508,Leviticus,8,7,Hebrew,Main,N,prose,W JTN <LJW >T H >PD
+NTN,438512,Leviticus,8,8,Hebrew,Main,N,prose,W JTN >L H XCN >T H >WRJM W >T H TMJM
+NTN,438535,Leviticus,8,15,Hebrew,Main,N,prose,W JTN <L QRNWT H MZBX SBJB B >YB<W
+NTN,438560,Leviticus,8,23,Hebrew,Main,N,prose,W JTN <L TNWK >ZN >HRN H JMNJT W <L BHN JDW H JMNJT W <L BHN RGLW H JMNJT
+NTN,438562,Leviticus,8,24,Hebrew,Main,N,prose,W JTN MCH MN H DM <L TNWK >ZNM H JMNJT W <L BHN JDM H JMNJT W <L BHN RGLM H JMNJT
+NTN,438569,Leviticus,8,27,Hebrew,Main,N,prose,W JTN >T H KL <L KPJ >HRN W <L KPJ BNJW
+NTN,438639,Leviticus,9,9,Hebrew,Main,N,prose,W JTN <L QRNWT H MZBX
+NTN,438684,Leviticus,10,1,Hebrew,Main,N,prose,W JTNW BHN >C
+NTN,438736,Leviticus,10,14,Hebrew,Main,Q,prose,NTNW M ZBXJ CLMJ BNJ JFR>L
+NTN,438747,Leviticus,10,17,Hebrew,Main,Q,prose,W >TH NTN LKM
+NTN,438888,Leviticus,11,38,Hebrew,SubAdv,Q,prose,W KJ JTN MJM <L ZR<
+NTN,439256,Leviticus,14,14,Hebrew,Main,Q,prose,W NTN H KHN <L TNWK >ZN H MVHR H JMNJT W <L BHN JDW H JMNJT W <L BHN RGLW H JMNJT
+NTN,439262,Leviticus,14,17,Hebrew,Main,Q,prose,W M JTR H CMN JTN H KHN <L TNWK >ZN H MVHR H JMNJT W <L BHN JDW H JMNJT W <L BHN RGLW H JMNJT <L DM H >CM
+NTN,439264,Leviticus,14,18,Hebrew,Main,Q,prose,W JTN <L R>C H MVHR
+NTN,439291,Leviticus,14,25,Hebrew,Main,Q,prose,W NTN <L TNWK >ZN H MVHR H JMNJT W <L BHN JDW H JMNJT W <L BHN RGLW H JMNJT
+NTN,439295,Leviticus,14,28,Hebrew,Main,Q,prose,W NTN H KHN MN H CMN <L TNWK >ZN H MVHR H JMNJT W <L BHN JDW H JMNJT W <L BHN RGLW H JMNJT <L MQWM DM H >CM
+NTN,439297,Leviticus,14,29,Hebrew,Main,Q,prose,W JTN <L R>C H MVHR
+NTN,439313,Leviticus,14,34,Hebrew,SubMod,Q,prose,>CR >NJ NTN LKM L >XZH
+NTN,439314,Leviticus,14,34,Hebrew,Main,Q,prose,W NTTJ NG< YR<T B BJT >RY >XZTKM
+NTN,439444,Leviticus,15,14,Hebrew,Main,Q,prose,W NTNM >L H KHN
+NTN,439548,Leviticus,16,8,Hebrew,Main,Q,prose,W NTN >HRN <L CNJ H F<JRM GWRLWT
+NTN,439566,Leviticus,16,13,Hebrew,Main,Q,prose,W NTN >T H QVRT <L H >C L PNJ JHWH
+NTN,439592,Leviticus,16,18,Hebrew,Main,Q,prose,W NTN <L QRNWT H MZBX SBJB
+NTN,439601,Leviticus,16,21,Hebrew,Main,Q,prose,W NTN >TM <L R>C H F<JR
+NTN,439684,Leviticus,17,10,Hebrew,Main,Q,prose,W NTTJ PNJ B  NPC
+NTN,439689,Leviticus,17,11,Hebrew,Main,Q,prose,W >NJ NTTJW LKM <L H MZBX
+NTN,439778,Leviticus,18,20,Hebrew,Main,Q,prose,W >L >CT <MJTK L> TTN CKBTK L ZR<
+NTN,439780,Leviticus,18,21,Hebrew,Main,Q,prose,W M ZR<K L> TTN
+NTN,439786,Leviticus,18,23,Hebrew,Main,Q,prose,W B KL BHMH L> TTN CKBTK
+NTN,439861,Leviticus,19,14,Hebrew,Main,Q,prose,W L PNJ <WR L> TTN MKCL
+NTN,439887,Leviticus,19,20,Hebrew,Main,Q,prose,>W XPCH L> NTN LH
+NTN,439911,Leviticus,19,28,Hebrew,Main,Q,prose,W FRV L NPC L> TTNW B BFRKM
+NTN,439912,Leviticus,19,28,Hebrew,Main,Q,prose,W KTBT Q<Q< L> TTNW BKM
+NTN,439948,Leviticus,20,2,Hebrew,SubMod,Q,prose,>CR JTN M ZR<W L  MLK
+NTN,439950,Leviticus,20,3,Hebrew,Main,Q,prose,W >NJ >TN >T PNJ B  >JC H HW>
+NTN,439952,Leviticus,20,3,Hebrew,SubAdv,Q,prose,KJ M ZR<W NTN L  MLK
+NTN,439956,Leviticus,20,4,Hebrew,SubAdv,Q,prose,B TTW M ZR<W L  MLK
+NTN,439965,Leviticus,20,6,Hebrew,Main,Q,prose,W NTTJ >T PNJ B  NPC H HW>
+NTN,440002,Leviticus,20,15,Hebrew,SubMod,Q,prose,>CR JTN CKBTW B BHMH
+NTN,440048,Leviticus,20,24,Hebrew,Main,Q,prose,W >NJ >TNNH LKM
+NTN,440209,Leviticus,22,14,Hebrew,SubAdv,Q,prose,W NTN L  KHN >T H QDC
+NTN,440235,Leviticus,22,22,Hebrew,Main,Q,prose,W >CH L> TTNW MHM <L H MZBX L JHWH
+NTN,440295,Leviticus,23,10,Hebrew,SubMod,Q,prose,>CR >NJ NTN LKM
+NTN,440378,Leviticus,23,38,Hebrew,SubMod,Q,prose,>CR TTNW L JHWH
+NTN,440408,Leviticus,24,7,Hebrew,Main,Q,prose,W NTT <L H M<RKT LBNH ZKH
+NTN,440448,Leviticus,24,19,Hebrew,SubAdv,Q,prose,KJ JTN MWM B <MJTW
+NTN,440454,Leviticus,24,20,Hebrew,SubAdv,Q,prose,K >CR JTN MWM B  >DM
+NTN,440455,Leviticus,24,20,Hebrew,Main,Q,prose,KN JNTN BW
+NTN,440473,Leviticus,25,2,Hebrew,SubMod,Q,prose,>CR >NJ NTN LKM
+NTN,440527,Leviticus,25,19,Hebrew,Main,Q,prose,W NTNH H >RY PRJH
+NTN,440543,Leviticus,25,24,Hebrew,Main,Q,prose,W B KL >RY >XZTKM G>LH TTNW L  >RY
+NTN,440595,Leviticus,25,37,Hebrew,Main,Q,prose,>T KSPK L> TTN LW B NCK
+NTN,440596,Leviticus,25,37,Hebrew,Main,Q,prose,W B MRBJT L> TTN >KLK
+NTN,440599,Leviticus,25,38,Hebrew,SubAdv,Q,prose,L TT LKM >T >RY KN<N
+NTN,440660,Leviticus,26,1,Hebrew,Main,Q,prose,W >BN MFKJT L> TTNW B >RYKM
+NTN,440669,Leviticus,26,4,Hebrew,Main,Q,prose,W NTTJ GCMJKM B <TM
+NTN,440670,Leviticus,26,4,Hebrew,Main,Q,prose,W NTNH H >RY JBWLH
+NTN,440671,Leviticus,26,4,Hebrew,Main,Q,prose,W <Y H FDH JTN PRJW
+NTN,440676,Leviticus,26,6,Hebrew,Main,Q,prose,W NTTJ CLWM B  >RY
+NTN,440692,Leviticus,26,11,Hebrew,Main,Q,prose,W NTTJ MCKNJ B TWKKM
+NTN,440714,Leviticus,26,17,Hebrew,Main,Q,prose,W NTTJ PNJ BKM
+NTN,440724,Leviticus,26,19,Hebrew,Main,Q,prose,W NTTJ >T CMJKM K  BRZL
+NTN,440727,Leviticus,26,20,Hebrew,Main,Q,prose,W L> TTN >RYKM >T JBWLH
+NTN,440728,Leviticus,26,20,Hebrew,Main,Q,prose,W <Y H >RY L> JTN PRJW
+NTN,440746,Leviticus,26,25,Hebrew,Main,Q,prose,W NTTM B JD >WJB
+NTN,440760,Leviticus,26,30,Hebrew,Main,Q,prose,W NTTJ >T PGRJKM <L PGRJ GLWLJKM
+NTN,440762,Leviticus,26,31,Hebrew,Main,Q,prose,W NTTJ >T <RJKM XRBH
+NTN,440826,Leviticus,26,46,Hebrew,SubMod,D,prose,>CR NTN JHWH BJNW W BJN BNJ JFR>L B HR SJNJ B JD MCH
+NTN,440856,Leviticus,27,9,Hebrew,SubMod,Q,prose,>CR JTN MMNW L JHWH
+NTN,440900,Leviticus,27,23,Hebrew,Main,Q,prose,W NTN >T H <RKK B  JWM H HW>
+NTN,441130,Numbers,3,9,Hebrew,Main,Q,prose,W NTTH >T H LWJM L >HRN W L BNJW
+NTN,441131,Numbers,3,9,Hebrew,Main,Q,prose,NTWNM
+NTN,441132,Numbers,3,9,Hebrew,Main,Q,prose,NTWNM HMH LW M >T BNJ JFR>L
+NTN,441217,Numbers,3,48,Hebrew,Main,Q,prose,W NTTH H KSP L >HRN W L BNJW PDWJJ
+NTN,441222,Numbers,3,51,Hebrew,Main,N,prose,W JTN MCH >T KSP H PDJM L >HRN W L BNJW <L PJ JHWH
+NTN,441235,Numbers,4,6,Hebrew,Main,Q,prose,W NTNW <LJW KSWJ <WR TXC
+NTN,441239,Numbers,4,7,Hebrew,Main,Q,prose,W NTNW <LJW >T H Q<RT W >T H KPT W >T H MNQJT W >T QFWT H NSK
+NTN,441247,Numbers,4,10,Hebrew,Main,Q,prose,W NTNW >TH W >T KL KLJH >L MKSH <WR TXC
+NTN,441248,Numbers,4,10,Hebrew,Main,Q,prose,W NTNW <L H MWV
+NTN,441254,Numbers,4,12,Hebrew,Main,Q,prose,W NTNW >L BGD TKLT
+NTN,441256,Numbers,4,12,Hebrew,Main,Q,prose,W NTNW <L H MWV
+NTN,441259,Numbers,4,14,Hebrew,Main,Q,prose,W NTNW <LJW >T KL KLJW >T H MXTT >T H MZLGT W >T H J<JM W >T H MZRQT KL KLJ H MZBX
+NTN,441372,Numbers,5,7,Hebrew,Main,Q,prose,W NTN
+NTN,441385,Numbers,5,10,Hebrew,SubArg,Q,prose,>CR JTN L  KHN
+NTN,441409,Numbers,5,15,Hebrew,Main,Q,prose,W L> JTN <LJW LBNH
+NTN,441418,Numbers,5,17,Hebrew,Main,Q,prose,W NTN >L H MJM
+NTN,441421,Numbers,5,18,Hebrew,Main,Q,prose,W NTN <L KPJH >T MNXT H ZKRWN
+NTN,441432,Numbers,5,20,Hebrew,SubAdv,N,prose,W JTN >JC BK >T CKBTW M BL<DJ >JCK
+NTN,441435,Numbers,5,21,Hebrew,Main,Q,prose,JTN JHWH >WTK L >LH W L CB<H B TWK <MK
+NTN,441436,Numbers,5,21,Hebrew,SubAdv,Q,prose,B TT JHWH >T JRKK NPLT
+NTN,441533,Numbers,6,18,Hebrew,Main,Q,prose,W NTN <L H >C
+NTN,441538,Numbers,6,19,Hebrew,Main,Q,prose,W NTN <L KPJ H NZJR
+NTN,441582,Numbers,7,5,Hebrew,Main,Q,prose,W NTTH >WTM >L H LWJM
+NTN,441585,Numbers,7,6,Hebrew,Main,N,prose,W JTN >WTM >L H LWJM
+NTN,441586,Numbers,7,7,Hebrew,Main,N,prose,>T CTJ H <GLT W >T >RB<T H BQR NTN L BNJ GRCWN K PJ <BDTM
+NTN,441587,Numbers,7,8,Hebrew,Main,N,prose,W >T >RB< H <GLT W >T CMNT H BQR NTN L BNJ MRRJ K PJ <BDTM B JD >JTMR BN >HRN H KHN
+NTN,441588,Numbers,7,9,Hebrew,Main,N,prose,W L BNJ QHT L> NTN
+NTN,441798,Numbers,8,16,Hebrew,SubAdv,Q,prose,KJ NTNJM
+NTN,441799,Numbers,8,16,Hebrew,Main,Q,prose,NTNJM HMH LJ M TWK BNJ JFR>L
+NTN,441805,Numbers,8,19,Hebrew,Main,N,prose,W >TNH >T H LWJM NTNJM L >HRN W L BNJW M TWK BNJ JFR>L
+NTN,441986,Numbers,10,29,Hebrew,Main,Q,prose,>TW >TN LKM
+NTN,442069,Numbers,11,13,Hebrew,SubAdv,Q,prose,L TT L KL H <M H ZH
+NTN,442072,Numbers,11,13,Hebrew,Main,Q,prose,TNH LNW BFR
+NTN,442101,Numbers,11,18,Hebrew,Main,Q,prose,W NTN JHWH LKM BFR
+NTN,442120,Numbers,11,21,Hebrew,Main,Q,prose,BFR >TN LHM
+NTN,442139,Numbers,11,25,Hebrew,Main,N,prose,W JTN <L CB<JM >JC H ZQNJM
+NTN,442161,Numbers,11,29,Hebrew,Main,Q,prose,W MJ JTN
+NTN,442163,Numbers,11,29,Hebrew,SubAdv,Q,prose,KJ JTN JHWH >T RWXW <LJHM
+NTN,442244,Numbers,13,2,Hebrew,SubMod,Q,prose,>CR >NJ NTN L BNJ JFR>L
+NTN,442353,Numbers,14,1,Hebrew,Main,N,prose,W JTNW >T QWLM
+NTN,442366,Numbers,14,4,Hebrew,Main,Q,prose,NTNH R>C
+NTN,442379,Numbers,14,8,Hebrew,Main,Q,prose,W NTNH LNW
+NTN,442526,Numbers,15,2,Hebrew,SubMod,Q,prose,>CR >NJ NTN LKM
+NTN,442573,Numbers,15,21,Hebrew,Main,Q,prose,M R>CJT <RSTJKM TTNW L JHWH TRWMH L DRTJKM
+NTN,442631,Numbers,15,38,Hebrew,Main,Q,prose,W NTNW <L YJYT H KNP PTJL TKLT
+NTN,442669,Numbers,16,7,Hebrew,Main,Q,prose,W TNW BHN >C
+NTN,442702,Numbers,16,14,Hebrew,Main,N,prose,W TTN LNW NXLT FDH W KRM
+NTN,442713,Numbers,16,17,Hebrew,Main,Q,prose,W NTTM <LJHM QVRT
+NTN,442717,Numbers,16,18,Hebrew,Main,N,prose,W JTNW <LJHM >C
+NTN,442820,Numbers,17,11,Hebrew,Main,Q,prose,W TN <LJH >C M <L H MZBX
+NTN,442830,Numbers,17,12,Hebrew,Main,N,prose,W JTN >T H QVRT
+NTN,442856,Numbers,17,21,Hebrew,Main,N,prose,W JTNW >LJW KL NFJ>JHM MVH L NFJ> >XD MVH L NFJ> >XD L BJT >BTM CNJM <FR MVWT
+NTN,442902,Numbers,18,6,Hebrew,SubAdv,Q,prose,LKM MTNH NTNJM L JHWH
+NTN,442906,Numbers,18,7,Hebrew,Main,Q,prose,<BDT MTNH >TN >T KHNTKM
+NTN,442911,Numbers,18,8,Hebrew,Main,Q,prose,HNH NTTJ LK >T MCMRT TRWMTJ
+NTN,442913,Numbers,18,8,Hebrew,Main,Q,prose,LK NTTJM L MCXH
+NTN,442924,Numbers,18,11,Hebrew,Main,Q,prose,LK NTTJM
+NTN,442928,Numbers,18,12,Hebrew,SubMod,Q,prose,>CR JTNW L JHWH
+NTN,442929,Numbers,18,12,Hebrew,Main,Q,prose,LK NTTJM
+NTN,442947,Numbers,18,19,Hebrew,Main,Q,prose,KL TRWMT H QDCJM NTTJ LK W L BNJK W L BNTJK >TK L XQ <WLM
+NTN,442955,Numbers,18,21,Hebrew,Main,Q,prose,HNH NTTJ KL M<FR B JFR>L L NXLH XLP <BDTM
+NTN,442964,Numbers,18,24,Hebrew,SubAdv,Q,prose,KJ >T M<FR BNJ JFR>L NTTJ L  LWJM L NXLH
+NTN,442973,Numbers,18,26,Hebrew,SubMod,Q,prose,>CR NTTJ LKM M >TM B NXLTKM
+NTN,442978,Numbers,18,28,Hebrew,Main,Q,prose,W NTTM MMNW >T TRWMT JHWH L >HRN H KHN
+NTN,442999,Numbers,19,3,Hebrew,Main,Q,prose,W NTTM >TH >L >L<ZR H KHN
+NTN,443052,Numbers,19,17,Hebrew,Main,Q,prose,W NTN <LJW MJM XJJM >L KLJ
+NTN,443104,Numbers,20,8,Hebrew,Main,Q,prose,W NTN MJMJW
+NTN,443122,Numbers,20,12,Hebrew,SubMod,Q,prose,>CR NTTJ LHM
+NTN,443151,Numbers,20,19,Hebrew,Main,Q,prose,W NTTJ MKRM
+NTN,443159,Numbers,20,21,Hebrew,SubArg,N,prose,NTN >T JFR>L
+NTN,443168,Numbers,20,24,Hebrew,SubMod,Q,prose,>CR NTTJ L BNJ JFR>L
+NTN,443193,Numbers,21,2,Hebrew,Main,Q,prose,>M NTN TTN >T H <M H ZH B JDJ
+NTN,443196,Numbers,21,3,Hebrew,Main,N,prose,W JTN >T H KN<NJ
+NTN,443253,Numbers,21,16,Hebrew,Main,Q,prose,W >TNH LHM MJM
+NTN,443274,Numbers,21,23,Hebrew,Main,N,prose,W L> NTN SJXN >T JFR>L
+NTN,443302,Numbers,21,29,Hebrew,Main,Q,prose,NTN BNJW PLJVM
+NTN,443320,Numbers,21,34,Hebrew,SubAdv,Q,prose,KJ B JDK NTTJ >TW W >T KL <MW W >T >RYW
+NTN,443387,Numbers,22,13,Hebrew,SubAdv,Q,prose,L TTJ
+NTN,443408,Numbers,22,18,Hebrew,Main,Q,prose,>M JTN LJ BLQ ML> BJTW KSP W ZHB
+NTN,443718,Numbers,24,13,Hebrew,Main,Q,prose,>M JTN LJ BLQ ML> BJTW KSP W ZHB
+NTN,443807,Numbers,25,12,Hebrew,Main,Q,prose,HNNJ NTN LW >T BRJTJ CLWM
+NTN,443950,Numbers,26,54,Hebrew,Main,Q,prose,>JC L PJ PQDJW JTN NXLTW
+NTN,443968,Numbers,26,62,Hebrew,SubAdv,N,prose,KJ L> NTN LHM NXLH B TWK BNJ JFR>L
+NTN,443989,Numbers,27,4,Hebrew,Main,Q,prose,TNH LNW >XZH B TWK >XJ >BJNW
+NTN,443994,Numbers,27,7,Hebrew,Main,Q,prose,NTN TTN LHM >XZT NXLH B TWK >XJ >BJHM
+NTN,444003,Numbers,27,9,Hebrew,Main,Q,prose,W NTTM >T NXLTW L >XJW
+NTN,444005,Numbers,27,10,Hebrew,Main,Q,prose,W NTTM >T NXLTW L >XJ >BJW
+NTN,444007,Numbers,27,11,Hebrew,Main,Q,prose,W NTTM >T NXLTW L C>RW
+NTN,444015,Numbers,27,12,Hebrew,SubMod,Q,prose,>CR NTTJ L BNJ JFR>L
+NTN,444037,Numbers,27,20,Hebrew,Main,Q,prose,W NTTH M HWDK <LJW
+NTN,444267,Numbers,31,3,Hebrew,SubAdv,Q,prose,L TT NQMT JHWH B MDJN
+NTN,444327,Numbers,31,29,Hebrew,Main,Q,prose,W NTTH L >L<ZR H KHN TRWMT JHWH
+NTN,444329,Numbers,31,30,Hebrew,Main,Q,prose,W NTTH >TM L  LWJM CMRJ MCMRT MCKN JHWH
+NTN,444348,Numbers,31,41,Hebrew,Main,N,prose,W JTN MCH >T MKS TRWMT JHWH L >L<ZR H KHN
+NTN,444358,Numbers,31,47,Hebrew,Main,N,prose,W JTN >TM L  LWJM CMRJ MCMRT MCKN JHWH
+NTN,444392,Numbers,32,5,Hebrew,Main,Q,prose,JTN >T H >RY H Z>T L <BDJK L >XZH
+NTN,444399,Numbers,32,7,Hebrew,SubMod,Q,prose,>CR NTN LHM JHWH
+NTN,444407,Numbers,32,9,Hebrew,SubMod,N,prose,>CR NTN LHM JHWH
+NTN,444468,Numbers,32,29,Hebrew,Main,Q,prose,W NTTM LHM >T >RY H GL<D L >XZH
+NTN,444477,Numbers,32,33,Hebrew,Main,N,prose,W JTN LHM MCH L BNJ GD W L BNJ R>WBN W L XYJ CBV MNCH BN JWSP >T MMLKT SJXN MLK H >MRJ W >T MMLKT <WG MLK H BCN H >RY L <RJH B GBLT <RJ H >RY SBJB
+NTN,444490,Numbers,32,40,Hebrew,Main,N,prose,W JTN MCH >T H GL<D L MKJR BN MNCH
+NTN,444619,Numbers,33,53,Hebrew,SubAdv,Q,prose,KJ LKM NTTJ >T H >RY
+NTN,444678,Numbers,34,13,Hebrew,SubAdv,Q,prose,L TT L TC<T H MVWT W XYJ H MVH
+NTN,444707,Numbers,35,2,Hebrew,Main,Q,prose,W NTNW L  LWJM M NXLT >XZTM <RJM
+NTN,444709,Numbers,35,2,Hebrew,Main,Q,prose,W MGRC L  <RJM SBJBTJHM TTNW L  LWJM
+NTN,444714,Numbers,35,4,Hebrew,SubMod,Q,prose,>CR TTNW L  LWJM
+NTN,444722,Numbers,35,6,Hebrew,SubMod,Q,prose,>CR TTNW L  LWJM
+NTN,444723,Numbers,35,6,Hebrew,SubMod,Q,prose,>CR TTNW
+NTN,444725,Numbers,35,6,Hebrew,Main,Q,prose,W <LJHM TTNW >RB<JM W CTJM <JR
+NTN,444727,Numbers,35,7,Hebrew,SubMod,Q,prose,>CR TTNW L  LWJM
+NTN,444729,Numbers,35,8,Hebrew,SubMod,Q,prose,>CR TTNW M >XZT BNJ JFR>L
+NTN,444732,Numbers,35,8,Hebrew,Main,Q,prose,>JC K PJ NXLTW JTN M <RJW L  LWJM
+NTN,444747,Numbers,35,13,Hebrew,SubMod,Q,prose,>CR TTNW
+NTN,444749,Numbers,35,14,Hebrew,Main,Q,prose,>T CLC H <RJM TTNW M <BR L  JRDN
+NTN,444750,Numbers,35,14,Hebrew,Main,Q,prose,W >T CLC H <RJM TTNW B >RY KN<N
+NTN,444832,Numbers,36,2,Hebrew,SubAdv,Q,prose,L TT >T H >RY B NXLH B GWRL L BNJ JFR>L
+NTN,444834,Numbers,36,2,Hebrew,SubAdv,Q,prose,L TT >T NXLT YLPXD >XJNW L BNTJW
+NTN,444890,Deuteronomy,1,8,Hebrew,Main,Q,prose,NTTJ L PNJKM >T H >RY
+NTN,444894,Deuteronomy,1,8,Hebrew,SubAdv,Q,prose,L TT LHM W L ZR<M >XRJHM
+NTN,444913,Deuteronomy,1,15,Hebrew,Main,N,prose,W >TN >TM R>CJM <LJKM
+NTN,444936,Deuteronomy,1,20,Hebrew,SubMod,Q,prose,>CR JHWH >LHJNW NTN LNW
+NTN,444938,Deuteronomy,1,21,Hebrew,Main,Q,prose,NTN JHWH >LHJK L PNJK >T H >RY
+NTN,444963,Deuteronomy,1,25,Hebrew,SubMod,Q,prose,>CR JHWH >LHJNW NTN LNW
+NTN,444970,Deuteronomy,1,27,Hebrew,SubAdv,Q,prose,L TT >TNW B JD H >MRJ
+NTN,445004,Deuteronomy,1,35,Hebrew,SubAdv,Q,prose,L TT L >BTJKM
+NTN,445007,Deuteronomy,1,36,Hebrew,Main,Q,prose,W LW >TN >T H >RY W L BNJW
+NTN,445023,Deuteronomy,1,39,Hebrew,Main,Q,prose,W LHM >TNNH
+NTN,445077,Deuteronomy,2,5,Hebrew,SubAdv,Q,prose,KJ L> >TN LKM M >RYM <D MDRK KP RGL
+NTN,445078,Deuteronomy,2,5,Hebrew,SubAdv,Q,prose,KJ JRCH L <FW NTTJ >T HR F<JR
+NTN,445095,Deuteronomy,2,9,Hebrew,SubAdv,Q,prose,KJ L> >TN LK M >RYW JRCH
+NTN,445096,Deuteronomy,2,9,Hebrew,SubAdv,Q,prose,KJ L BNJ LWV NTTJ >T <R JRCH
+NTN,445105,Deuteronomy,2,12,Hebrew,SubMod,N,prose,>CR NTN JHWH LHM
+NTN,445127,Deuteronomy,2,19,Hebrew,SubAdv,D,prose,KJ L> >TN M >RY BNJ <MWN LK JRCH
+NTN,445128,Deuteronomy,2,19,Hebrew,SubAdv,D,prose,KJ L BNJ LWV NTTJH JRCH
+NTN,445150,Deuteronomy,2,24,Hebrew,Main,Q,prose,NTTJ B JDK >T SJXN MLK XCBWN H >MRJ W >T >RYW
+NTN,445155,Deuteronomy,2,25,Hebrew,SubArg,Q,prose,TT PXDK W JR>TK <L PNJ H <MJM TXT KL H CMJM
+NTN,445166,Deuteronomy,2,28,Hebrew,Main,Q,prose,W MJM B  KSP TTN LJ
+NTN,445173,Deuteronomy,2,29,Hebrew,SubMod,Q,prose,>CR JHWH >LHJNW NTN LNW
+NTN,445178,Deuteronomy,2,30,Hebrew,SubAdv,N,prose,LM<N TTW B JDK
+NTN,445183,Deuteronomy,2,31,Hebrew,SubArg,Q,prose,TT L PNJK >T SJXN W >T >RYW
+NTN,445189,Deuteronomy,2,33,Hebrew,Main,N,prose,W JTNHW JHWH >LHJNW L PNJNW
+NTN,445201,Deuteronomy,2,36,Hebrew,Main,N,prose,>T H KL NTN JHWH >LHJNW L PNJNW
+NTN,445210,Deuteronomy,3,2,Hebrew,SubAdv,Q,prose,KJ B JDK NTTJ >TW W >T KL <MW W >T >RYW
+NTN,445214,Deuteronomy,3,3,Hebrew,Main,N,prose,W JTN JHWH >LHJNW B JDNW GM >T <WG MLK H BCN W >T KL <MW
+NTN,445236,Deuteronomy,3,12,Hebrew,Main,N,prose,M <R<R W XYJ HR H GL<D W <RJW NTTJ L  R>WBNJ W L  GDJ
+NTN,445238,Deuteronomy,3,13,Hebrew,Main,N,prose,W JTR H GL<D W KL H BCN MMLKT <WG NTTJ L XYJ CBV H MNCH KL XBL H >RGB
+NTN,445243,Deuteronomy,3,15,Hebrew,Main,N,prose,W L MKJR NTTJ >T H GL<D
+NTN,445244,Deuteronomy,3,16,Hebrew,Main,N,prose,W L  R>WBNJ W L  GDJ NTTJ MN H GL<D W <D NXL >RNN TWK H NXL W GBL
+NTN,445249,Deuteronomy,3,18,Hebrew,Main,Q,prose,JHWH >LHJKM NTN LKM >T H >RY H Z>T
+NTN,445256,Deuteronomy,3,19,Hebrew,SubMod,Q,prose,>CR NTTJ LKM
+NTN,445259,Deuteronomy,3,20,Hebrew,SubMod,Q,prose,>CR JHWH >LHJKM NTN LHM B <BR H JRDN
+NTN,445262,Deuteronomy,3,20,Hebrew,SubMod,Q,prose,>CR NTTJ LKM
+NTN,445309,Deuteronomy,4,1,Hebrew,SubMod,Q,prose,>CR JHWH >LHJ >BTJKM NTN LKM
+NTN,445343,Deuteronomy,4,8,Hebrew,SubMod,Q,prose,>CR >NKJ NTN L PNJKM H JWM
+NTN,445399,Deuteronomy,4,21,Hebrew,SubMod,N,prose,>CR JHWH >LHJK NTN LK NXLH
+NTN,445472,Deuteronomy,4,38,Hebrew,SubAdv,N,prose,L TT LK >T >RYM NXLH
+NTN,445483,Deuteronomy,4,40,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK KL H JMJM
+NTN,445556,Deuteronomy,5,16,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK
+NTN,445567,Deuteronomy,5,22,Hebrew,Main,N,prose,W JTNM >LJ
+NTN,445603,Deuteronomy,5,29,Hebrew,Main,Q,prose,MJ JTN
+NTN,445616,Deuteronomy,5,31,Hebrew,SubMod,Q,prose,>CR >NKJ NTN LHM
+NTN,445665,Deuteronomy,6,10,Hebrew,SubAdv,Q,prose,L TT LK
+NTN,445702,Deuteronomy,6,22,Hebrew,Main,N,prose,W JTN JHWH >WTT W MPTJM GDLJM W R<JM B MYRJM B PR<H W B KL BJTW L <JNJNW
+NTN,445705,Deuteronomy,6,23,Hebrew,SubAdv,N,prose,L TT LNW >T H >RY
+NTN,445722,Deuteronomy,7,2,Hebrew,Main,Q,prose,W NTNM JHWH >LHJK L PNJK
+NTN,445728,Deuteronomy,7,3,Hebrew,Main,Q,prose,BTK L> TTN L BNW
+NTN,445774,Deuteronomy,7,13,Hebrew,SubAdv,Q,prose,L TT LK
+NTN,445782,Deuteronomy,7,15,Hebrew,Main,Q,prose,W NTNM B KL FN>JK
+NTN,445784,Deuteronomy,7,16,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK
+NTN,445809,Deuteronomy,7,23,Hebrew,Main,Q,prose,W NTNM JHWH >LHJK L PNJK
+NTN,445812,Deuteronomy,7,24,Hebrew,Main,Q,prose,W NTN MLKJHM B JDK
+NTN,445870,Deuteronomy,8,10,Hebrew,SubMod,Q,prose,>CR NTN LK
+NTN,445898,Deuteronomy,8,18,Hebrew,SubArg,Q,prose,H NTN LK KX
+NTN,445945,Deuteronomy,9,6,Hebrew,SubArg,Q,prose,KJ L> B YDQTK JHWH >LHJK NTN LK >T H >RY H VWBH H Z>T
+NTN,445963,Deuteronomy,9,10,Hebrew,Main,N,prose,W JTN JHWH >LJ >T CNJ LWXT H >BNJM
+NTN,445968,Deuteronomy,9,11,Hebrew,Main,N,prose,M QY >RB<JM JWM W >RB<JM LJLH NTN JHWH >LJ >T CNJ LXT H >BNJM LXWT H BRJT
+NTN,446026,Deuteronomy,9,23,Hebrew,SubMod,Q,prose,>CR NTTJ LKM
+NTN,446068,Deuteronomy,10,4,Hebrew,Main,N,prose,W JTNM JHWH >LJ
+NTN,446100,Deuteronomy,10,11,Hebrew,SubAdv,Q,prose,L TT LHM
+NTN,446126,Deuteronomy,10,18,Hebrew,SubAdv,Q,prose,L TT LW LXM W FMLH
+NTN,446170,Deuteronomy,11,9,Hebrew,SubAdv,Q,prose,L TT LHM W L ZR<M
+NTN,446190,Deuteronomy,11,14,Hebrew,Main,Q,prose,W NTTJ MVR >RYKM B <TW JWRH W MLQWC
+NTN,446192,Deuteronomy,11,15,Hebrew,Main,Q,prose,W NTTJ <FB B FDK L BHMTK
+NTN,446203,Deuteronomy,11,17,Hebrew,Main,Q,prose,W H >DMH L> TTN >T JBWLH
+NTN,446205,Deuteronomy,11,17,Hebrew,SubMod,Q,prose,>CR JHWH NTN LKM
+NTN,446218,Deuteronomy,11,21,Hebrew,SubAdv,Q,prose,L TT LHM
+NTN,446232,Deuteronomy,11,25,Hebrew,Main,Q,prose,PXDKM W MWR>KM JTN JHWH >LHJKM <L PNJ KL H >RY
+NTN,446236,Deuteronomy,11,26,Hebrew,Main,Q,prose,>NKJ NTN L PNJKM H JWM BRKH W QLLH
+NTN,446250,Deuteronomy,11,29,Hebrew,Main,Q,prose,W NTTH >T H BRKH <L HR GRZJM
+NTN,446257,Deuteronomy,11,31,Hebrew,SubMod,Q,prose,>CR JHWH >LHJKM NTN LKM
+NTN,446262,Deuteronomy,11,32,Hebrew,SubMod,Q,prose,>CR >NKJ NTN L PNJKM H JWM
+NTN,446266,Deuteronomy,12,1,Hebrew,SubMod,Q,prose,>CR NTN JHWH >LHJ >BTJK LK
+NTN,446292,Deuteronomy,12,9,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK
+NTN,446318,Deuteronomy,12,15,Hebrew,SubMod,Q,prose,>CR NTN LK B KL C<RJK
+NTN,446342,Deuteronomy,12,21,Hebrew,SubMod,Q,prose,>CR NTN JHWH LK
+NTN,446396,Deuteronomy,13,2,Hebrew,Main,Q,prose,W NTN >LJK >WT >W MWPT
+NTN,446449,Deuteronomy,13,13,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK
+NTN,446473,Deuteronomy,13,18,Hebrew,Main,Q,prose,W NTN LK RXMJM
+NTN,446532,Deuteronomy,14,21,Hebrew,Main,Q,prose,L  GR TTNNH
+NTN,446552,Deuteronomy,14,25,Hebrew,Main,Q,prose,W NTTH B  KSP
+NTN,446556,Deuteronomy,14,26,Hebrew,Main,Q,prose,W NTTH H KSP B KL B  BQR W B  Y>N W B  JJN W B  CKR W B KL
+NTN,446585,Deuteronomy,15,4,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK NXLH
+NTN,446599,Deuteronomy,15,7,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK
+NTN,446610,Deuteronomy,15,9,Hebrew,Main,Q,prose,W L> TTN LW
+NTN,446613,Deuteronomy,15,10,Hebrew,Main,Q,prose,NTWN TTN LW
+NTN,446615,Deuteronomy,15,10,Hebrew,SubAdv,Q,prose,B TTK LW
+NTN,446628,Deuteronomy,15,14,Hebrew,Main,Q,prose,TTN LW
+NTN,446640,Deuteronomy,15,17,Hebrew,Main,Q,prose,W NTTH B >ZNW W B  DLT
+NTN,446677,Deuteronomy,16,5,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK
+NTN,446696,Deuteronomy,16,10,Hebrew,SubMod,Q,prose,>CR TTN
+NTN,446719,Deuteronomy,16,17,Hebrew,SubMod,Q,prose,>CR NTN LK
+NTN,446720,Deuteronomy,16,18,Hebrew,Main,Q,prose,CPVJM W CVRJM TTN LK B KL C<RJK
+NTN,446721,Deuteronomy,16,18,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK L CBVJK
+NTN,446731,Deuteronomy,16,20,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK
+NTN,446740,Deuteronomy,17,2,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK
+NTN,446796,Deuteronomy,17,14,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK
+NTN,446806,Deuteronomy,17,15,Hebrew,SubArg,Q,prose,L TT <LJK >JC NKRJ
+NTN,446838,Deuteronomy,18,3,Hebrew,Main,D,prose,W NTN L  KHN H ZR< W H LXJJM W H QBH
+NTN,446839,Deuteronomy,18,4,Hebrew,Main,D,prose,R>CJT DGNK TJRCK W JYHRK W R>CJT GZ Y>NK TTN LW
+NTN,446851,Deuteronomy,18,9,Hebrew,SubMod,D,prose,>CR JHWH >LHJK NTN LK
+NTN,446868,Deuteronomy,18,14,Hebrew,Main,D,prose,L> KN NTN LK JHWH >LHJK
+NTN,446882,Deuteronomy,18,18,Hebrew,Main,Q,prose,W NTTJ DBRJ B PJW
+NTN,446908,Deuteronomy,19,1,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK >T >RYM
+NTN,446912,Deuteronomy,19,2,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK
+NTN,446945,Deuteronomy,19,8,Hebrew,Main,Q,prose,W NTN LK >T KL H >RY
+NTN,446947,Deuteronomy,19,8,Hebrew,SubAdv,Q,prose,L TT L >BTJK
+NTN,446955,Deuteronomy,19,10,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK NXLH
+NTN,446966,Deuteronomy,19,12,Hebrew,Main,Q,prose,W NTNW >TW B JD G>L H DM
+NTN,446974,Deuteronomy,19,14,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK
+NTN,447071,Deuteronomy,20,13,Hebrew,Main,Q,prose,W NTNH JHWH >LHJK B JDK
+NTN,447076,Deuteronomy,20,14,Hebrew,SubMod,Q,prose,>CR NTN JHWH >LHJK LK
+NTN,447081,Deuteronomy,20,16,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK NXLH
+NTN,447106,Deuteronomy,21,1,Hebrew,SubMod,D,prose,>CR JHWH >LHJK NTN LK
+NTN,447139,Deuteronomy,21,8,Hebrew,Main,Q,prose,W >L TTN DM NQJ B QRB <MK JFR>L
+NTN,447145,Deuteronomy,21,10,Hebrew,Main,D,prose,W NTNW JHWH >LHJK B JDK
+NTN,447176,Deuteronomy,21,17,Hebrew,SubAdv,D,prose,L TT LW PJ CNJM B KL
+NTN,447202,Deuteronomy,21,23,Hebrew,SubMod,D,prose,>CR JHWH >LHJK NTN LK NXLH
+NTN,447260,Deuteronomy,22,16,Hebrew,Main,Q,prose,>T BTJ NTTJ L  >JC H ZH L >CH
+NTN,447271,Deuteronomy,22,19,Hebrew,Main,Q,prose,W NTNW L >BJ H N<RH
+NTN,447322,Deuteronomy,22,29,Hebrew,Main,Q,prose,W NTN H >JC L >BJ H N<R XMCJM KSP
+NTN,447373,Deuteronomy,23,15,Hebrew,SubAdv,D,prose,W L TT >JBJK L PNJK
+NTN,447408,Deuteronomy,23,25,Hebrew,Main,D,prose,W >L KLJK L> TTN
+NTN,447418,Deuteronomy,24,1,Hebrew,Main,D,prose,W NTN B JDH
+NTN,447425,Deuteronomy,24,3,Hebrew,Main,D,prose,W NTN B JDH
+NTN,447437,Deuteronomy,24,4,Hebrew,SubMod,D,prose,>CR JHWH >LHJK NTN LK NXLH
+NTN,447477,Deuteronomy,24,15,Hebrew,Main,D,prose,B JWMW TTN FKRW
+NTN,447572,Deuteronomy,25,15,Hebrew,SubMod,D,prose,>CR JHWH >LHJK NTN LK
+NTN,447584,Deuteronomy,25,19,Hebrew,SubMod,D,prose,>CR JHWH >LHJK NTN LK NXLH
+NTN,447590,Deuteronomy,26,1,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK NXLH
+NTN,447595,Deuteronomy,26,2,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK
+NTN,447606,Deuteronomy,26,3,Hebrew,SubAdv,Q,prose,L TT LNW
+NTN,447617,Deuteronomy,26,6,Hebrew,Main,N,prose,W JTNW <LJNW <BDH QCH
+NTN,447623,Deuteronomy,26,9,Hebrew,Main,N,prose,W JTN LNW >T H >RY H Z>T >RY ZBT XLB W DBC
+NTN,447626,Deuteronomy,26,10,Hebrew,SubMod,Q,prose,>CR NTTH LJ
+NTN,447631,Deuteronomy,26,11,Hebrew,SubMod,Q,prose,>CR NTN LK JHWH >LHJK W L BJTK
+NTN,447635,Deuteronomy,26,12,Hebrew,Main,Q,prose,W NTTH L  LWJ L  GR L  JTWM W L  >LMNH
+NTN,447640,Deuteronomy,26,13,Hebrew,Main,Q,prose,W GM NTTJW L  LWJ W L  GR L  JTWM W L  >LMNH K KL MYWTK
+NTN,447646,Deuteronomy,26,14,Hebrew,Main,Q,prose,W L> NTTJ MMNW L MT
+NTN,447652,Deuteronomy,26,15,Hebrew,SubMod,Q,prose,>CR NTTH LNW
+NTN,447667,Deuteronomy,26,19,Hebrew,SubAdv,Q,prose,W L TTK <LJWN <L KL H GWJM
+NTN,447678,Deuteronomy,27,2,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK
+NTN,447684,Deuteronomy,27,3,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK
+NTN,447778,Deuteronomy,28,1,Hebrew,Main,Q,prose,W NTNK JHWH >LHJK <LJWN <L KL GWJJ H >RY
+NTN,447790,Deuteronomy,28,7,Hebrew,Main,Q,prose,JTN JHWH >T >JBJK
+NTN,447797,Deuteronomy,28,8,Hebrew,SubMod,Q,prose,>CR JHWH >LHJK NTN LK
+NTN,447807,Deuteronomy,28,11,Hebrew,SubAdv,Q,prose,L TT LK
+NTN,447809,Deuteronomy,28,12,Hebrew,SubAdv,Q,prose,L TT MVR >RYK B <TW
+NTN,447813,Deuteronomy,28,13,Hebrew,Main,Q,prose,W NTNK JHWH L R>C
+NTN,447856,Deuteronomy,28,24,Hebrew,Main,Q,prose,JTN JHWH >T MVR >RYK >BQ W <PR
+NTN,447859,Deuteronomy,28,25,Hebrew,Main,Q,prose,JTNK JHWH
+NTN,447885,Deuteronomy,28,31,Hebrew,Main,Q,prose,Y>NK NTNWT L >JBJK
+NTN,447887,Deuteronomy,28,32,Hebrew,Main,Q,prose,BNJK W BNTJK NTNJM L <M >XR
+NTN,447939,Deuteronomy,28,48,Hebrew,Main,Q,prose,W NTN <L BRZL <L YW>RK
+NTN,447955,Deuteronomy,28,52,Hebrew,SubMod,Q,prose,>CR NTN JHWH >LHJK LK
+NTN,447957,Deuteronomy,28,53,Hebrew,SubMod,Q,prose,>CR NTN LK JHWH >LHJK
+NTN,447964,Deuteronomy,28,55,Hebrew,SubAdv,Q,prose,M TT L >XD MHM M BFR BNJW
+NTN,448008,Deuteronomy,28,65,Hebrew,Main,Q,prose,W NTN JHWH LK CM LB RGZ W KLJWN <JNJM W D>BWN NPC
+NTN,448013,Deuteronomy,28,67,Hebrew,Main,Q,prose,MJ JTN <RB
+NTN,448015,Deuteronomy,28,67,Hebrew,Main,Q,prose,MJ JTN BQR
+NTN,448035,Deuteronomy,29,3,Hebrew,Main,Q,prose,W L> NTN JHWH LKM LB W <JNJM W >ZNJM <D H JWM H ZH
+NTN,448051,Deuteronomy,29,7,Hebrew,Main,N,prose,W NTNH L NXLH L  R>WBNJ W L  GDJ W L XYJ CBV H MNCJ
+NTN,448132,Deuteronomy,30,1,Hebrew,SubMod,Q,prose,>CR NTTJ L PNJK
+NTN,448154,Deuteronomy,30,7,Hebrew,Main,Q,prose,W NTN JHWH >LHJK >T KL H >LWT H >LH <L >JBJK W <L FN>JK
+NTN,448188,Deuteronomy,30,15,Hebrew,Main,Q,prose,NTTJ L PNJK H JWM >T H XJJM W >T H VWB W >T H MWT W >T H R<
+NTN,448210,Deuteronomy,30,19,Hebrew,Main,Q,prose,H XJJM W H MWT NTTJ L PNJK
+NTN,448220,Deuteronomy,30,20,Hebrew,SubAdv,Q,prose,L TT LHM
+NTN,448240,Deuteronomy,31,5,Hebrew,Main,Q,prose,W NTNM JHWH L PNJKM
+NTN,448258,Deuteronomy,31,7,Hebrew,SubAdv,Q,prose,L TT LHM
+NTN,448269,Deuteronomy,31,9,Hebrew,Main,N,prose,W JTNH >L H KHNJM BNJ LWJ W >L KL ZQNJ JFR>L
+NTN,448569,Deuteronomy,32,49,Hebrew,SubMod,Q,prose,>CR >NJ NTN L BNJ JFR>L L >XZH
+NTN,448579,Deuteronomy,32,52,Hebrew,SubMod,Q,prose,>CR >NJ NTN L BNJ JFR>L
+NTN,448706,Deuteronomy,34,4,Hebrew,Main,Q,prose,L ZR<K >TNNH
+NTN,448734,Joshua,1,2,Hebrew,SubMod,Q,prose,>CR >NKJ NTN LHM L BNJ JFR>L
+NTN,448737,Joshua,1,3,Hebrew,Main,Q,prose,LKM NTTJW
+NTN,448749,Joshua,1,6,Hebrew,SubAdv,Q,prose,L TT LHM
+NTN,448781,Joshua,1,11,Hebrew,SubMod,Q,prose,>CR JHWH >LHJKM NTN LKM
+NTN,448789,Joshua,1,13,Hebrew,Main,Q,prose,W NTN LKM >T H >RY H Z>T
+NTN,448791,Joshua,1,14,Hebrew,SubMod,Q,prose,>CR NTN LKM MCH B <BR H JRDN
+NTN,448796,Joshua,1,15,Hebrew,SubMod,Q,prose,>CR JHWH >LHJKM NTN LHM
+NTN,448799,Joshua,1,15,Hebrew,SubMod,Q,prose,>CR NTN LKM MCH <BD JHWH B <BR H JRDN MZRX H CMC
+NTN,448864,Joshua,2,9,Hebrew,SubArg,Q,prose,KJ NTN JHWH LKM >T H >RY
+NTN,448882,Joshua,2,12,Hebrew,Main,Q,prose,W NTTM LJ >WT >MT
+NTN,448891,Joshua,2,14,Hebrew,SubAdv,Q,prose,B TT JHWH LNW >T H >RY
+NTN,448940,Joshua,2,24,Hebrew,Main,Q,prose,KJ NTN JHWH B JDNW >T KL H >RY
+NTN,449133,Joshua,5,6,Hebrew,SubAdv,N,prose,L TT LNW
+NTN,449183,Joshua,6,2,Hebrew,Main,Q,prose,NTTJ B JDK >T JRJXW W >T MLKH GBWRJ H XJL
+NTN,449250,Joshua,6,16,Hebrew,SubAdv,Q,prose,KJ NTN JHWH LKM >T H <JR
+NTN,449289,Joshua,6,24,Hebrew,Main,N,prose,RQ H KSP W H ZHB W KLJ H NXCT W H BRZL NTNW >WYR BJT JHWH
+NTN,449336,Joshua,7,7,Hebrew,SubAdv,Q,prose,L TT >TNW B JD H >MRJ
+NTN,449401,Joshua,7,19,Hebrew,Main,Q,prose,W TN LW TWDH
+NTN,449441,Joshua,8,1,Hebrew,Main,Q,prose,NTTJ B JDK >T MLK H <J W >T <MW W >T <JRW W >T >RYW
+NTN,449472,Joshua,8,7,Hebrew,Main,Q,prose,W NTNH JHWH >LHJKM B JDKM
+NTN,449521,Joshua,8,18,Hebrew,SubAdv,Q,prose,KJ B JDK >TNNH
+NTN,449695,Joshua,9,24,Hebrew,SubAdv,Q,prose,L TT LKM >T KL H >RY
+NTN,449706,Joshua,9,27,Hebrew,Main,N,prose,W JTNM JHWC< B  JWM H HW> XVBJ <YJM W C>BJ MJM L  <DH W L MZBX JHWH <D H JWM H ZH >L H MQWM
+NTN,449740,Joshua,10,8,Hebrew,SubAdv,Q,prose,KJ B JDK NTTJM
+NTN,449757,Joshua,10,12,Hebrew,SubMod,D,prose,TT JHWH >T H >MRJ L PNJ BNJ JFR>L
+NTN,449787,Joshua,10,19,Hebrew,Main,Q,prose,>L TTNWM
+NTN,449789,Joshua,10,19,Hebrew,SubAdv,Q,prose,KJ NTNM JHWH >LHJKM B JDKM
+NTN,449840,Joshua,10,30,Hebrew,Main,N,prose,W JTN JHWH GM >WTH B JD JFR>L W >T MLKH
+NTN,449850,Joshua,10,32,Hebrew,Main,N,prose,W JTN JHWH >T LKJC B JD JFR>L
+NTN,449919,Joshua,11,6,Hebrew,SubAdv,Q,prose,KJ MXR K  <T H Z>T >NKJ NTN >T KLM XLLJM L PNJ JFR>L
+NTN,449924,Joshua,11,8,Hebrew,Main,N,prose,W JTNM JHWH B JD JFR>L
+NTN,449984,Joshua,11,23,Hebrew,Main,N,prose,W JTNH JHWC< L NXLH L JFR>L K MXLQTM L CBVJHM
+NTN,449998,Joshua,12,6,Hebrew,Main,N,prose,W JTNH MCH <BD JHWH JRCH L  R>WBNJ W L  GDJ W L XYJ CBV H MNCH
+NTN,450002,Joshua,12,7,Hebrew,Main,N,prose,W JTNH JHWC< L CBVJ JFR>L JRCH K MXLQTM
+NTN,450060,Joshua,13,8,Hebrew,SubMod,?,prose,>CR NTN LHM MCH
+NTN,450061,Joshua,13,8,Hebrew,SubAdv,?,prose,K >CR NTN LHM MCH <BD JHWH
+NTN,450075,Joshua,13,14,Hebrew,Main,N,prose,RQ L CBV H LWJ L> NTN NXLH
+NTN,450079,Joshua,13,15,Hebrew,Main,N,prose,W JTN MCH L MVH BNJ R>WBN L MCPXTM
+NTN,450095,Joshua,13,24,Hebrew,Main,N,prose,W JTN MCH L MVH GD L BNJ GD L MCPXTM
+NTN,450102,Joshua,13,29,Hebrew,Main,N,prose,W JTN MCH L XYJ CBV MNCH
+NTN,450110,Joshua,13,33,Hebrew,Main,?,prose,W L CBV H LWJ L> NTN MCH NXLH
+NTN,450119,Joshua,14,3,Hebrew,SubAdv,?,prose,KJ NTN MCH NXLT CNJ H MVWT W XYJ H MVH M <BR L  JRDN
+NTN,450120,Joshua,14,3,Hebrew,Main,?,prose,W L  LWJM L> NTN NXLH B TWKM
+NTN,450122,Joshua,14,4,Hebrew,Main,?,prose,W L> NTNW XLQ L  LWJM B  >RY
+NTN,450162,Joshua,14,12,Hebrew,Main,Q,prose,TNH LJ >T H HR H ZH
+NTN,450171,Joshua,14,13,Hebrew,Main,N,prose,W JTN >T XBRWN L KLB BN JPNH L NXLH
+NTN,450223,Joshua,15,13,Hebrew,Main,N,prose,W L KLB BN JPNH NTN XLQ B TWK BNJ JHWDH >L PJ JHWH L JHWC< >T QRJT_>RB< >BJ H <NQ
+NTN,450231,Joshua,15,16,Hebrew,Main,Q,prose,W NTTJ LW >T <KSH BTJ L >CH
+NTN,450233,Joshua,15,17,Hebrew,Main,N,prose,W JTN LW >T <KSH BTW L >CH
+NTN,450242,Joshua,15,19,Hebrew,Main,Q,prose,TNH LJ BRKH
+NTN,450243,Joshua,15,19,Hebrew,SubAdv,Q,prose,KJ >RY H NGB NTTNJ
+NTN,450244,Joshua,15,19,Hebrew,Main,Q,prose,W NTTH LJ GLT MJM
+NTN,450245,Joshua,15,19,Hebrew,Main,N,prose,W JTN LH >T GLT <LJWT W >T GLT TXTJWT
+NTN,450347,Joshua,17,4,Hebrew,SubArg,Q,prose,L TT LNW NXLH B TWK >XJNW
+NTN,450348,Joshua,17,4,Hebrew,Main,N,prose,W JTN LHM >L PJ JHWH NXLH B TWK >XJ >BJHN
+NTN,450374,Joshua,17,13,Hebrew,Main,N,prose,W JTNW >T H KN<NJ L MS
+NTN,450378,Joshua,17,14,Hebrew,Main,Q,prose,MDW< NTTH LJ NXLH GWRL >XD W XBL >XD
+NTN,450413,Joshua,18,3,Hebrew,SubMod,Q,prose,>CR NTN LKM JHWH >LHJ >BWTJKM
+NTN,450429,Joshua,18,7,Hebrew,SubMod,Q,prose,>CR NTN LHM MCH <BD JHWH
+NTN,450576,Joshua,19,49,Hebrew,Main,N,prose,W JTNW BNJ JFR>L NXLH L JHWC< BN NWN B TWKM
+NTN,450577,Joshua,19,50,Hebrew,Main,N,prose,<L PJ JHWH NTNW LW >T H <JR >T TMNT_SRX B HR >PRJM
+NTN,450589,Joshua,20,2,Hebrew,Main,Q,prose,TNW LKM >T <RJ H MQLV
+NTN,450597,Joshua,20,4,Hebrew,Main,Q,prose,W NTNW LW MQWM
+NTN,450612,Joshua,20,8,Hebrew,Main,N,prose,W M <BR L JRDN JRJXW MZRXH NTNW >T BYR B  MDBR B  MJCR M MVH R>WBN
+NTN,450624,Joshua,21,2,Hebrew,SubArg,Q,prose,L TT LNW <RJM W MGRCJHN L BHMTNW
+NTN,450626,Joshua,21,3,Hebrew,Main,N,prose,W JTNW BNJ JFR>L L  LWJM M NXLTM >L PJ JHWH >T H <RJM H >LH W >T MGRCJHN
+NTN,450632,Joshua,21,8,Hebrew,Main,N,prose,W JTNW BNJ JFR>L L  LWJM >T H <RJM H >LH W >T MGRCJHN B  GWRL
+NTN,450634,Joshua,21,9,Hebrew,Main,N,prose,W JTNW M MVH BNJ JHWDH W M MVH BNJ CM<WN >T H <RJM H >LH
+NTN,450638,Joshua,21,11,Hebrew,Main,N,prose,W JTNW LHM >T QRJT_>RB< >BJ H <NWQ B HR JHWDH W >T MGRCH SBJBTJH
+NTN,450640,Joshua,21,12,Hebrew,Main,N,prose,W >T FDH H <JR W >T XYRJH NTNW L KLB BN JPNH B >XZTW
+NTN,450641,Joshua,21,13,Hebrew,Main,N,prose,W L BNJ >HRN H KHN NTNW >T <JR MQLV H RYX >T XBRWN W >T MGRCH
+NTN,450660,Joshua,21,21,Hebrew,Main,N,prose,W JTNW LHM >T <JR MQLV H RYX >T CKM W >T MGRCH B HR >PRJM
+NTN,450714,Joshua,21,43,Hebrew,Main,N,prose,W JTN JHWH L JFR>L >T KL H >RY
+NTN,450716,Joshua,21,43,Hebrew,SubAdv,N,prose,L TT L >BWTM
+NTN,450722,Joshua,21,44,Hebrew,Main,N,prose,>T KL >JBJHM NTN JHWH B JDM
+NTN,450739,Joshua,22,4,Hebrew,SubMod,Q,prose,>CR NTN LKM MCH <BD JHWH B <BR H JRDN
+NTN,450751,Joshua,22,7,Hebrew,Main,N,prose,W L XYJ CBV H MNCH NTN MCH B  BCN
+NTN,450752,Joshua,22,7,Hebrew,Main,N,prose,W L XYJW NTN JHWC< <M >XJHM M <BR H JRDN JMH
+NTN,450826,Joshua,22,25,Hebrew,Main,Q,prose,W GBWL NTN JHWH BJNNW W BJNJKM >T H JRDN
+NTN,450928,Joshua,23,13,Hebrew,SubMod,D,prose,>CR NTN LKM JHWH >LHJKM
+NTN,450941,Joshua,23,15,Hebrew,SubMod,Q,prose,>CR NTN LKM JHWH >LHJKM
+NTN,450949,Joshua,23,16,Hebrew,SubMod,Q,prose,>CR NTN LKM
+NTN,450960,Joshua,24,3,Hebrew,Main,N,prose,W >TN LW >T JYXQ
+NTN,450961,Joshua,24,4,Hebrew,Main,N,prose,W >TN L JYXQ >T J<QB W >T <FW
+NTN,450962,Joshua,24,4,Hebrew,Main,N,prose,W >TN L <FW >T HR F<JR
+NTN,450982,Joshua,24,8,Hebrew,Main,N,prose,W >TN >WTM B JDKM
+NTN,450997,Joshua,24,11,Hebrew,Main,N,prose,W >TN >WTM B JDKM
+NTN,451002,Joshua,24,13,Hebrew,Main,N,prose,W >TN LKM >RY W <RJM
+NTN,451095,Joshua,24,33,Hebrew,SubMod,N,prose,>CR NTN LW B HR >PRJM
+NTN,451103,Judges,1,2,Hebrew,Main,Q,prose,HNH NTTJ >T H >RY B JDW
+NTN,451110,Judges,1,4,Hebrew,Main,N,prose,W JTN JHWH >T H KN<NJ W H PRZJ B JDM
+NTN,451142,Judges,1,12,Hebrew,Main,Q,prose,W NTTJ LW >T <KSH BTJ L >CH
+NTN,451145,Judges,1,13,Hebrew,Main,N,prose,W JTN LW >T <KSH BTW L >CH
+NTN,451155,Judges,1,15,Hebrew,SubAdv,Q,prose,KJ >RY H NGB NTTNJ
+NTN,451156,Judges,1,15,Hebrew,Main,Q,prose,W NTTH LJ GLT MJM
+NTN,451157,Judges,1,15,Hebrew,Main,N,prose,W JTN LH KLB >T GLT <LJT W >T GLT TXTJT
+NTN,451173,Judges,1,20,Hebrew,Main,N,prose,W JTNW L KLB >T XBRWN
+NTN,451215,Judges,1,34,Hebrew,SubAdv,N,prose,KJ L> NTNW
+NTN,451271,Judges,2,14,Hebrew,Main,N,prose,W JTNM B JD CSJM
+NTN,451317,Judges,2,23,Hebrew,Main,N,prose,W L> NTNM B JD JHWC<
+NTN,451335,Judges,3,6,Hebrew,Main,N,prose,W >T BNWTJHM NTNW L BNJHM
+NTN,451351,Judges,3,10,Hebrew,Main,N,prose,W JTN JHWH B JDW >T KWCN_RC<TJM MLK >RM
+NTN,451431,Judges,3,28,Hebrew,SubAdv,Q,prose,KJ NTN JHWH >T >JBJKM >T MW>B B JDKM
+NTN,451434,Judges,3,28,Hebrew,Main,N,prose,W L> NTNW >JC
+NTN,451466,Judges,4,7,Hebrew,Main,Q,prose,W NTTJHW B JDK
+NTN,451492,Judges,4,14,Hebrew,SubMod,Q,prose,>CR NTN JHWH >T SJSR> B JDK
+NTN,451645,Judges,5,25,Hebrew,Main,Q,prose,XLB NTNH
+NTN,451679,Judges,6,1,Hebrew,Main,N,prose,W JTNM JHWH B JD MDJN CB< CNJM
+NTN,451709,Judges,6,9,Hebrew,Main,N,prose,W >TNH LKM >T >RYM
+NTN,451734,Judges,6,13,Hebrew,Main,N,prose,W JTNNW B KP MDJN
+NTN,451884,Judges,7,2,Hebrew,SubAdv,Q,prose,M TTJ >T MDJN B JDM
+NTN,451924,Judges,7,7,Hebrew,Main,Q,prose,W NTTJ >T MDJN B JDK
+NTN,451935,Judges,7,9,Hebrew,SubAdv,Q,prose,KJ NTTJW B JDK
+NTN,451963,Judges,7,14,Hebrew,Main,Q,prose,NTN H >LHJM B JDW >T MDJN W >T KL H MXNH
+NTN,451970,Judges,7,15,Hebrew,SubAdv,Q,prose,KJ NTN JHWH B JDKM >T MXNH MDJN
+NTN,451972,Judges,7,16,Hebrew,Main,N,prose,W JTN CWPRWT B JD KLM W KDJM RQJM
+NTN,452031,Judges,8,3,Hebrew,Main,Q,prose,B JDKM NTN >LHJM >T FRJ MDJN >T <RB W >T Z>B
+NTN,452041,Judges,8,5,Hebrew,Main,Q,prose,TNW N> KKRWT LXM L  <M
+NTN,452047,Judges,8,6,Hebrew,SubAdv,Q,prose,KJ NTN L YB>K LXM
+NTN,452050,Judges,8,7,Hebrew,SubAdv,Q,prose,B TT JHWH >T ZBX W >T YLMN< B JDJ
+NTN,452084,Judges,8,15,Hebrew,SubAdv,Q,prose,KJ NTN L >NCJK H J<PJM LXM
+NTN,452123,Judges,8,24,Hebrew,Main,Q,prose,W TNW LJ >JC NZM CLLW
+NTN,452127,Judges,8,25,Hebrew,Main,Q,prose,NTWN NTN
+NTN,452175,Judges,9,4,Hebrew,Main,N,prose,W JTNW LW CB<JM KSP M BJT B<L_BRJT
+NTN,452285,Judges,9,29,Hebrew,Main,Q,prose,W MJ JTN >T H <M H ZH B JDJ
+NTN,452519,Judges,11,9,Hebrew,Main,Q,prose,W NTN JHWH >WTM L PNJ
+NTN,452568,Judges,11,21,Hebrew,Main,N,prose,W JTN JHWH >LHJ JFR>L >T SJXWN W >T KL <MW B JD JFR>L
+NTN,452601,Judges,11,30,Hebrew,Main,Q,prose,>M NTWN TTN >T BNJ <MWN B JDJ
+NTN,452611,Judges,11,32,Hebrew,Main,N,prose,W JTNM JHWH B JDW
+NTN,452671,Judges,12,3,Hebrew,Main,N,prose,W JTNM JHWH B JDJ
+NTN,452722,Judges,13,1,Hebrew,Main,N,prose,W JTNM JHWH B JD PLCTJM >RB<JM CNH
+NTN,452884,Judges,14,9,Hebrew,Main,N,prose,W JTN LHM
+NTN,452899,Judges,14,12,Hebrew,Main,Q,prose,W NTTJ LKM CLCJM SDJNJM W CLCJM XLPT BGDJM
+NTN,452902,Judges,14,13,Hebrew,Main,Q,prose,W NTTM >TM LJ CLCJM SDJNJM W CLCJM XLJPWT BGDJM
+NTN,452945,Judges,14,19,Hebrew,Main,N,prose,W JTN H XLJPWT L MGJDJ H XJDH
+NTN,452954,Judges,15,1,Hebrew,Main,N,prose,W L> NTNW >BJH
+NTN,452959,Judges,15,2,Hebrew,Main,N,prose,W >TNNH L MR<K
+NTN,452978,Judges,15,6,Hebrew,Main,N,prose,W JTNH L MR<HW
+NTN,453010,Judges,15,12,Hebrew,SubAdv,Q,prose,L TTK B JD PLCTJM
+NTN,453018,Judges,15,13,Hebrew,Main,Q,prose,W NTNWK B JDM
+NTN,453045,Judges,15,18,Hebrew,Main,Q,prose,>TH NTT B JD <BDK >T H TCW<H H GDLH H Z>T
+NTN,453087,Judges,16,5,Hebrew,Main,Q,prose,W >NXNW NTN LK >JC >LP W M>H KSP
+NTN,453195,Judges,16,23,Hebrew,Main,Q,prose,NTN >LHJNW B JDNW >T CMCWN >WJBJNW
+NTN,453199,Judges,16,24,Hebrew,Main,Q,prose,NTN >LHJNW B JDNW >T >WJBNW W >T MXRJB >RYNW
+NTN,453264,Judges,17,4,Hebrew,Main,N,prose,W TTNHW L  YWRP
+NTN,453293,Judges,17,10,Hebrew,Main,Q,prose,W >NKJ >TN LK <FRT KSP L  JMJM W <RK BGDJM W MXJTK
+NTN,453362,Judges,18,10,Hebrew,SubAdv,Q,prose,KJ NTNH >LHJM B JDKM MQWM
+NTN,453693,Judges,20,13,Hebrew,Main,Q,prose,TNW >T H >NCJM BNJ BLJ<L
+NTN,453755,Judges,20,28,Hebrew,SubAdv,Q,prose,KJ MXR >TNNW B JDK
+NTN,453784,Judges,20,36,Hebrew,Main,N,prose,W JTNW >JC JFR>L MQWM L BNJMN
+NTN,453836,Judges,21,1,Hebrew,Main,Q,prose,>JC MMNW L> JTN BTW L BNJMN L >CH
+NTN,453861,Judges,21,7,Hebrew,SubAdv,Q,prose,L BLTJ TT LHM M BNWTJNW L NCJM
+NTN,453888,Judges,21,14,Hebrew,Main,N,prose,W JTNW LHM H NCJM
+NTN,453900,Judges,21,18,Hebrew,SubAdv,Q,prose,L TT LHM NCJM M BNWTJNW
+NTN,453904,Judges,21,18,Hebrew,SubArg,Q,prose,NTN >CH L BNJMN
+NTN,453926,Judges,21,22,Hebrew,SubAdv,Q,prose,KJ L> >TM NTTM LHM K  <T
+NTN,453956,1_Samuel,1,4,Hebrew,Main,N,prose,W NTN L PNNH >CTW W L KL BNJH W BNWTJH MNWT
+NTN,453957,1_Samuel,1,5,Hebrew,Main,D,prose,W L XNH JTN MNH >XT >PJM
+NTN,453987,1_Samuel,1,11,Hebrew,SubAdv,Q,prose,W NTTH L >MTK ZR< >NCJM
+NTN,453988,1_Samuel,1,11,Hebrew,Main,Q,prose,W NTTJW L JHWH KL JMJ XJJW
+NTN,454009,1_Samuel,1,16,Hebrew,Main,Q,prose,>L TTN >T >MTK L PNJ BT BLJ<L
+NTN,454014,1_Samuel,1,17,Hebrew,Main,Q,prose,W >LHJ JFR>L JTN >T CLTK
+NTN,454063,1_Samuel,1,27,Hebrew,Main,N,prose,W JTN JHWH LJ >T C>LTJ
+NTN,454109,1_Samuel,2,10,Hebrew,Main,Q,prose,W JTN <Z L MLKW
+NTN,454129,1_Samuel,2,15,Hebrew,Main,Q,prose,TNH BFR
+NTN,454139,1_Samuel,2,16,Hebrew,SubAdv,Q,prose,KJ <TH TTN
+NTN,454191,1_Samuel,2,28,Hebrew,Main,N,prose,W >TNH L BJT >BJK >T KL >CJ BNJ JFR>L
+NTN,454540,1_Samuel,6,5,Hebrew,Main,Q,prose,W NTTM L >LHJ JFR>L KBWD
+NTN,454556,1_Samuel,6,8,Hebrew,Main,Q,prose,W NTTM >TW >L H <GLH
+NTN,454711,1_Samuel,8,6,Hebrew,Main,Q,prose,TNH LNW MLK
+NTN,454745,1_Samuel,8,14,Hebrew,Main,Q,prose,W NTN L <BDJW
+NTN,454747,1_Samuel,8,15,Hebrew,Main,Q,prose,W NTN L SRJSJW W L <BDJW
+NTN,454820,1_Samuel,9,8,Hebrew,Main,Q,prose,W NTTJ L >JC H >LHJM
+NTN,454903,1_Samuel,9,22,Hebrew,Main,N,prose,W JTN LHM MQWM B R>C H QRW>JM
+NTN,454906,1_Samuel,9,23,Hebrew,Main,Q,prose,TNH >T H MNH
+NTN,454907,1_Samuel,9,23,Hebrew,SubMod,Q,prose,>CR NTTJ LK
+NTN,454964,1_Samuel,10,4,Hebrew,Main,Q,prose,W NTNW LK CTJ LXM
+NTN,455142,1_Samuel,11,12,Hebrew,Main,Q,prose,TNW H >NCJM
+NTN,455223,1_Samuel,12,13,Hebrew,Main,Q,prose,NTN JHWH <LJKM MLK
+NTN,455239,1_Samuel,12,17,Hebrew,Main,Q,prose,W JTN QLWT W MVR
+NTN,455246,1_Samuel,12,18,Hebrew,Main,N,prose,W JTN JHWH QLT W MVR B  JWM H HW>
+NTN,455414,1_Samuel,14,10,Hebrew,SubAdv,Q,prose,KJ NTNM JHWH B JDNW
+NTN,455426,1_Samuel,14,12,Hebrew,SubAdv,Q,prose,KJ NTNM JHWH B JD JFR>L
+NTN,455554,1_Samuel,14,37,Hebrew,Main,Q,prose,H TTNM B JD JFR>L
+NTN,455752,1_Samuel,15,28,Hebrew,Main,Q,prose,W NTNH L R<K
+NTN,455951,1_Samuel,17,10,Hebrew,Main,Q,prose,TNW LJ >JC
+NTN,456017,1_Samuel,17,25,Hebrew,Main,Q,prose,W >T BTW JTN LW
+NTN,456082,1_Samuel,17,38,Hebrew,Main,N,prose,W NTN QWB< NXCT <L R>CW
+NTN,456115,1_Samuel,17,44,Hebrew,Main,Q,prose,W >TNH >T BFRK L <WP H CMJM W L BHMT H FDH
+NTN,456123,1_Samuel,17,46,Hebrew,Main,Q,prose,W NTTJ PGR MXNH PLCTJM H JWM H ZH L <WP H CMJM W L XJT H >RY
+NTN,456129,1_Samuel,17,47,Hebrew,Main,Q,prose,W NTN >TKM B JDNW
+NTN,456199,1_Samuel,18,2,Hebrew,Main,N,prose,W L> NTNW
+NTN,456204,1_Samuel,18,4,Hebrew,Main,N,prose,W JTNHW L DWD
+NTN,456226,1_Samuel,18,8,Hebrew,Main,Q,prose,NTNW L DWD RBBWT
+NTN,456227,1_Samuel,18,8,Hebrew,Main,Q,prose,W LJ NTNW H >LPJM
+NTN,456256,1_Samuel,18,17,Hebrew,Main,Q,prose,>TH >TN LK L >CH
+NTN,456267,1_Samuel,18,19,Hebrew,SubMod,N,prose,TT >T MRB BT C>WL L DWD
+NTN,456268,1_Samuel,18,19,Hebrew,Main,N,prose,W HJ> NTNH L <DRJ>L H MXLTJ L >CH
+NTN,456273,1_Samuel,18,21,Hebrew,Main,Q,prose,>TNNH LW
+NTN,456310,1_Samuel,18,27,Hebrew,Main,N,prose,W JTN LW C>WL >T MJKL BTW L >CH
+NTN,456652,1_Samuel,20,40,Hebrew,Main,N,prose,W JTN JHWNTN >T KLJW >L H N<R
+NTN,456689,1_Samuel,21,4,Hebrew,Main,Q,prose,XMCH LXM TNH B JDJ
+NTN,456704,1_Samuel,21,7,Hebrew,Main,N,prose,W JTN LW H KHN QDC
+NTN,456728,1_Samuel,21,10,Hebrew,Main,Q,prose,TNNH LJ
+NTN,456783,1_Samuel,22,7,Hebrew,Main,Q,prose,GM L KLKM JTN BN JCJ FDWT W KRMJM
+NTN,456797,1_Samuel,22,10,Hebrew,Main,N,prose,W YJDH NTN LW
+NTN,456798,1_Samuel,22,10,Hebrew,Main,N,prose,W >T XRB GLJT H PLCTJ NTN LW
+NTN,456811,1_Samuel,22,13,Hebrew,SubAdv,Q,prose,B TTK LW LXM W XRB
+NTN,456884,1_Samuel,23,4,Hebrew,SubAdv,Q,prose,KJ >NJ NTN >T PLCTJM B JDK
+NTN,456934,1_Samuel,23,14,Hebrew,Main,N,prose,W L> NTNW >LHJM B JDW
+NTN,457025,1_Samuel,24,5,Hebrew,Main,Q,prose,HNH >NKJ NTN >T >JBJK B JDK
+NTN,457041,1_Samuel,24,8,Hebrew,Main,N,prose,W L> NTNM
+NTN,457059,1_Samuel,24,11,Hebrew,SubArg,Q,prose,>T >CR NTNK JHWH H JWM B JDJ B  M<RH
+NTN,457164,1_Samuel,25,8,Hebrew,Main,Q,prose,TNH N>
+NTN,457179,1_Samuel,25,11,Hebrew,Main,Q,prose,W NTTJ L >NCJM
+NTN,457269,1_Samuel,25,27,Hebrew,Main,Q,prose,W NTNH L  N<RJM
+NTN,457361,1_Samuel,25,44,Hebrew,Main,N,prose,W C>WL NTN >T MJKL BTW >CT DWD L PLVJ BN LJC
+NTN,457492,1_Samuel,26,23,Hebrew,SubAdv,Q,prose,>CR NTNK JHWH H JWM B JD
+NTN,457523,1_Samuel,27,5,Hebrew,Main,Q,prose,JTNW LJ MQWM B >XT <RJ H FDH
+NTN,457526,1_Samuel,27,6,Hebrew,Main,N,prose,W JTN LW >KJC B  JWM H HW> >T YQLG
+NTN,457650,1_Samuel,28,17,Hebrew,Main,N,prose,W JTNH L R<K L DWD
+NTN,457654,1_Samuel,28,19,Hebrew,Main,Q,prose,W JTN JHWH GM >T JFR>L <MK B JD PLCTJM
+NTN,457656,1_Samuel,28,19,Hebrew,Main,Q,prose,GM >T MXNH JFR>L JTN JHWH B JD PLCTJM
+NTN,457802,1_Samuel,30,11,Hebrew,Main,N,prose,W JTNW LW LXM
+NTN,457805,1_Samuel,30,12,Hebrew,Main,N,prose,W JTNW LW PLX DBLH W CNJ YMQJM
+NTN,457864,1_Samuel,30,22,Hebrew,Main,Q,prose,L> NTN LHM M H CLL
+NTN,457872,1_Samuel,30,23,Hebrew,SubArg,Q,prose,>T >CR NTN JHWH LNW
+NTN,457874,1_Samuel,30,23,Hebrew,Main,N,prose,W JTN >T H GDWD B JDNW
+NTN,458267,2_Samuel,3,14,Hebrew,Main,Q,prose,TNH >T >CTJ >T MJKL
+NTN,458425,2_Samuel,4,8,Hebrew,Main,N,prose,W JTN JHWH L >DNJ H MLK NQMWT H JWM H ZH M C>WL W M ZR<W
+NTN,458437,2_Samuel,4,10,Hebrew,SubAdv,N,prose,>CR L TTJ LW BFRH
+NTN,458513,2_Samuel,5,19,Hebrew,Main,Q,prose,H TTNM B JDJ
+NTN,458516,2_Samuel,5,19,Hebrew,SubAdv,Q,prose,KJ NTN >TN >T H PLCTJM B JDK
+NTN,458852,2_Samuel,9,9,Hebrew,Main,Q,prose,KL NTTJ L BN >DNJK
+NTN,458914,2_Samuel,10,10,Hebrew,Main,N,prose,W >T JTR H <M NTN B JD >BCJ >XJW
+NTN,459036,2_Samuel,11,16,Hebrew,Main,N,prose,W JTN >T >WRJH >L H MQWM
+NTN,459127,2_Samuel,12,8,Hebrew,Main,N,prose,W >TNH LK >T BJT >DNJK W >T NCJ >DNJK B XJQK
+NTN,459128,2_Samuel,12,8,Hebrew,Main,N,prose,W >TNH LK >T BJT JFR>L W JHWDH
+NTN,459145,2_Samuel,12,11,Hebrew,Main,Q,prose,W NTTJ L R<JK
+NTN,459509,2_Samuel,14,7,Hebrew,Main,Q,prose,TNJ >T MKH >XJW
+NTN,459892,2_Samuel,16,8,Hebrew,Main,N,prose,W JTN JHWH >T H MLWKH B JD >BCLWM BNK
+NTN,460153,2_Samuel,18,9,Hebrew,Main,N,prose,W JTN BJN H CMJM W BJN H >RY
+NTN,460168,2_Samuel,18,11,Hebrew,SubArg,Q,prose,L TT LK <FRH KSP W XGRH >XT
+NTN,460292,2_Samuel,19,1,Hebrew,Main,Q,prose,MJ JTN
+NTN,460527,2_Samuel,20,3,Hebrew,Main,N,prose,W JTNM BJT MCMRT
+NTN,460631,2_Samuel,20,21,Hebrew,Main,Q,prose,TNW >TW L BDW
+NTN,460680,2_Samuel,21,6,Hebrew,Main,Q,prose,JNTN LNW CB<H >NCJM M BNJW
+NTN,460683,2_Samuel,21,6,Hebrew,Main,Q,prose,>NJ >TN
+NTN,460690,2_Samuel,21,9,Hebrew,Main,N,prose,W JTNM B JD H GB<NJM
+NTN,460697,2_Samuel,21,10,Hebrew,Main,N,prose,W L> NTNH <WP H CMJM W >T XJT H FDH LJLH
+NTN,460782,2_Samuel,22,14,Hebrew,Main,D,prose,W <LJWN JTN QWLW
+NTN,460835,2_Samuel,22,36,Hebrew,Main,N,prose,W TTN LJ MGN JC<K
+NTN,460851,2_Samuel,22,41,Hebrew,Main,D,prose,TTH LJ <RP
+NTN,460874,2_Samuel,22,48,Hebrew,SubMod,Q,prose,H NTN NQMT LJ
+NTN,461046,2_Samuel,24,9,Hebrew,Main,N,prose,W JTN JW>B >T MSPR MPQD H <M >L H MLK
+NTN,461083,2_Samuel,24,15,Hebrew,Main,N,prose,W JTN JHWH DBR B JFR>L M H BQR W <D <T MW<D
+NTN,461126,2_Samuel,24,23,Hebrew,Main,Q,prose,H KL NTN >RWNH L  MLK
+NTN,461336,1_Kings,1,48,Hebrew,SubMod,Q,prose,>CR NTN H JWM
+NTN,461392,1_Kings,2,5,Hebrew,SubAdv,N,prose,W JTN DMJ MLXMH B XGRTW W B N<LW
+NTN,461449,1_Kings,2,17,Hebrew,Main,Q,prose,W JTN LJ >T >BJCG H CWNMJT L >CH
+NTN,461469,1_Kings,2,21,Hebrew,Main,Q,prose,JTN >T >BJCG H CNMJT L >DNJHW >XJK L >CH
+NTN,461545,1_Kings,2,35,Hebrew,Main,N,prose,W JTN H MLK >T BNJHW BN JHWJD< TXTJW <L H YB>
+NTN,461546,1_Kings,2,35,Hebrew,Main,N,prose,W >T YDWQ H KHN NTN H MLK TXT >BJTR
+NTN,461623,1_Kings,3,5,Hebrew,Main,Q,prose,MH >TN LK
+NTN,461628,1_Kings,3,6,Hebrew,Main,N,prose,W TTN LW BN
+NTN,461642,1_Kings,3,9,Hebrew,Main,Q,prose,W NTT L <BDK LB CM<
+NTN,461658,1_Kings,3,12,Hebrew,Main,Q,prose,HNH NTTJ LK LB XKM W NBWN
+NTN,461661,1_Kings,3,13,Hebrew,Main,Q,prose,W NTTJ LK
+NTN,461725,1_Kings,3,25,Hebrew,Main,Q,prose,W TNW >T H XYJ L >XT
+NTN,461732,1_Kings,3,26,Hebrew,Main,Q,prose,TNW LH >T H JLWD H XJ
+NTN,461741,1_Kings,3,27,Hebrew,Main,Q,prose,TNW LH >T H JLWD H XJ
+NTN,461811,1_Kings,5,9,Hebrew,Main,N,prose,W JTN >LHJM XKMH L CLMH
+NTN,461838,1_Kings,5,17,Hebrew,SubAdv,Q,prose,<D TT JHWH >TM TXT KPWT RGLW
+NTN,461847,1_Kings,5,19,Hebrew,SubMod,Q,prose,>CR >TN TXTJK <L KS>K
+NTN,461853,1_Kings,5,20,Hebrew,Main,Q,prose,W FKR <BDJK >TN LK K KL
+NTN,461865,1_Kings,5,21,Hebrew,SubMod,Q,prose,>CR NTN L DWD BN XKM <L H <M H RB H ZH
+NTN,461877,1_Kings,5,23,Hebrew,SubAdv,Q,prose,L TT LXM BJTJ
+NTN,461879,1_Kings,5,24,Hebrew,Main,N,prose,XJRWM NTN L CLMH <YJ >RZJM W <YJ BRWCJM KL XPYW
+NTN,461880,1_Kings,5,25,Hebrew,Main,N,prose,W CLMH NTN L XJRM <FRJM >LP KR XVJM MKLT L BJTW
+NTN,461882,1_Kings,5,25,Hebrew,Main,D,prose,KH JTN CLMH L XJRM CNH B CNH
+NTN,461883,1_Kings,5,26,Hebrew,Main,N,prose,W JHWH NTN XKMH L CLMH
+NTN,461931,1_Kings,6,6,Hebrew,SubAdv,N,prose,KJ MGR<WT NTN L  BJT SBJB XWYH
+NTN,461973,1_Kings,6,19,Hebrew,SubAdv,N,prose,L TTN CM >T >RWN BRJT JHWH
+NTN,461996,1_Kings,6,27,Hebrew,Main,N,prose,W JTN >T H KRWBJM B TWK H BJT H PNJMJ
+NTN,462071,1_Kings,7,16,Hebrew,SubAdv,N,prose,L TT <L R>CJ H <MWDJM
+NTN,462156,1_Kings,7,39,Hebrew,Main,N,prose,W JTN >T H MKNWT
+NTN,462159,1_Kings,7,39,Hebrew,Main,N,prose,W >T H JM NTN M KTP H BJT H JMNJT QDMH M MWL NGB
+NTN,462192,1_Kings,7,51,Hebrew,Main,N,prose,>T H KSP W >T H ZHB W >T H KLJM NTN B >YRWT BJT JHWH
+NTN,462321,1_Kings,8,32,Hebrew,SubAdv,Q,prose,L TT DRKW B R>CW
+NTN,462323,1_Kings,8,32,Hebrew,SubAdv,Q,prose,L TT LW K YDQTW
+NTN,462333,1_Kings,8,34,Hebrew,SubMod,Q,prose,>CR NTT L >BWTM
+NTN,462345,1_Kings,8,36,Hebrew,Main,Q,prose,W NTTH MVR <L >RYK
+NTN,462346,1_Kings,8,36,Hebrew,SubMod,Q,prose,>CR NTTH L <MK L NXLH
+NTN,462363,1_Kings,8,39,Hebrew,Main,Q,prose,W NTT L  >JC K KL DRKJW
+NTN,462368,1_Kings,8,40,Hebrew,SubMod,Q,prose,>CR NTTH L >BTJNW
+NTN,462393,1_Kings,8,46,Hebrew,Main,Q,prose,W NTTM L PNJ >WJB
+NTN,462406,1_Kings,8,48,Hebrew,SubMod,Q,prose,>CR NTTH L >BWTM
+NTN,462415,1_Kings,8,50,Hebrew,Main,Q,prose,W NTTM L RXMJM L PNJ CBJHM
+NTN,462436,1_Kings,8,56,Hebrew,SubMod,Q,prose,>CR NTN MNWXH L <MW JFR>L K KL
+NTN,462505,1_Kings,9,6,Hebrew,SubMod,Q,prose,>CR NTTJ L PNJKM
+NTN,462510,1_Kings,9,7,Hebrew,SubMod,Q,prose,>CR NTTJ LHM
+NTN,462530,1_Kings,9,11,Hebrew,Main,D,prose,>Z JTN H MLK CLMH L XJRM <FRJM <JR B >RY H GLJL
+NTN,462533,1_Kings,9,12,Hebrew,SubMod,N,prose,>CR NTN LW CLMH
+NTN,462537,1_Kings,9,13,Hebrew,SubMod,Q,prose,>CR NTTH LJ
+NTN,462549,1_Kings,9,16,Hebrew,Main,N,prose,W JTNH CLXJM L BTW >CT CLMH
+NTN,462565,1_Kings,9,22,Hebrew,Main,N,prose,W M BNJ JFR>L L> NTN CLMH <BD
+NTN,462617,1_Kings,10,9,Hebrew,SubAdv,Q,prose,L TTK <L KS> JFR>L
+NTN,462621,1_Kings,10,10,Hebrew,Main,N,prose,W TTN L  MLK M>H W <FRJM KKR ZHB W BFMJM HRBH M>D W >BN JQRH
+NTN,462623,1_Kings,10,10,Hebrew,SubMod,N,prose,>CR NTNH MLKT CB> L  MLK CLMH
+NTN,462629,1_Kings,10,13,Hebrew,Main,N,prose,W H MLK CLMH NTN L MLKT CB> >T KL XPYH M L BD
+NTN,462631,1_Kings,10,13,Hebrew,SubMod,N,prose,>CR NTN LH K JD H MLK CLMH
+NTN,462641,1_Kings,10,17,Hebrew,Main,N,prose,W JTNM H MLK BJT J<R H LBNWN
+NTN,462660,1_Kings,10,24,Hebrew,SubMod,N,prose,>CR NTN >LHJM B LBW
+NTN,462666,1_Kings,10,27,Hebrew,Main,N,prose,W JTN H MLK >T H KSP B JRWCLM K  >BNJM
+NTN,462667,1_Kings,10,27,Hebrew,Main,N,prose,W >T H >RZJM NTN K  CQMJM
+NTN,462710,1_Kings,11,11,Hebrew,Main,Q,prose,W NTTJH L <BDK
+NTN,462714,1_Kings,11,13,Hebrew,Main,Q,prose,CBV >XD >TN L BNK LM<N DWD <BDJ W LM<N JRWCLM
+NTN,462733,1_Kings,11,18,Hebrew,Main,N,prose,W JTN LW BJT W LXM
+NTN,462735,1_Kings,11,18,Hebrew,Main,N,prose,W >RY NTN LW
+NTN,462737,1_Kings,11,19,Hebrew,Main,N,prose,W JTN LW >CH >T >XWT >CTW >XWT TXPNJS H GBJRH
+NTN,462790,1_Kings,11,31,Hebrew,Main,Q,prose,W NTTJ LK >T <FRH H CBVJM
+NTN,462804,1_Kings,11,35,Hebrew,Main,Q,prose,W NTTJH LK >T <FRT H CBVJM
+NTN,462805,1_Kings,11,36,Hebrew,Main,Q,prose,W L BNW >TN CBV >XD
+NTN,462824,1_Kings,11,38,Hebrew,Main,Q,prose,W NTTJ LK >T JFR>L
+NTN,462857,1_Kings,12,4,Hebrew,SubMod,Q,prose,>CR NTN <LJNW
+NTN,462887,1_Kings,12,9,Hebrew,SubMod,Q,prose,>CR NTN >BJK <LJNW
+NTN,462987,1_Kings,12,29,Hebrew,Main,N,prose,W >T H >XD NTN B DN
+NTN,463020,1_Kings,13,3,Hebrew,Main,?,prose,W NTN B  JWM H HW> MWPT
+NTN,463040,1_Kings,13,5,Hebrew,SubMod,N,prose,>CR NTN >JC H >LHJM B DBR JHWH
+NTN,463052,1_Kings,13,7,Hebrew,Main,Q,prose,W >TNH LK MTT
+NTN,463054,1_Kings,13,8,Hebrew,Main,Q,prose,>M TTN LJ >T XYJ BJTK
+NTN,463159,1_Kings,13,26,Hebrew,Main,N,prose,W JTNHW JHWH L  >RJH
+NTN,463243,1_Kings,14,7,Hebrew,Main,N,prose,W >TNK NGJD <L <MJ JFR>L
+NTN,463245,1_Kings,14,8,Hebrew,Main,N,prose,W >TNH LK
+NTN,463287,1_Kings,14,15,Hebrew,SubMod,Q,prose,>CR NTN L >BWTJHM
+NTN,463291,1_Kings,14,16,Hebrew,Main,Q,prose,W JTN >T JFR>L B GLL XV>WT JRB<M
+NTN,463353,1_Kings,15,4,Hebrew,SubAdv,?,prose,KJ LM<N DWD NTN JHWH >LHJW LW NJR B JRWCLM
+NTN,463387,1_Kings,15,17,Hebrew,SubAdv,N,prose,L BLTJ TT JY> W B> L >S> MLK JHWDH
+NTN,463390,1_Kings,15,18,Hebrew,Main,N,prose,W JTNM B JD <BDJW
+NTN,463456,1_Kings,16,2,Hebrew,SubAdv,N,prose,W >TNK NGJD <L <MJ JFR>L
+NTN,463461,1_Kings,16,3,Hebrew,Main,Q,prose,W NTTJ >T BJTK K BJT JRB<M BN NBV
+NTN,463651,1_Kings,17,14,Hebrew,SubMod,Q,prose,TTN JHWH GCM <L PNJ H >DMH
+NTN,463670,1_Kings,17,19,Hebrew,Main,Q,prose,TNJ LJ >T BNK
+NTN,463691,1_Kings,17,23,Hebrew,Main,N,prose,W JTNHW L >MW
+NTN,463704,1_Kings,18,1,Hebrew,Main,Q,prose,W >TNH MVR <L PNJ H >DMH
+NTN,463741,1_Kings,18,9,Hebrew,SubAdv,Q,prose,KJ >TH NTN >T <BDK B JD >X>B
+NTN,463815,1_Kings,18,23,Hebrew,Main,Q,prose,W JTNW LNW CNJM PRJM
+NTN,463821,1_Kings,18,23,Hebrew,Main,Q,prose,W NTTJ <L H <YJM
+NTN,463839,1_Kings,18,26,Hebrew,SubMod,N,prose,>CR NTN LHM
+NTN,464092,1_Kings,19,21,Hebrew,Main,N,prose,W JTN L  <M
+NTN,464120,1_Kings,20,5,Hebrew,Main,Q,prose,KSPK W ZHBK W NCJK W BNJK LJ TTN
+NTN,464167,1_Kings,20,13,Hebrew,Main,Q,prose,HNNJ NTNW B JDK H JWM
+NTN,464245,1_Kings,20,28,Hebrew,Main,Q,prose,W NTTJ >T KL H HMWN H GDWL H ZH B JDK
+NTN,464346,1_Kings,21,2,Hebrew,Main,Q,prose,TNH LJ >T KRMK
+NTN,464349,1_Kings,21,2,Hebrew,Main,Q,prose,W >TNH LK TXTJW KRM
+NTN,464352,1_Kings,21,2,Hebrew,Main,Q,prose,>TNH LK KSP MXJR ZH
+NTN,464355,1_Kings,21,3,Hebrew,SubArg,Q,prose,M TTJ >T NXLT >BTJ LK
+NTN,464360,1_Kings,21,4,Hebrew,Main,Q,prose,L> >TN LK >T NXLT >BWTJ
+NTN,464371,1_Kings,21,6,Hebrew,Main,Q,prose,TNH LJ >T KRMK B KSP
+NTN,464372,1_Kings,21,6,Hebrew,Main,Q,prose,>W >TNH LK KRM TXTJW
+NTN,464375,1_Kings,21,6,Hebrew,Main,Q,prose,L> >TN LK >T KRMJ
+NTN,464381,1_Kings,21,7,Hebrew,Main,Q,prose,>NJ >TN LK >T KRM NBWT H JZR<>LJ
+NTN,464425,1_Kings,21,15,Hebrew,SubAdv,Q,prose,L TT LK B KSP
+NTN,464466,1_Kings,21,22,Hebrew,Main,Q,prose,W NTTJ >T BJTK K BJT JRB<M BN NBV W K BJT B<C> BN >XJH
+NTN,464524,1_Kings,22,6,Hebrew,Main,Q,prose,W JTN >DNJ B JD H MLK
+NTN,464553,1_Kings,22,12,Hebrew,Main,Q,prose,W NTN JHWH B JD H MLK
+NTN,464574,1_Kings,22,15,Hebrew,Main,Q,prose,W NTN JHWH B JD H MLK
+NTN,464616,1_Kings,22,23,Hebrew,Main,Q,prose,HNH NTN JHWH RWX CQR B PJ KL NBJ>JK >LH
+NTN,465043,2_Kings,3,10,Hebrew,SubAdv,Q,prose,L TT >WTM B JD MW>B
+NTN,465060,2_Kings,3,13,Hebrew,SubAdv,Q,prose,L TT >WTM B JD MW>B
+NTN,465081,2_Kings,3,18,Hebrew,Main,Q,prose,W NTN >T MW>B B JDKM
+NTN,465377,2_Kings,4,42,Hebrew,Main,Q,prose,TN L  <M
+NTN,465380,2_Kings,4,43,Hebrew,Main,Q,prose,MH >TN ZH L PNJ M>H >JC
+NTN,465382,2_Kings,4,43,Hebrew,Main,Q,prose,TN L  <M
+NTN,465387,2_Kings,4,44,Hebrew,Main,N,prose,W JTN L PNJHM
+NTN,465392,2_Kings,5,1,Hebrew,SubAdv,?,prose,KJ BW NTN JHWH TCW<H L >RM
+NTN,465493,2_Kings,5,17,Hebrew,Main,Q,prose,JTN N> L <BDK MF> YMD PRDJM >DMH
+NTN,465525,2_Kings,5,22,Hebrew,Main,Q,prose,TNH N> LHM KKR KSP W CTJ XLPWT BGDJM
+NTN,465531,2_Kings,5,23,Hebrew,Main,N,prose,W JTN >L CNJ N<RJW
+NTN,465712,2_Kings,6,28,Hebrew,Main,Q,prose,TNJ >T BNK
+NTN,465718,2_Kings,6,29,Hebrew,Main,Q,prose,TNJ >T BNK
+NTN,465925,2_Kings,8,6,Hebrew,Main,N,prose,W JTN LH H MLK SRJS >XD
+NTN,466002,2_Kings,8,19,Hebrew,SubAdv,N,prose,L TT LW NJR
+NTN,466080,2_Kings,9,9,Hebrew,Main,Q,prose,W NTTJ >T BJT >X>B K BJT JRB<M BN NBV W K BJT B<C> BN >XJH
+NTN,466336,2_Kings,10,15,Hebrew,Main,Q,prose,TNH >T JDK
+NTN,466337,2_Kings,10,15,Hebrew,Main,N,prose,W JTN JDW
+NTN,466480,2_Kings,11,10,Hebrew,Main,N,prose,W JTN H KHN L FRJ H M>JWT >T H XNJT W >T H CLVJM
+NTN,466486,2_Kings,11,12,Hebrew,Main,N,prose,W JTN <LJW >T H NZR W >T H <DWT
+NTN,466555,2_Kings,12,8,Hebrew,SubAdv,Q,prose,KJ L BDQ H BJT TTNHW
+NTN,466561,2_Kings,12,10,Hebrew,Main,N,prose,W JTN >TW >YL H MZBX B JMJN
+NTN,466563,2_Kings,12,10,Hebrew,Main,N,prose,W NTNW CMH H KHNJM CMRJ H SP >T KL H KSP
+NTN,466572,2_Kings,12,12,Hebrew,Main,N,prose,W NTNW >T H KSP H MTKN <L JD <FJ H ML>KH
+NTN,466581,2_Kings,12,15,Hebrew,SubAdv,D,prose,KJ L <FJ H ML>KH JTNHW
+NTN,466584,2_Kings,12,16,Hebrew,SubMod,D,prose,>CR JTNW >T H KSP <L JDM
+NTN,466585,2_Kings,12,16,Hebrew,SubAdv,D,prose,L TT L <FJ H ML>KH
+NTN,466617,2_Kings,13,3,Hebrew,Main,N,prose,W JTNM B JD XZ>L MLK >RM W B JD BN_HDD BN XZ>L KL H JMJM
+NTN,466622,2_Kings,13,5,Hebrew,Main,N,prose,W JTN JHWH L JFR>L MWCJ<
+NTN,466754,2_Kings,14,9,Hebrew,Main,Q,prose,TNH >T BTK L BNJ L >CH
+NTN,466883,2_Kings,15,19,Hebrew,Main,N,prose,W JTN MNXM L PWL >LP KKR KSP
+NTN,466887,2_Kings,15,20,Hebrew,SubAdv,N,prose,L TT L MLK >CWR
+NTN,466999,2_Kings,16,14,Hebrew,Main,N,prose,W JTN >TW <L JRK H MZBX YPWNH
+NTN,467012,2_Kings,16,17,Hebrew,Main,N,prose,W JTN >TW <L MRYPT >BNJM
+NTN,467095,2_Kings,17,20,Hebrew,Main,N,prose,W JTNM B JD CSJM
+NTN,467236,2_Kings,18,14,Hebrew,SubArg,Q,prose,>T >CR TTN <LJ
+NTN,467239,2_Kings,18,15,Hebrew,Main,N,prose,W JTN XZQJH >T KL H KSP
+NTN,467243,2_Kings,18,16,Hebrew,Main,N,prose,W JTNM L MLK >CWR
+NTN,467279,2_Kings,18,23,Hebrew,Main,Q,prose,W >TNH LK >LPJM SWSJM
+NTN,467281,2_Kings,18,23,Hebrew,SubArg,Q,prose,L TT LK RKBJM <LJHM
+NTN,467314,2_Kings,18,30,Hebrew,Main,Q,prose,W L> TNTN >T H <JR H Z>T B JD MLK >CWR
+NTN,467373,2_Kings,19,7,Hebrew,Main,Q,prose,HNNJ NTN BW RWX
+NTN,467394,2_Kings,19,10,Hebrew,Main,Q,prose,L> TNTN JRWCLM B JD MLK >CWR
+NTN,467424,2_Kings,19,18,Hebrew,Main,Q,prose,W NTNW >T >LHJHM B  >C
+NTN,467651,2_Kings,21,8,Hebrew,SubMod,Q,prose,>CR NTTJ L >BWTM
+NTN,467680,2_Kings,21,14,Hebrew,Main,Q,prose,W NTTJM B JD >JBJHM
+NTN,467736,2_Kings,22,5,Hebrew,Main,Q,prose,W JTNH <L JD <FJ H ML>KH
+NTN,467738,2_Kings,22,5,Hebrew,Main,Q,prose,W JTNW >TW L <FJ H ML>KH L  XRCJM W L  BNJM W L  GDRJM
+NTN,467744,2_Kings,22,7,Hebrew,SubMod,Q,prose,H NTN <L JDM
+NTN,467748,2_Kings,22,8,Hebrew,Main,N,prose,W JTN XLQJH >T H SPR >L CPN
+NTN,467755,2_Kings,22,9,Hebrew,Main,N,prose,W JTNHW <L JD <FJ H ML>KH
+NTN,467759,2_Kings,22,10,Hebrew,Main,Q,prose,SPR NTN LJ XLQJH H KHN
+NTN,467831,2_Kings,23,5,Hebrew,SubMod,N,prose,>CR NTNW MLKJ JHWDH
+NTN,467853,2_Kings,23,11,Hebrew,SubMod,N,prose,>CR NTNW MLKJ JHWDH L  CMC
+NTN,467959,2_Kings,23,33,Hebrew,Main,N,prose,W JTN <NC <L H >RY M>H KKR KSP W KKR ZHB
+NTN,467965,2_Kings,23,35,Hebrew,Main,N,prose,W H KSP W H ZHB NTN JHWJQJM L PR<H
+NTN,467967,2_Kings,23,35,Hebrew,SubAdv,N,prose,L TT >T H KSP <L PJ PR<H
+NTN,467970,2_Kings,23,35,Hebrew,SubAdv,N,prose,L TT L PR<H NKH
+NTN,468129,2_Kings,25,28,Hebrew,Main,N,prose,W JTN >T KS>W M <L KS> H MLKJM
+NTN,468134,2_Kings,25,30,Hebrew,Main,N,prose,>RXT TMJD NTNH LW M >T H MLK DBR JWM B JWMW KL JMJ XJW
+NTN,468332,Isaiah,3,4,Hebrew,Main,Q,prophecy,W NTTJ N<RJM FRJHM
+NTN,468679,Isaiah,7,14,Hebrew,Main,Q,prophecy,LKN JTN >DNJ HW> LKM >WT
+NTN,468789,Isaiah,8,18,Hebrew,SubMod,Q,prophecy,>CR NTN LJ JHWH
+NTN,468830,Isaiah,9,5,Hebrew,Main,Q,prophecy,BN NTN LNW
+NTN,469730,Isaiah,22,21,Hebrew,Main,Q,prophecy,W MMCLTK >TN B JDW
+NTN,469732,Isaiah,22,22,Hebrew,Main,Q,prophecy,W NTTJ MPTX BJT DWD <L CKMW
+NTN,470057,Isaiah,27,4,Hebrew,Main,D,prophecy,MJ JTNNJ CMJR CJT
+NTN,470275,Isaiah,29,11,Hebrew,SubMod,D,prophecy,>CR JTNW >TW >L JWD< HSPR
+NTN,470281,Isaiah,29,12,Hebrew,Main,N,prophecy,W NTN H SPR
+NTN,470428,Isaiah,30,20,Hebrew,Main,Q,prophecy,W NTN LKM >DNJ LXM YR W MJM LXY
+NTN,470441,Isaiah,30,23,Hebrew,Main,Q,prophecy,W NTN MVR ZR<K W LXM TBW>T H >DMH
+NTN,470667,Isaiah,33,16,Hebrew,Main,Q,prophecy,LXMW NTN
+NTN,470714,Isaiah,34,2,Hebrew,Main,Q,prophecy,NTNM L  VBX
+NTN,470780,Isaiah,35,2,Hebrew,Main,D,prophecy,KBWD H LBNWN NTN LH HDR H KRML W H CRWN
+NTN,470845,Isaiah,36,8,Hebrew,Main,Q,prophecy,W >TNH LK >LPJM SWSJM
+NTN,470847,Isaiah,36,8,Hebrew,SubArg,Q,prophecy,L TT LK RKBJM <LJHM
+NTN,470879,Isaiah,36,15,Hebrew,Main,Q,prophecy,L> TNTN H <JR H Z>T B JD MLK >CWR
+NTN,470935,Isaiah,37,7,Hebrew,Main,Q,prophecy,HNNJ NWTN BW RWX
+NTN,470956,Isaiah,37,10,Hebrew,Main,Q,prophecy,L> TNTN JRWCLM B JD MLK >CWR
+NTN,470986,Isaiah,37,19,Hebrew,Main,Q,prophecy,W NTN >T >LHJHM B  >C
+NTN,471293,Isaiah,40,23,Hebrew,SubAdv,Q,prophecy,H NWTN RWZNJM L >JN
+NTN,471323,Isaiah,40,29,Hebrew,Main,Q,prophecy,NTN L  J<P KX
+NTN,471342,Isaiah,41,2,Hebrew,Main,Q,prophecy,JTN L PNJW GWJM
+NTN,471344,Isaiah,41,2,Hebrew,Main,Q,prophecy,JTN K  <PR XRBW
+NTN,471426,Isaiah,41,19,Hebrew,Main,Q,prophecy,>TN B  MDBR >RZ CVH W HDS W <Y CMN
+NTN,471476,Isaiah,41,27,Hebrew,Main,Q,prophecy,MBFR >TN
+NTN,471490,Isaiah,42,1,Hebrew,Main,Q,prophecy,NTTJ RWXJ <LJW
+NTN,471507,Isaiah,42,5,Hebrew,Main,Q,prophecy,NTN NCMH L  <M <LJH
+NTN,471513,Isaiah,42,6,Hebrew,Main,Q,prophecy,W >TNK L BRJT <M L >WR GWJM
+NTN,471519,Isaiah,42,8,Hebrew,Main,Q,prophecy,W KBWDJ L >XR L> >TN
+NTN,471594,Isaiah,42,24,Hebrew,Main,Q,prophecy,MJ NTN L MCWSH J<QB
+NTN,471622,Isaiah,43,3,Hebrew,Main,Q,prophecy,NTTJ KPRK MYRJM
+NTN,471627,Isaiah,43,4,Hebrew,Main,Q,prophecy,W >TN >DM TXTJK
+NTN,471634,Isaiah,43,6,Hebrew,Main,Q,prophecy,TNJ
+NTN,471652,Isaiah,43,9,Hebrew,Main,Q,prophecy,JTNW <DJHM
+NTN,471687,Isaiah,43,16,Hebrew,SubMod,Q,prophecy,H NWTN B  JM DRK
+NTN,471702,Isaiah,43,20,Hebrew,SubAdv,Q,prophecy,KJ NTTJ B  MDBR MJM
+NTN,471730,Isaiah,43,28,Hebrew,Main,Q,prophecy,W >TNH L  XRM J<QB
+NTN,471911,Isaiah,45,3,Hebrew,Main,Q,prophecy,W NTTJ LK >WYRWT XCK W MVMNJ MSTRJM
+NTN,472103,Isaiah,46,13,Hebrew,Main,Q,prophecy,W NTTJ B YJWN TCW<H L JFR>L TP>RTJ
+NTN,472132,Isaiah,47,6,Hebrew,Main,N,prophecy,W >TNM B JDK
+NTN,472245,Isaiah,48,11,Hebrew,Main,Q,prophecy,W KBWDJ L >XR L> >TN
+NTN,472332,Isaiah,49,6,Hebrew,Main,Q,prophecy,W NTTJK L >WR GWJM
+NTN,472347,Isaiah,49,8,Hebrew,Main,Q,prophecy,W >TNK L BRJT <M
+NTN,472454,Isaiah,50,4,Hebrew,Main,Q,prophecy,>DNJ JHWH NTN LJ LCWN LMWDJM
+NTN,472463,Isaiah,50,6,Hebrew,Main,Q,prophecy,GWJ NTTJ L MKJM
+NTN,472565,Isaiah,51,12,Hebrew,SubMod,D,prophecy,XYJR JNTN
+NTN,472736,Isaiah,53,9,Hebrew,Main,N,prophecy,W JTN >T RC<JM QBRW
+NTN,472853,Isaiah,55,4,Hebrew,Main,Q,prophecy,HN <D L>WMJM NTTJW NGJD W MYWH L>MJM
+NTN,472882,Isaiah,55,10,Hebrew,SubAdv,Q,prophecy,W NTN ZR< L  ZR<
+NTN,472924,Isaiah,56,5,Hebrew,Main,Q,prophecy,W NTTJ LHM B BJTJ W B XWMTJ JD W CM
+NTN,472926,Isaiah,56,5,Hebrew,Main,Q,prophecy,CM <WLM >TN LW
+NTN,473350,Isaiah,61,3,Hebrew,SubArg,Q,prophecy,L TT LHM P>R TXT >PR
+NTN,473374,Isaiah,61,8,Hebrew,Main,Q,prophecy,W NTTJ P<LTM B >MT
+NTN,473419,Isaiah,62,7,Hebrew,Main,Q,prophecy,W >L TTNW DMJ LW
+NTN,473423,Isaiah,62,8,Hebrew,SubAdv,Q,prophecy,>M >TN >T DGNK <WD M>KL L >JBJK
+NTN,473842,Jeremiah,1,5,Hebrew,Main,Q,prophecy,NBJ> L  GWJM NTTJK
+NTN,473862,Jeremiah,1,9,Hebrew,Main,Q,prophecy,HNH NTTJ DBRJ B PJK
+NTN,473893,Jeremiah,1,15,Hebrew,Main,Q,prophecy,W NTNW PTX C<RJ JRWCLM W <L KL XWMTJH SBJB W <L KL <RJ JHWDH
+NTN,473906,Jeremiah,1,18,Hebrew,Main,Q,prophecy,HNH NTTJK H JWM L <JR MBYR W L <MWD BRZL W L XMWT NXCT <L KL H >RY L MLKJ JHWDH L FRJH L KHNJH W L <M H >RY
+NTN,473977,Jeremiah,2,15,Hebrew,Main,Q,prophecy,NTNW QWLM
+NTN,474128,Jeremiah,3,8,Hebrew,Main,N,prophecy,W >TN >T SPR KRJTTJH >LJH
+NTN,474161,Jeremiah,3,15,Hebrew,Main,Q,prophecy,W NTTJ LKM R<JM K LBJ
+NTN,474181,Jeremiah,3,19,Hebrew,Main,Q,prophecy,W >TN LK >RY XMDH NXLT YBJ YB>WT GWJM
+NTN,474282,Jeremiah,4,16,Hebrew,Main,N,prophecy,W JTNW <L <RJ JHWDH QWLM
+NTN,474427,Jeremiah,5,14,Hebrew,Main,Q,prophecy,HNNJ NTN DBRJ B PJK L >C
+NTN,474481,Jeremiah,5,24,Hebrew,SubMod,Q,prophecy,H NTN GCM WJRH W MLQWC B <TW
+NTN,474615,Jeremiah,6,21,Hebrew,Main,Q,prophecy,HNNJ NTN >L H <M H ZH MKCLJM
+NTN,474641,Jeremiah,6,27,Hebrew,Main,Q,prophecy,BXWN NTTJK B <MJ MBYR
+NTN,474676,Jeremiah,7,7,Hebrew,SubMod,Q,prophecy,>CR NTTJ L >BWTJKM L MN <WLM W <D <WLM
+NTN,474714,Jeremiah,7,14,Hebrew,SubMod,Q,prophecy,>CR NTTJ LKM W L >BWTJKM
+NTN,474850,Jeremiah,8,10,Hebrew,Main,Q,prophecy,LKN >TN >T NCJHM L >XRJM
+NTN,474871,Jeremiah,8,13,Hebrew,Main,N,prophecy,W >TN LHM
+NTN,474908,Jeremiah,8,23,Hebrew,Main,Q,prophecy,MJ JTN R>CJ MJM
+NTN,474911,Jeremiah,9,1,Hebrew,Main,Q,prophecy,MJ JTNNJ B  MDBR MLWN >RXJM
+NTN,474957,Jeremiah,9,10,Hebrew,Main,Q,prophecy,W NTTJ >T JRWCLM L GLJM M<WN TNJM
+NTN,474958,Jeremiah,9,10,Hebrew,Main,Q,prophecy,W >T <RJ JHWDH >TN CMMH M BLJ JWCB
+NTN,474968,Jeremiah,9,12,Hebrew,SubMod,Q,prophecy,>CR NTTJ L PNJHM
+NTN,475078,Jeremiah,10,13,Hebrew,SubMod,Q,prophecy,TTW
+NTN,475156,Jeremiah,11,5,Hebrew,SubMod,Q,prophecy,L TT LHM >RY ZBT XLB W DBC
+NTN,475285,Jeremiah,12,7,Hebrew,Main,Q,prophecy,NTTJ >T JDDWT NPCJ B KP >JBJH
+NTN,475287,Jeremiah,12,8,Hebrew,Main,Q,prophecy,NTNH <LJ B QWLH
+NTN,475296,Jeremiah,12,10,Hebrew,Main,Q,prophecy,NTNW >T XLQT XMDTJ L MDBR CMMH
+NTN,475407,Jeremiah,13,16,Hebrew,Main,Q,prophecy,TNW L JHWH >LHJKM KBWD
+NTN,475430,Jeremiah,13,20,Hebrew,SubMod,Q,prophecy,NTN LK
+NTN,475521,Jeremiah,14,13,Hebrew,SubAdv,Q,prophecy,KJ CLWM >MT >TN LKM B  MQWM H ZH
+NTN,475566,Jeremiah,14,22,Hebrew,SubAdv,Q,prophecy,W >M H CMJM JTNW RBBJM
+NTN,475596,Jeremiah,15,4,Hebrew,Main,Q,prophecy,W NTTJM L ZW<H L KL MMLKWT H >RY B GLL MNCH BN JXZQJHW MLK JHWDH
+NTN,475622,Jeremiah,15,9,Hebrew,Main,D,prophecy,W C>RJTM L  XRB >TN L PNJ >JBJHM
+NTN,475635,Jeremiah,15,13,Hebrew,Main,Q,prophecy,XJLK W >WYRWTJK L BZ >TN
+NTN,475675,Jeremiah,15,20,Hebrew,Main,Q,prophecy,W NTTJK L  <M H ZH L XWMT NXCT BYWRH
+NTN,475742,Jeremiah,16,13,Hebrew,SubMod,Q,prophecy,>CR L> >TN LKM XNJNH
+NTN,475754,Jeremiah,16,15,Hebrew,SubMod,Q,prophecy,>CR NTTJ L >BWTM
+NTN,475783,Jeremiah,17,3,Hebrew,Main,Q,prophecy,XJLK KL >WYRWTJK L BZ >TN
+NTN,475787,Jeremiah,17,4,Hebrew,SubMod,Q,prophecy,>CR NTTJ LK
+NTN,475819,Jeremiah,17,10,Hebrew,Main,Q,prophecy,W L TT L >JC K DRKW K PRJ M<LLJW
+NTN,475988,Jeremiah,18,21,Hebrew,Main,Q,prophecy,LKN TN >T BNJHM L  R<B
+NTN,476037,Jeremiah,19,7,Hebrew,Main,Q,prophecy,W NTTJ >T NBLTM L M>KL L <WP H CMJM W L BHMT H >RY
+NTN,476058,Jeremiah,19,12,Hebrew,Main,Q,prophecy,W L TT >T H <JR H Z>T K TPT
+NTN,476077,Jeremiah,20,2,Hebrew,Main,N,prophecy,W JTN >TW <L H MHPKT
+NTN,476086,Jeremiah,20,4,Hebrew,Main,Q,prophecy,HNNJ NTNK L MGWR LK W L KL >HBJK
+NTN,476089,Jeremiah,20,4,Hebrew,Main,Q,prophecy,W >T KL JHWDH >TN B JD MLK BBL
+NTN,476092,Jeremiah,20,5,Hebrew,Main,Q,prophecy,W NTTJ >T KL XSN H <JR H Z>T W >T KL JGJ<H W >T KL JQRH
+NTN,476093,Jeremiah,20,5,Hebrew,Main,Q,prophecy,W >T KL >WYRWT MLKJ JHWDH >TN B JD >JBJHM
+NTN,476185,Jeremiah,21,7,Hebrew,Main,Q,prophecy,>TN >T YDQJHW MLK JHWDH W >T <BDJW W >T H <M B JD NBWKDR>YR MLK BBL W B JD >JBJHM W B JD MBQCJ NPCM
+NTN,476193,Jeremiah,21,8,Hebrew,Main,Q,prophecy,HNNJ NTN L PNJKM >T DRK H XJJM W >T DRK H MWT
+NTN,476204,Jeremiah,21,10,Hebrew,Main,Q,prophecy,B JD MLK BBL TNTN
+NTN,476282,Jeremiah,22,13,Hebrew,Main,Q,prophecy,W P<LW L> JTN LW
+NTN,476316,Jeremiah,22,20,Hebrew,Main,Q,prophecy,W B  BCN TNJ QWLK
+NTN,476337,Jeremiah,22,25,Hebrew,Main,Q,prophecy,W NTTJK B JD MBQCJ NPCK W B JD W B JD NBWKDR>YR MLK BBL W B JD H KFDJM
+NTN,476559,Jeremiah,23,39,Hebrew,SubMod,Q,prophecy,>CR NTTJ LKM W L >BWTJKM
+NTN,476560,Jeremiah,23,40,Hebrew,Main,Q,prophecy,W NTTJ <LJKM XRPT <WLM W KLMWT <WLM
+NTN,476589,Jeremiah,24,7,Hebrew,Main,Q,prophecy,W NTTJ LHM LB
+NTN,476598,Jeremiah,24,8,Hebrew,Main,Q,prophecy,KN >TN >T YDQJHW MLK JHWDH W >T FRJW W >T C>RJT JRWCLM W H JCBJM B >RY MYRJM
+NTN,476600,Jeremiah,24,9,Hebrew,Main,Q,prophecy,W NTTJM L ZW<H L R<H L KL MMLKWT H >RY
+NTN,476605,Jeremiah,24,10,Hebrew,SubMod,Q,prophecy,>CR NTTJ LHM W L >BWTJHM
+NTN,476626,Jeremiah,25,5,Hebrew,SubMod,Q,prophecy,>CR NTN JHWH LKM W L >BWTJKM L MN <WLM W <D <WLM
+NTN,476672,Jeremiah,25,18,Hebrew,SubAdv,N,prophecy,L TT >TM L XRBH L CMH L CRQH W L QLLH K  JWM H ZH
+NTN,476712,Jeremiah,25,30,Hebrew,Main,Q,prophecy,W M M<WN QDCW JTN QWLW
+NTN,476719,Jeremiah,25,31,Hebrew,Main,Q,prophecy,NTNM L  XRB
+NTN,476764,Jeremiah,26,4,Hebrew,SubMod,Q,prophecy,>CR NTTJ L PNJKM
+NTN,476770,Jeremiah,26,6,Hebrew,Main,Q,prophecy,W NTTJ >T H BJT H ZH K CLH
+NTN,476771,Jeremiah,26,6,Hebrew,Main,Q,prophecy,W >T H <JR H Z>TH >TN L QLLH L KL GWJJ H >RY
+NTN,476811,Jeremiah,26,15,Hebrew,SubAdv,Q,prophecy,KJ DM NQJ >TM NTNJM <LJKM W >L H <JR H Z>T W >L JCBJH
+NTN,476850,Jeremiah,26,24,Hebrew,SubAdv,?,prophecy,L BLTJ TT >TW B JD H <M
+NTN,476856,Jeremiah,27,2,Hebrew,Main,Q,prophecy,W NTTM <L YW>RK
+NTN,476865,Jeremiah,27,5,Hebrew,Main,Q,prophecy,W NTTJH
+NTN,476868,Jeremiah,27,6,Hebrew,Main,Q,prophecy,>NKJ NTTJ >T KL H >RYWT H >LH B JD NBWKDN>YR MLK BBL <BDJ
+NTN,476869,Jeremiah,27,6,Hebrew,Main,Q,prophecy,W GM >T XJT H FDH NTTJ LW
+NTN,476877,Jeremiah,27,8,Hebrew,SubAdv,Q,prophecy,W >T >CR L> JTN >T YW>RW B <L MLK BBL
+NTN,476995,Jeremiah,28,14,Hebrew,Main,Q,prophecy,<L BRZL NTTJ <L YW>R KL H GWJM H >LH
+NTN,476998,Jeremiah,28,14,Hebrew,Main,Q,prophecy,W GM >T XJT H FDH NTTJ LW
+NTN,477026,Jeremiah,29,6,Hebrew,Main,Q,prophecy,W >T BNWTJKM TNW L >NCJM
+NTN,477052,Jeremiah,29,11,Hebrew,SubAdv,Q,prophecy,L TT LKM >XRJT W TQWH
+NTN,477076,Jeremiah,29,17,Hebrew,Main,Q,prophecy,W NTTJ >WTM K  T>NJM H C<RJM
+NTN,477079,Jeremiah,29,18,Hebrew,Main,Q,prophecy,W NTTJM L ZW<H L KL MMLKWT H >RY
+NTN,477094,Jeremiah,29,21,Hebrew,Main,Q,prophecy,HNNJ NTN >TM B JD NBWKDR>YR MLK BBL
+NTN,477116,Jeremiah,29,26,Hebrew,Main,Q,prophecy,JHWH NTNK KHN TXT JHWJD< H KHN
+NTN,477118,Jeremiah,29,26,Hebrew,SubAdv,Q,prophecy,W NTTH >TW >L H MHPKT W >L H YJNQ
+NTN,477159,Jeremiah,30,3,Hebrew,SubMod,Q,prophecy,>CR NTTJ L >BWTM
+NTN,477223,Jeremiah,30,16,Hebrew,Main,Q,prophecy,W KL BZZJK >TN L BZ
+NTN,477421,Jeremiah,31,33,Hebrew,Main,Q,prophecy,NTTJ >T TWRTJ B QRBM
+NTN,477435,Jeremiah,31,35,Hebrew,SubMod,Q,prophecy,NTN CMC L >WR JWMM
+NTN,477469,Jeremiah,32,3,Hebrew,Main,Q,prophecy,HNNJ NTN >T H <JR H Z>T B JD MLK BBL
+NTN,477472,Jeremiah,32,4,Hebrew,SubAdv,Q,prophecy,KJ HNTN JNTN B JD MLK BBL
+NTN,477509,Jeremiah,32,12,Hebrew,Main,N,prophecy,W >TN >T H SPR H MQNH >L BRWK BN NRJH BN MXSJH L <JNJ XNM>L DDJ W L <JNJ H <DJM L <JNJ KL H JHWDJM
+NTN,477516,Jeremiah,32,14,Hebrew,Main,Q,prophecy,W NTTM B KLJ XRF
+NTN,477521,Jeremiah,32,16,Hebrew,SubAdv,N,prophecy,>XRJ TTJ >T SPR H MQNH >L BRWK BN NRJH
+NTN,477534,Jeremiah,32,19,Hebrew,SubAdv,Q,prophecy,L TT L >JC K DRKJW W K PRJ M<LLJW
+NTN,477538,Jeremiah,32,22,Hebrew,Main,N,prophecy,W TTN LHM >T H >RY H Z>T >RY ZBT XLB W DBC
+NTN,477540,Jeremiah,32,22,Hebrew,SubAdv,N,prophecy,L TT LHM
+NTN,477551,Jeremiah,32,24,Hebrew,Main,Q,prophecy,W H <JR NTNH B JD H KFDJM M PNJ H XRB W H R<B W H DBR
+NTN,477560,Jeremiah,32,25,Hebrew,Main,Q,prophecy,W H <JR NTNH B JD H KFDJM
+NTN,477567,Jeremiah,32,28,Hebrew,Main,Q,prophecy,HNNJ NTN >T H <JR H Z>T B JD H KFDJM W B JD NBWKDR>YR MLK BBL
+NTN,477608,Jeremiah,32,36,Hebrew,Main,Q,prophecy,NTNH B JD MLK BBL B  XRB W B  R<B W B  DBR
+NTN,477615,Jeremiah,32,39,Hebrew,Main,Q,prophecy,W NTTJ LHM LB >XD W DRK >XD
+NTN,477621,Jeremiah,32,40,Hebrew,Main,Q,prophecy,W >T JR>TJ >TN B LBBM
+NTN,477633,Jeremiah,32,43,Hebrew,Main,Q,prophecy,NTNH B JD H KFDJM
+NTN,477753,Jeremiah,34,2,Hebrew,Main,Q,prophecy,HNNJ NTN >T H <JR H Z>T B JD MLK BBL
+NTN,477757,Jeremiah,34,3,Hebrew,Main,Q,prophecy,W B JDW TNTN
+NTN,477832,Jeremiah,34,17,Hebrew,Main,Q,prophecy,W NTTJ >TKM L ZW<H L KL MMLKWT H >RY
+NTN,477833,Jeremiah,34,18,Hebrew,Main,Q,prophecy,W NTTJ >T H >NCJM H <GL
+NTN,477841,Jeremiah,34,20,Hebrew,Main,Q,prophecy,W NTTJ >WTM B JD >JBJHM W B JD MBQCJ NPCM
+NTN,477843,Jeremiah,34,21,Hebrew,Main,Q,prophecy,W >T YDQJHW MLK JHWDH W >T FRJW >TN B JD >JBJHM W B JD MBQCJ NPCM W B JD XJL MLK BBL
+NTN,477851,Jeremiah,34,22,Hebrew,Main,Q,prophecy,W >T <RJ JHWDH >TN CMMH M >JN JCB
+NTN,477863,Jeremiah,35,5,Hebrew,Main,N,prophecy,W >TN L PNJ BNJ BJT H RKBJM GB<JM W KSWT
+NTN,477917,Jeremiah,35,15,Hebrew,SubMod,Q,prophecy,>CR NTTJ LKM W L >BTJKM
+NTN,478068,Jeremiah,36,32,Hebrew,Main,N,prophecy,W JTNH >L BRWK BN NRJHW H SPR
+NTN,478081,Jeremiah,37,4,Hebrew,Main,N,prophecy,W L> NTNW >TW BJT H KLJ>
+NTN,478128,Jeremiah,37,15,Hebrew,Main,N,prophecy,W NTNW >WTW BJT H >SWR BJT JHWNTN H SPR
+NTN,478140,Jeremiah,37,17,Hebrew,Main,Q,prophecy,B JD MLK BBL TNTN
+NTN,478143,Jeremiah,37,18,Hebrew,SubAdv,Q,prophecy,KJ NTTM >WTJ >L BJT H KL>
+NTN,478156,Jeremiah,37,21,Hebrew,Main,N,prophecy,W NTN LW KKR LXM L  JWM M XWY H >PJM
+NTN,478170,Jeremiah,38,3,Hebrew,Main,Q,prophecy,HNTN TNTN H <JR H Z>T B JD XJL MLK BBL
+NTN,478193,Jeremiah,38,7,Hebrew,SubArg,N,prophecy,KJ NTNW >T JRMJHW >L H BWR
+NTN,478235,Jeremiah,38,16,Hebrew,SubAdv,Q,prophecy,W >M >TNK B JD H >NCJM H >LH
+NTN,478244,Jeremiah,38,18,Hebrew,Main,Q,prophecy,W NTNH H <JR H Z>T B JD H KFDJM
+NTN,478250,Jeremiah,38,19,Hebrew,SubAdv,Q,prophecy,PN JTNW >TJ B JDM
+NTN,478253,Jeremiah,38,20,Hebrew,Main,Q,prophecy,L> JTNW
+NTN,478327,Jeremiah,39,10,Hebrew,Main,N,prophecy,W JTN LHM KRMJM W JGBJM B  JWM H HW>
+NTN,478338,Jeremiah,39,14,Hebrew,Main,N,prophecy,W JTNW >TW >L GDLJHW BN >XJQM BN CPN
+NTN,478353,Jeremiah,39,17,Hebrew,Main,Q,prophecy,W L> TNTN B JD H >NCJM
+NTN,478397,Jeremiah,40,5,Hebrew,Main,N,prophecy,W JTN LW RB VBXJM >RXH W MF>T
+NTN,478427,Jeremiah,40,11,Hebrew,SubArg,N,prophecy,KJ NTN MLK BBL C>RJT L JHWDH
+NTN,478585,Jeremiah,42,12,Hebrew,Main,Q,prophecy,W >TN LKM RXMJM
+NTN,478659,Jeremiah,43,3,Hebrew,SubAdv,Q,prophecy,LM<N TT >TNW B JD H KFDJM
+NTN,478746,Jeremiah,44,10,Hebrew,SubMod,Q,prophecy,>CR NTTJ L PNJKM W L PNJ >BWTJKM
+NTN,478856,Jeremiah,44,30,Hebrew,Main,Q,prophecy,HNNJ NTN >T PR<H XPR< MLK MYRJM B JD >JBJW W B JD MBQCJ NPCW
+NTN,478857,Jeremiah,44,30,Hebrew,SubAdv,Q,prophecy,K >CR NTTJ >T YDQJHW MLK JHWDH B JD NBWKDR>YR MLK BBL >JBW W MBQC NPCW
+NTN,478881,Jeremiah,45,5,Hebrew,Main,Q,prophecy,W NTTJ LK >T NPCK L CLL <L KL H MQMWT
+NTN,478985,Jeremiah,46,24,Hebrew,Main,Q,prophecy,NTNH B JD <M YPWN
+NTN,478989,Jeremiah,46,26,Hebrew,Main,Q,prophecy,W NTTJM B JD MBQCJ NPCM W B JD NBWKDR>YR MLK BBL W B JD <BDJW
+NTN,479072,Jeremiah,48,9,Hebrew,Main,Q,prophecy,TNW YJY L MW>B
+NTN,479166,Jeremiah,48,34,Hebrew,Main,Q,prophecy,M Z<QT XCBWN <D >L<LH <D JHY NTNW QWLM
+NTN,479300,Jeremiah,49,15,Hebrew,SubAdv,Q,prophecy,KJ HNH QVN NTTJK B  GWJM
+NTN,479479,Jeremiah,50,15,Hebrew,Main,Q,prophecy,NTNH JDH
+NTN,479698,Jeremiah,51,16,Hebrew,SubMod,?,prophecy,TTW
+NTN,479734,Jeremiah,51,25,Hebrew,Main,Q,prophecy,W NTTJK L HR FRPH
+NTN,479858,Jeremiah,51,55,Hebrew,Main,Q,prophecy,NTN C>WN QWLM
+NTN,479939,Jeremiah,52,11,Hebrew,Main,N,prophecy,W JTNHW BBJT H PQDT <D JWM MWTW
+NTN,479997,Jeremiah,52,32,Hebrew,Main,N,prophecy,W JTN >T KS>W M M<L L KS>  MLKJM
+NTN,480002,Jeremiah,52,34,Hebrew,Main,N,prophecy,>RXT TMJD NTNH LW M >T MLK BBL DBR JWM B JWMW <D JWM MWTW KL JMJ XJJW
+NTN,480169,Ezekiel,2,8,Hebrew,SubArg,Q,prophecy,>T >CR >NJ NTN >LJK
+NTN,480191,Ezekiel,3,3,Hebrew,SubMod,Q,prophecy,>CR >NJ NTN >LJK
+NTN,480211,Ezekiel,3,8,Hebrew,Main,Q,prophecy,HNH NTTJ >T PNJK XZQJM L <MT PNJHM
+NTN,480213,Ezekiel,3,9,Hebrew,Main,Q,prophecy,K CMJR XZQ M YR NTTJ MYXK
+NTN,480250,Ezekiel,3,17,Hebrew,Main,Q,prophecy,YPH NTTJK L BJT JFR>L
+NTN,480269,Ezekiel,3,20,Hebrew,SubAdv,Q,prophecy,W NTTJ MKCWL L PNJW
+NTN,480300,Ezekiel,3,25,Hebrew,Main,Q,prophecy,HNH NTNW <LJK <BWTJM
+NTN,480319,Ezekiel,4,1,Hebrew,Main,Q,prophecy,W NTTH >WTH L PNJK
+NTN,480321,Ezekiel,4,2,Hebrew,Main,Q,prophecy,W NTTH <LJH MYWR
+NTN,480324,Ezekiel,4,2,Hebrew,Main,Q,prophecy,W NTTH <LJH MXNWT
+NTN,480328,Ezekiel,4,3,Hebrew,Main,Q,prophecy,W NTTH >WTH QJR BRZL BJNK W BJN H <JR
+NTN,480338,Ezekiel,4,5,Hebrew,Main,Q,prophecy,W >NJ NTTJ LK >T CNJ <WNM L MSPR JMJM CLC M>WT W TC<JM JWM
+NTN,480344,Ezekiel,4,6,Hebrew,Main,Q,prophecy,NTTJW LK
+NTN,480348,Ezekiel,4,8,Hebrew,Main,Q,prophecy,W HNH NTTJ <LJK <BWTJM
+NTN,480353,Ezekiel,4,9,Hebrew,Main,Q,prophecy,W NTTH >WTM B KLJ >XD
+NTN,480378,Ezekiel,4,15,Hebrew,Main,Q,prophecy,NTTJ LK >T YPW<J H BQR TXT GLLJ H >DM
+NTN,480456,Ezekiel,5,14,Hebrew,Main,Q,prophecy,W >TNK L XRBH W L XRPH B  GWJM L <JNJ KL <WBR
+NTN,480488,Ezekiel,6,5,Hebrew,Main,Q,prophecy,W NTTJ >T PGRJ BNJ JFR>L L PNJ GLWLJHM
+NTN,480530,Ezekiel,6,13,Hebrew,SubMod,Q,prophecy,>CR NTNW CM RJX NJXX L KL GLWLJHM
+NTN,480532,Ezekiel,6,14,Hebrew,Main,Q,prophecy,W NTTJ >T H >RY CMMH W MCMH M MDBR DBLTH B KL MWCBWTJHM
+NTN,480545,Ezekiel,7,3,Hebrew,Main,Q,prophecy,W NTTJ <LJK >T KL TW<BTJK
+NTN,480548,Ezekiel,7,4,Hebrew,SubAdv,Q,prophecy,KJ DRKJK <LJK >TN
+NTN,480568,Ezekiel,7,8,Hebrew,Main,Q,prophecy,W NTTJ <LJK >T KL TW<BWTJK
+NTN,480571,Ezekiel,7,9,Hebrew,Main,Q,prophecy,K DRKJK <LJK >TN
+NTN,480625,Ezekiel,7,20,Hebrew,Main,Q,prophecy,<L KN NTTJW LHM L NDH
+NTN,480626,Ezekiel,7,21,Hebrew,Main,Q,prophecy,W NTTJW B JD H ZRJM L BZ
+NTN,480810,Ezekiel,9,10,Hebrew,Main,Q,prophecy,DRKM B R>CM NTTJ
+NTN,480844,Ezekiel,10,7,Hebrew,Main,N,prophecy,W JTN >L XPNJ LBC H BDJM
+NTN,480948,Ezekiel,11,9,Hebrew,Main,Q,prophecy,W NTTJ >TKM B JD ZRJM
+NTN,480978,Ezekiel,11,15,Hebrew,Main,Q,prophecy,NTNH H >RY L MWRCH
+NTN,480992,Ezekiel,11,17,Hebrew,Main,Q,prophecy,W NTTJ LKM >T >DMT JFR>L
+NTN,480995,Ezekiel,11,19,Hebrew,Main,Q,prophecy,W NTTJ LHM LB >XD
+NTN,480996,Ezekiel,11,19,Hebrew,Main,Q,prophecy,W RWX XDCH >TN B QRBKM
+NTN,480998,Ezekiel,11,19,Hebrew,Main,Q,prophecy,W NTTJ LHM LB BFR
+NTN,481005,Ezekiel,11,21,Hebrew,Main,Q,prophecy,DRKM B R>CM NTTJ
+NTN,481044,Ezekiel,12,6,Hebrew,SubAdv,Q,prophecy,KJ MWPT NTTJK L BJT JFR>L
+NTN,481278,Ezekiel,14,3,Hebrew,Main,Q,prophecy,W MKCWL <WNM NTNW NKX PNJHM
+NTN,481304,Ezekiel,14,8,Hebrew,Main,Q,prophecy,W NTTJ PNJ B  >JC H HW>
+NTN,481391,Ezekiel,15,4,Hebrew,Main,Q,prophecy,HNH L  >C NTN L >KLH
+NTN,481404,Ezekiel,15,6,Hebrew,SubMod,Q,prophecy,>CR NTTJW L  >C L >KLH
+NTN,481405,Ezekiel,15,6,Hebrew,Main,Q,prophecy,KN NTTJ >T JCBJ JRWCLM
+NTN,481406,Ezekiel,15,7,Hebrew,Main,Q,prophecy,W NTTJ >T PNJ BHM
+NTN,481412,Ezekiel,15,8,Hebrew,Main,Q,prophecy,W NTTJ >T H >RY CMMH
+NTN,481442,Ezekiel,16,7,Hebrew,Main,N,prophecy,RBBH K YMX H FDH NTTJK
+NTN,481466,Ezekiel,16,11,Hebrew,Main,N,prophecy,W >TNH YMJDJM <L JDJK
+NTN,481468,Ezekiel,16,12,Hebrew,Main,N,prophecy,W >TN NZM <L >PK
+NTN,481490,Ezekiel,16,17,Hebrew,SubMod,N,prophecy,>CR NTTJ LK
+NTN,481495,Ezekiel,16,18,Hebrew,Main,N,prophecy,W CMNJ W QVRTJ NTTJ L PNJHM
+NTN,481497,Ezekiel,16,19,Hebrew,SubMod,N,prophecy,>CR NTTJ LK
+NTN,481499,Ezekiel,16,19,Hebrew,Main,N,prophecy,W NTTJHW L PNJHM L RJX NJXX
+NTN,481508,Ezekiel,16,21,Hebrew,Main,N,prophecy,W TTNJM
+NTN,481527,Ezekiel,16,27,Hebrew,Main,N,prophecy,W >TNK B NPC FN>WTJK BNWT PLCTJM
+NTN,481544,Ezekiel,16,33,Hebrew,Main,D,prophecy,L KL ZNWT JTNW NDH
+NTN,481545,Ezekiel,16,33,Hebrew,Main,D,prophecy,W >T NTT >T NDNJK L KL M>HBJK
+NTN,481550,Ezekiel,16,34,Hebrew,SubAdv,N,prophecy,W B TTK >TNN
+NTN,481551,Ezekiel,16,34,Hebrew,Main,N,prophecy,W >TNN L> NTN LK
+NTN,481560,Ezekiel,16,36,Hebrew,SubMod,Q,prophecy,>CR NTT LHM
+NTN,481571,Ezekiel,16,38,Hebrew,Main,Q,prophecy,W NTTJK DM XMH W QN>H
+NTN,481572,Ezekiel,16,39,Hebrew,Main,Q,prophecy,W NTTJ >WTK B JDM
+NTN,481584,Ezekiel,16,41,Hebrew,Main,Q,prophecy,W GM >TNN L> TTNJ <WD
+NTN,481592,Ezekiel,16,43,Hebrew,Main,Q,prophecy,H> DRKK B R>C NTTJ
+NTN,481660,Ezekiel,16,61,Hebrew,Main,Q,prophecy,W NTTJ >THN LK L BNWT
+NTN,481686,Ezekiel,17,5,Hebrew,Main,N,prophecy,W JTNHW B FDH ZR<
+NTN,481736,Ezekiel,17,15,Hebrew,SubAdv,N,prophecy,L TT LW SWSJM W <M RB
+NTN,481754,Ezekiel,17,18,Hebrew,Main,D,prophecy,W HNH NTN JDW
+NTN,481763,Ezekiel,17,19,Hebrew,Main,Q,prophecy,W NTTJW B R>CW
+NTN,481775,Ezekiel,17,22,Hebrew,Main,Q,prophecy,W NTTJ
+NTN,481818,Ezekiel,18,7,Hebrew,Main,Q,prophecy,LXMW L R<B JTN
+NTN,481820,Ezekiel,18,8,Hebrew,Main,Q,prophecy,B  NCK L> JTN
+NTN,481841,Ezekiel,18,13,Hebrew,Main,Q,prophecy,B  NCK NTN
+NTN,481859,Ezekiel,18,16,Hebrew,Main,Q,prophecy,LXMW L R<B NTN
+NTN,481980,Ezekiel,19,8,Hebrew,Main,N,prophecy,W JTNW <LJW GWJM SBJB M MDJNWT
+NTN,481983,Ezekiel,19,9,Hebrew,Main,N,prophecy,W JTNHW B  SWGR B  XXJM
+NTN,482060,Ezekiel,20,11,Hebrew,Main,N,prophecy,W >TN LHM >T XQWTJ
+NTN,482064,Ezekiel,20,12,Hebrew,Main,N,prophecy,W GM >T CBTWTJ NTTJ LHM
+NTN,482083,Ezekiel,20,15,Hebrew,SubMod,N,prophecy,>CR NTTJ
+NTN,482127,Ezekiel,20,25,Hebrew,Main,N,prophecy,W GM >NJ NTTJ LHM XQJM
+NTN,482145,Ezekiel,20,28,Hebrew,SubAdv,N,prophecy,L TT >WTH LHM
+NTN,482148,Ezekiel,20,28,Hebrew,Main,N,prophecy,W JTNW CM K<S QRBNM
+NTN,482217,Ezekiel,20,42,Hebrew,SubAdv,Q,prophecy,L TT >WTH L >BWTJKM
+NTN,482296,Ezekiel,21,16,Hebrew,Main,N,prophecy,W JTN >TH
+NTN,482301,Ezekiel,21,16,Hebrew,SubAdv,Q,prophecy,L TT >WTH B JD HWRG
+NTN,482322,Ezekiel,21,20,Hebrew,Main,Q,prophecy,<L KL C<RJHM NTTJ >BXT XRB
+NTN,482381,Ezekiel,21,32,Hebrew,SubAdv,Q,prophecy,W NTTJW
+NTN,482394,Ezekiel,21,34,Hebrew,SubAdv,Q,prophecy,L TT >WTK >L YW>RJ XLLJ RC<JM
+NTN,482402,Ezekiel,21,36,Hebrew,Main,Q,prophecy,W NTTJK B JD >NCJM B<RJM XRCJ MCXJT
+NTN,482427,Ezekiel,22,4,Hebrew,Main,Q,prophecy,<L KN NTTJK XRPH L  GWJM
+NTN,482535,Ezekiel,22,31,Hebrew,Main,N,prophecy,DRKM B R>CM NTTJ
+NTN,482560,Ezekiel,23,7,Hebrew,Main,N,prophecy,W TTN TZNWTJH <LJHM
+NTN,482568,Ezekiel,23,9,Hebrew,Main,N,prophecy,LKN NTTJH B JD M>HBJH B JD BNJ >CWR
+NTN,482626,Ezekiel,23,24,Hebrew,Main,Q,prophecy,W NTTJ L PNJHM MCPV
+NTN,482628,Ezekiel,23,25,Hebrew,Main,Q,prophecy,W NTTJ QN>TJ BK
+NTN,482641,Ezekiel,23,28,Hebrew,Main,Q,prophecy,HNNJ NTNK B JD
+NTN,482653,Ezekiel,23,31,Hebrew,Main,Q,prophecy,W NTTJ KWSH B JDK
+NTN,482700,Ezekiel,23,42,Hebrew,Main,N,prophecy,W JTNW YMJDJM >L JDJHN
+NTN,482714,Ezekiel,23,46,Hebrew,Main,Q,prophecy,W NTN >THN L Z<WH W L BZ
+NTN,482722,Ezekiel,23,49,Hebrew,Main,Q,prophecy,W NTNW ZMTKNH <LJKN
+NTN,482758,Ezekiel,24,8,Hebrew,Main,Q,prophecy,NTTJ >T DMH <L YXJX SL<
+NTN,482864,Ezekiel,25,4,Hebrew,Main,Q,prophecy,HNNJ NTNK L BNJ QDM L MWRCH
+NTN,482866,Ezekiel,25,4,Hebrew,Main,Q,prophecy,W NTNW BK MCKNJHM
+NTN,482869,Ezekiel,25,5,Hebrew,Main,Q,prophecy,W NTTJ >T RBH L NWH GMLJM
+NTN,482879,Ezekiel,25,7,Hebrew,Main,Q,prophecy,W NTTJK L BG L  GWJM
+NTN,482892,Ezekiel,25,10,Hebrew,Main,Q,prophecy,W NTTJH L MWRCH
+NTN,482906,Ezekiel,25,13,Hebrew,Main,Q,prophecy,W NTTJH XRBH M TJMN W DDNH
+NTN,482908,Ezekiel,25,14,Hebrew,Main,Q,prophecy,W NTTJ >T NQMTJ B >DWM B JD <MJ JFR>L
+NTN,482923,Ezekiel,25,17,Hebrew,SubAdv,Q,prophecy,B TTJ >T NQMTJ BM
+NTN,482943,Ezekiel,26,4,Hebrew,Main,Q,prophecy,W NTTJ >WTH L YXJX SL<
+NTN,482955,Ezekiel,26,8,Hebrew,Main,Q,prophecy,W NTN <LJK DJQ
+NTN,482958,Ezekiel,26,9,Hebrew,Main,Q,prophecy,W MXJ QBLW JTN B XMWTJK
+NTN,482973,Ezekiel,26,14,Hebrew,Main,Q,prophecy,W NTTJK L YXJX SL<
+NTN,482996,Ezekiel,26,17,Hebrew,SubMod,Q,prophecy,>CR NTNW XTJTM L KL JWCBJH
+NTN,483002,Ezekiel,26,19,Hebrew,Main,Q,prophecy,B TTJ >TK <JR NXRBT K  <RJM
+NTN,483009,Ezekiel,26,20,Hebrew,Main,Q,prophecy,W NTTJ YBJ B >RY XJJM
+NTN,483010,Ezekiel,26,21,Hebrew,Main,Q,prophecy,BLHWT >TNK
+NTN,483045,Ezekiel,27,10,Hebrew,Main,Q,prophecy,HMH NTNW HDRK
+NTN,483051,Ezekiel,27,12,Hebrew,Main,Q,prophecy,B KSP BRZL BDJL W <WPRT NTNW <ZBWNJK
+NTN,483054,Ezekiel,27,13,Hebrew,Main,Q,prophecy,B NPC >DM W KLJ NXCT NTNW M<RBK
+NTN,483055,Ezekiel,27,14,Hebrew,Main,Q,prophecy,M BJT TWGRMH SWSJM W PRCJM W PRDJM NTNW <ZBWNJK
+NTN,483060,Ezekiel,27,16,Hebrew,Main,Q,prophecy,B NPK >RGMN W RQMH W BWY W R>MT W KDKD NTNW B <ZBWNJK
+NTN,483063,Ezekiel,27,17,Hebrew,Main,Q,prophecy,B XVJ MNJT W PNG W DBC W CMN W YRJ NTNW M<RBK
+NTN,483066,Ezekiel,27,19,Hebrew,Main,Q,prophecy,WDN W JWN M >WZL B <ZBWNJK NTNW BRZL <CWT
+NTN,483075,Ezekiel,27,22,Hebrew,Main,Q,prophecy,B R>C KL BFM W B KL >BN JQRH W ZHB NTNW <ZBWNJK
+NTN,483126,Ezekiel,28,2,Hebrew,Main,N,prophecy,W TTN LBK K LB >LHJM
+NTN,483135,Ezekiel,28,6,Hebrew,SubAdv,Q,prophecy,J<N TTK >T LBBK K LB >LHJM
+NTN,483164,Ezekiel,28,14,Hebrew,Main,Q,prophecy,W NTTJK
+NTN,483179,Ezekiel,28,17,Hebrew,Main,Q,prophecy,L PNJ MLKJM NTTJK
+NTN,483184,Ezekiel,28,18,Hebrew,Main,N,prophecy,W >TNK L >PR <L H >RY L <JNJ KL R>JK
+NTN,483215,Ezekiel,28,25,Hebrew,SubMod,Q,prophecy,>CR NTTJ L <BDJ L J<QB
+NTN,483239,Ezekiel,29,4,Hebrew,Main,Q,prophecy,W NTTJ XXJJM B LXJJK
+NTN,483247,Ezekiel,29,5,Hebrew,Main,Q,prophecy,L XJT H >RY W L <WP H CMJM NTTJK L >KLH
+NTN,483269,Ezekiel,29,10,Hebrew,Main,Q,prophecy,W NTTJ >T >RY MYRJM L XRBWT XRB CMMH M MGDL_SWNH W <D GBWL KWC
+NTN,483273,Ezekiel,29,12,Hebrew,Main,Q,prophecy,W NTTJ >T >RY MYRJM CMMH B TWK >RYWT NCMWT
+NTN,483303,Ezekiel,29,19,Hebrew,Main,Q,prophecy,HNNJ NTN L NBWKDR>YR MLK BBL >T >RY MYRJM
+NTN,483308,Ezekiel,29,20,Hebrew,Main,Q,prophecy,P<LTW NTTJ LW >T >RY MYRJM
+NTN,483313,Ezekiel,29,21,Hebrew,Main,Q,prophecy,W LK >TN PTXWN PH B TWKM
+NTN,483342,Ezekiel,30,8,Hebrew,SubAdv,Q,prophecy,B TTJ >C B MYRJM
+NTN,483354,Ezekiel,30,12,Hebrew,Main,Q,prophecy,W NTTJ J>RJM XRBH
+NTN,483362,Ezekiel,30,13,Hebrew,Main,Q,prophecy,W NTTJ JR>H B >RY MYRJM
+NTN,483364,Ezekiel,30,14,Hebrew,Main,Q,prophecy,W NTTJ >C B Y<N
+NTN,483368,Ezekiel,30,16,Hebrew,Main,Q,prophecy,W NTTJ >C B MYRJM
+NTN,483391,Ezekiel,30,21,Hebrew,SubAdv,Q,prophecy,L TT RP>WT
+NTN,483404,Ezekiel,30,24,Hebrew,Main,Q,prophecy,W NTTJ >T XRBJ B JDW
+NTN,483411,Ezekiel,30,25,Hebrew,SubAdv,Q,prophecy,B TTJ XRBJ B JD MLK BBL
+NTN,483450,Ezekiel,31,10,Hebrew,Main,N,prophecy,W JTN YMRTW >L BJN <BWTJM
+NTN,483452,Ezekiel,31,11,Hebrew,Main,Q,prophecy,W >TNHW B JD >JL GWJM
+NTN,483464,Ezekiel,31,14,Hebrew,Main,D,prophecy,W L> JTNW >T YMRTM >L BJN <BTJM
+NTN,483466,Ezekiel,31,14,Hebrew,SubAdv,D,prophecy,KJ KLM NTNW L  MWT >L >RY TXTJT B TWK BNJ >DM >L JWRDJ BWR
+NTN,483505,Ezekiel,32,5,Hebrew,Main,Q,prophecy,W NTTJ >T BFRK <L H HRJM
+NTN,483516,Ezekiel,32,8,Hebrew,Main,Q,prophecy,W NTTJ XCK <L >RYK
+NTN,483539,Ezekiel,32,15,Hebrew,SubAdv,Q,prophecy,B TTJ >T >RY MYRJM CMMH
+NTN,483560,Ezekiel,32,20,Hebrew,Main,Q,prophecy,XRB NTNH
+NTN,483569,Ezekiel,32,23,Hebrew,SubMod,Q,prophecy,>CR NTNW QBRTJH B JRKTJ BWR
+NTN,483573,Ezekiel,32,23,Hebrew,SubMod,Q,prophecy,>CR NTNW XTJT B >RY XJJM
+NTN,483578,Ezekiel,32,24,Hebrew,SubAdv,Q,prophecy,>CR NTNW XTJTM B >RY XJJM
+NTN,483580,Ezekiel,32,25,Hebrew,Main,Q,prophecy,B TWK XLLJM NTNW MCKB LH B KL HMWNH
+NTN,483584,Ezekiel,32,25,Hebrew,SubAdv,Q,prophecy,KJ NTN XTJTM B >RY XJJM
+NTN,483586,Ezekiel,32,25,Hebrew,Main,Q,prophecy,B TWK XLLJM NTN
+NTN,483590,Ezekiel,32,26,Hebrew,SubAdv,Q,prophecy,KJ NTNW XTJTM B >RY XJJM
+NTN,483594,Ezekiel,32,27,Hebrew,SubAdv,N,prophecy,W JTNW >T XRBWTM TXT R>CJHM
+NTN,483600,Ezekiel,32,29,Hebrew,SubMod,Q,prophecy,>CR NTNW B GBWRTM >T XLLJ XRB
+NTN,483612,Ezekiel,32,32,Hebrew,SubAdv,Q,prophecy,KJ NTTJ >T XTJTW B >RY XJJM
+NTN,483623,Ezekiel,33,2,Hebrew,Main,Q,prophecy,W NTNW >TW LHM L YPH
+NTN,483649,Ezekiel,33,7,Hebrew,Main,Q,prophecy,YPH NTTJK L BJT JFR>L
+NTN,483749,Ezekiel,33,24,Hebrew,Main,Q,prophecy,LNW NTNH H >RY L MWRCH
+NTN,483769,Ezekiel,33,27,Hebrew,Main,Q,prophecy,L  XJH NTTJW
+NTN,483773,Ezekiel,33,28,Hebrew,Main,Q,prophecy,W NTTJ >T H >RY CMMH W MCMH
+NTN,483778,Ezekiel,33,29,Hebrew,SubAdv,Q,prophecy,B TTJ >T H >RY CMMH W MCMH <L KL TW<BTM
+NTN,483914,Ezekiel,34,26,Hebrew,Main,Q,prophecy,W NTTJ >WTM W SBJBWT GB<TJ BRKH
+NTN,483917,Ezekiel,34,27,Hebrew,Main,Q,prophecy,W NTN <Y H FDH >T PRJW
+NTN,483918,Ezekiel,34,27,Hebrew,Main,Q,prophecy,W H >RY TTN JBWLH
+NTN,483950,Ezekiel,35,3,Hebrew,Main,Q,prophecy,W NTTJK CMMH W MCMH
+NTN,483964,Ezekiel,35,7,Hebrew,Main,Q,prophecy,W NTTJ >T HR F<JR L CMMH W CMMH
+NTN,483969,Ezekiel,35,9,Hebrew,Main,Q,prophecy,CMMWT <WLM >TNK
+NTN,483991,Ezekiel,35,12,Hebrew,Main,Q,prophecy,LNW NTNW L >KLH
+NTN,484034,Ezekiel,36,5,Hebrew,SubMod,Q,prophecy,>CR NTNW >T >RYJ LHM L MWRCH B FMXT KL LBB B C>V NPC
+NTN,484050,Ezekiel,36,8,Hebrew,Main,Q,prophecy,<NPKM TTNW
+NTN,484128,Ezekiel,36,26,Hebrew,Main,Q,prophecy,W NTTJ LKM LB XDC
+NTN,484129,Ezekiel,36,26,Hebrew,Main,Q,prophecy,W RWX XDCH >TN B QRBKM
+NTN,484131,Ezekiel,36,26,Hebrew,Main,Q,prophecy,W NTTJ LKM LB BFR
+NTN,484132,Ezekiel,36,27,Hebrew,Main,Q,prophecy,W >T RWXJ >TN B QRBKM
+NTN,484138,Ezekiel,36,28,Hebrew,SubMod,Q,prophecy,>CR NTTJ L >BTJKM
+NTN,484144,Ezekiel,36,29,Hebrew,Main,Q,prophecy,W L> >TN <LJKM R<B
+NTN,484207,Ezekiel,37,6,Hebrew,Main,Q,prophecy,W NTTJ <LJKM GDJM
+NTN,484210,Ezekiel,37,6,Hebrew,Main,Q,prophecy,W NTTJ BKM RWX
+NTN,484265,Ezekiel,37,14,Hebrew,Main,Q,prophecy,W NTTJ RWXJ BKM
+NTN,484291,Ezekiel,37,19,Hebrew,Main,Q,prophecy,W NTTJ >WTM <LJW >T <Y JHWDH
+NTN,484318,Ezekiel,37,25,Hebrew,SubMod,Q,prophecy,>CR NTTJ L <BDJ L J<QB
+NTN,484324,Ezekiel,37,26,Hebrew,Main,Q,prophecy,W NTTJM
+NTN,484326,Ezekiel,37,26,Hebrew,Main,Q,prophecy,W NTTJ >T MQDCJ B TWKM L <WLM
+NTN,484343,Ezekiel,38,4,Hebrew,Main,Q,prophecy,W NTTJ XXJM B LXJJK
+NTN,484447,Ezekiel,39,4,Hebrew,Main,Q,prophecy,L <JV YPWR KL KNP W XJT H FDH NTTJK L >KLH
+NTN,484475,Ezekiel,39,11,Hebrew,Main,Q,prophecy,>TN L GWG MQWM GJ H <BRJM QDMT H JM
+NTN,484516,Ezekiel,39,21,Hebrew,Main,Q,prophecy,W NTTJ >T KBWDJ B  GWJM
+NTN,484526,Ezekiel,39,23,Hebrew,SubAdv,N,prophecy,W >TNM B JD YRJHM
+NTN,484946,Ezekiel,43,8,Hebrew,SubAdv,Q,prophecy,B TTM SPM >T SPJ
+NTN,484995,Ezekiel,43,19,Hebrew,Main,Q,prophecy,W NTTH >L H KHNJM H LWJM PR BN BQR L XV>T
+NTN,485001,Ezekiel,43,20,Hebrew,Main,Q,prophecy,W NTTH <L >RB< QRNTJW W >L >RB< PNWT H <ZRH W >L H GBWL SBJB
+NTN,485086,Ezekiel,44,14,Hebrew,Main,Q,prophecy,W NTTJ >WTM CMRJ MCMRT H BJT L KL <BDTW W L KL
+NTN,485140,Ezekiel,44,28,Hebrew,Main,Q,prophecy,W >XZH L> TTNW LHM B JFR>L
+NTN,485146,Ezekiel,44,30,Hebrew,Main,Q,prophecy,W R>CJT <RSWTJKM TTNW L  KHN
+NTN,485167,Ezekiel,45,6,Hebrew,Main,Q,prophecy,W >XZT H <JR TTNW XMCT >LPJM RXB W >RK XMCH W <FRJM >LP L <MT TRWMT H QDC
+NTN,485174,Ezekiel,45,8,Hebrew,Main,Q,prophecy,W H >RY JTNW L BJT JFR>L L CBVJHM
+NTN,485208,Ezekiel,45,19,Hebrew,Main,Q,prophecy,W NTN >L MZWZT H BJT W >L >RB< PNWT H <ZRH L  MZBX W <L MZWZT C<R H XYR H PNJMJT
+NTN,485279,Ezekiel,46,16,Hebrew,Main,Q,prophecy,KJ JTN H NFJ> MTNH L >JC M BNJW
+NTN,485283,Ezekiel,46,17,Hebrew,SubAdv,Q,prophecy,W KJ JTN MTNH M NXLTW L >XD M <BDJW
+NTN,485376,Ezekiel,47,11,Hebrew,Main,Q,prophecy,L MLX NTNW
+NTN,485392,Ezekiel,47,14,Hebrew,SubAdv,Q,prophecy,L TTH L >BTJKM
+NTN,485425,Ezekiel,47,23,Hebrew,Main,Q,prophecy,CM TTNW NXLTW
+NTN,485606,Hosea,2,7,Hebrew,Main,Q,prophecy,>LKH >XRJ M>HBJ NTNJ LXMJ W MJMJ YMRJ W PCTJ CMNJ W CQWJJ
+NTN,485620,Hosea,2,10,Hebrew,SubArg,Q,prophecy,KJ >NKJ NTTJ LH H DGN W H TJRWC W H JYHR
+NTN,485635,Hosea,2,14,Hebrew,SubMod,Q,prophecy,>CR NTNW LJ M>HBJ
+NTN,485648,Hosea,2,17,Hebrew,Main,Q,prophecy,W NTTJ LH >T KRMJH M CM
+NTN,485798,Hosea,5,4,Hebrew,Main,Q,prophecy,L> JTNW M<LLJHM
+NTN,486067,Hosea,9,14,Hebrew,Main,Q,prophecy,TN LHM
+NTN,486069,Hosea,9,14,Hebrew,SubArg,Q,prophecy,MH TTN
+NTN,486070,Hosea,9,14,Hebrew,Main,Q,prophecy,TN LHM RXM MCKJL W CDJM YMQJM
+NTN,486180,Hosea,11,8,Hebrew,Main,Q,prophecy,>JK >TNK
+NTN,486184,Hosea,11,8,Hebrew,Main,Q,prophecy,>JK >TNK K >DMH
+NTN,486296,Hosea,13,10,Hebrew,Main,Q,prophecy,TNH LJ MLK W FRJM
+NTN,486297,Hosea,13,11,Hebrew,Main,Q,prophecy,>TN LK MLK B >PJ
+NTN,486486,Joel,2,11,Hebrew,Main,Q,prophecy,W JHWH NTN QWLW L PNJ XJLW
+NTN,486519,Joel,2,17,Hebrew,Main,Q,prophecy,W >L TTN NXLTK L XRPH
+NTN,486529,Joel,2,19,Hebrew,Main,Q,prophecy,W L> >TN >TKM <WD XRPH B  GWJM
+NTN,486548,Joel,2,22,Hebrew,Main,Q,prophecy,T>NH W GPN NTNW XJLM
+NTN,486552,Joel,2,23,Hebrew,SubAdv,Q,prophecy,KJ NTN LKM >T H MWRH L YDQH
+NTN,486577,Joel,3,3,Hebrew,Main,Q,prophecy,W NTTJ MWPTJM B  CMJM W B  >RY
+NTN,486597,Joel,4,3,Hebrew,SubAdv,N,prophecy,W JTNW H JLD B  ZWNH
+NTN,486646,Joel,4,16,Hebrew,Main,Q,prophecy,W M JRWCLM JTN QWLW
+NTN,486675,Amos,1,2,Hebrew,Main,Q,prophecy,W M JRWCLM JTN QWLW
+NTN,486791,Amos,3,4,Hebrew,Main,Q,prophecy,H JTN KPJR QWLW M M<NTW
+NTN,486867,Amos,4,6,Hebrew,Main,Q,prophecy,W GM >NJ NTTJ LKM NQJWN CNJM B KL <RJKM
+NTN,487307,Amos,9,15,Hebrew,SubMod,Q,prophecy,>CR NTTJ LHM
+NTN,487315,Obadiah,1,2,Hebrew,Main,Q,prophecy,HNH QVN NTTJK B  GWJM
+NTN,487405,Jonah,1,3,Hebrew,Main,N,prophecy,W JTN FKRH
+NTN,487474,Jonah,1,14,Hebrew,Main,Q,prophecy,W >L TTN <LJNW DM NQJ>
+NTN,487681,Micah,1,14,Hebrew,Main,Q,prophecy,LKN TTNJ CLWXJM <L MWRCT_GT
+NTN,487777,Micah,3,5,Hebrew,SubAdv,Q,prophecy,W >CR L> JTN <L PJHM
+NTN,487888,Micah,5,2,Hebrew,Main,Q,prophecy,JTNM <D <T
+NTN,487961,Micah,6,7,Hebrew,Main,Q,prophecy,H >TN BKWRJ PC<J
+NTN,487989,Micah,6,14,Hebrew,Main,Q,prophecy,W L  XRB >TN
+NTN,487999,Micah,6,16,Hebrew,SubAdv,Q,prophecy,LM<N TTJ >TK L CMH
+NTN,488085,Micah,7,20,Hebrew,Main,Q,prophecy,TTN >MT L J<QB
+NTN,488509,Habakkuk,3,10,Hebrew,Main,Q,prophecy,NTN THWM QWLW
+NTN,488706,Zephaniah,3,5,Hebrew,Main,D,prophecy,B  BQR B  BQR MCPVW JTN
+NTN,488780,Zephaniah,3,20,Hebrew,SubAdv,Q,prophecy,KJ >TN >TKM L CM W L THLH B KL <MJ H >RY
+NTN,488881,Haggai,2,9,Hebrew,Main,Q,prophecy,W B  MQWM H ZH >TN CLWM
+NTN,489148,Zechariah,3,7,Hebrew,Main,Q,prophecy,W NTTJ LK MHLKJM BJN H <MDJM H >LH
+NTN,489155,Zechariah,3,9,Hebrew,SubMod,Q,prophecy,>CR NTTJ L PNJ JHWC<
+NTN,489401,Zechariah,7,11,Hebrew,Main,N,prophecy,W JTNW KTP SRRT
+NTN,489460,Zechariah,8,12,Hebrew,Main,Q,prophecy,H GPN TTN PRJH
+NTN,489461,Zechariah,8,12,Hebrew,Main,Q,prophecy,W H >RY TTN >T JBWLH
+NTN,489462,Zechariah,8,12,Hebrew,Main,Q,prophecy,W H CMJM JTNW VLM
+NTN,489596,Zechariah,10,1,Hebrew,Main,Q,prophecy,W MVR GCM JTN LHM
+NTN,490028,Malachi,2,2,Hebrew,SubAdv,Q,prophecy,L TT KBWD L CMJ
+NTN,490042,Malachi,2,5,Hebrew,Main,N,prophecy,W >TNM LW MWR>
+NTN,490056,Malachi,2,9,Hebrew,Main,Q,prophecy,W GM >NJ NTTJ >TKM NBZJM W CPLJM L KL H <M
+NTN,490220,Psalms,1,3,Hebrew,SubMod,D,poetry,>CR PRJW JTN B <TW
+NTN,490248,Psalms,2,8,Hebrew,Main,Q,poetry,W >TNH GWJM NXLTK
+NTN,490324,Psalms,4,8,Hebrew,Main,Q,poetry,NTTH FMXH B LBJ M <T
+NTN,490601,Psalms,10,14,Hebrew,SubAdv,Q,poetry,L TT B JDK
+NTN,490715,Psalms,14,7,Hebrew,Main,Q,poetry,MJ JTN
+NTN,490735,Psalms,15,5,Hebrew,Main,Q,poetry,KSPW L> NTN B NCK
+NTN,490767,Psalms,16,10,Hebrew,SubAdv,Q,poetry,L> TTN XSJDK
+NTN,490868,Psalms,18,14,Hebrew,Main,D,poetry,W <LJWN JTN QLW
+NTN,490917,Psalms,18,33,Hebrew,SubAdv,N,poetry,W JTN TMJM DRKJ
+NTN,490922,Psalms,18,36,Hebrew,Main,N,poetry,W TTN LJ MGN JC<K
+NTN,490938,Psalms,18,41,Hebrew,Main,D,poetry,NTTH LJ <RP
+NTN,490959,Psalms,18,48,Hebrew,SubMod,D,poetry,H NWTN NQMWT LJ
+NTN,491022,Psalms,20,5,Hebrew,Main,Q,poetry,JTN LK K LBBK
+NTN,491047,Psalms,21,3,Hebrew,Main,Q,poetry,T>WT LBW NTTH LW
+NTN,491053,Psalms,21,5,Hebrew,Main,Q,poetry,NTTH LW >RK JMJM <WLM W <D
+NTN,491373,Psalms,27,12,Hebrew,Main,Q,poetry,>L TTNNJ B NPC YRJ
+NTN,491395,Psalms,28,4,Hebrew,Main,Q,poetry,TN LHM K P<LM W K R< M<LLJHM
+NTN,491396,Psalms,28,4,Hebrew,Main,Q,poetry,K M<FH JDJHM TN LHM
+NTN,491437,Psalms,29,11,Hebrew,Main,Q,poetry,JHWH <Z L <MW JTN
+NTN,491626,Psalms,33,7,Hebrew,Main,Q,poetry,NTN B >YRWT THWMWT
+NTN,491871,Psalms,37,4,Hebrew,Main,Q,poetry,W JTN LK MC>LT LBK
+NTN,491920,Psalms,37,21,Hebrew,Main,Q,poetry,W NWTN
+NTN,492065,Psalms,39,6,Hebrew,Main,Q,poetry,HNH VPXWT NTTH JMJ
+NTN,492109,Psalms,40,4,Hebrew,Main,N,poetry,W JTN B PJ CJR XDC
+NTN,492183,Psalms,41,3,Hebrew,Main,Q,poetry,W >L TTNHW B NPC >JBJW
+NTN,492314,Psalms,44,12,Hebrew,Main,D,poetry,TTNNW K Y>N M>KL
+NTN,492421,Psalms,46,7,Hebrew,Main,Q,poetry,NTN B QWLW
+NTN,492524,Psalms,49,8,Hebrew,Main,Q,poetry,L> JTN L >LHJM KPRW
+NTN,492619,Psalms,50,20,Hebrew,Main,Q,poetry,B BN >MK TTN DPJ
+NTN,492682,Psalms,51,18,Hebrew,SubAdv,Q,poetry,W >TNH
+NTN,492751,Psalms,53,7,Hebrew,Main,Q,poetry,MJ JTN
+NTN,492801,Psalms,55,7,Hebrew,Main,Q,poetry,MJ JTN
+NTN,492850,Psalms,55,23,Hebrew,Main,Q,poetry,L> JTN L <WLM MWV L  YDJQ
+NTN,493071,Psalms,60,6,Hebrew,Main,Q,poetry,NTTH L JR>JK NS
+NTN,493116,Psalms,61,6,Hebrew,SubAdv,Q,poetry,NTT JRCT JR>J CMK
+NTN,493299,Psalms,66,9,Hebrew,SubAdv,Q,poetry,W L> NTN L  MWV RGLNW
+NTN,493351,Psalms,67,7,Hebrew,Main,Q,poetry,>RY NTNH JBWLH
+NTN,493391,Psalms,68,12,Hebrew,Main,Q,poetry,>DNJ JTN >MR
+NTN,493460,Psalms,68,34,Hebrew,Main,Q,poetry,HN JTN B QWLW QWL <Z
+NTN,493461,Psalms,68,35,Hebrew,Main,Q,poetry,TNW <Z L >LHJM
+NTN,493467,Psalms,68,36,Hebrew,Main,Q,poetry,HW> NTN <Z W T<YMWT L  <M
+NTN,493507,Psalms,69,12,Hebrew,SubAdv,N,poetry,W >TNH LBWCJ FQ
+NTN,493542,Psalms,69,22,Hebrew,Main,N,poetry,W JTNW B BRWTJ R>C
+NTN,493557,Psalms,69,28,Hebrew,Main,Q,poetry,TNH <WN <L <WNM
+NTN,493697,Psalms,72,1,Hebrew,Main,Q,poetry,MCPVJK L MLK TN
+NTN,493727,Psalms,72,15,Hebrew,Main,Q,poetry,W JTN LW M ZHB CB>
+NTN,493846,Psalms,74,14,Hebrew,Main,Q,poetry,TTNNW M>KL L <M L YJJM
+NTN,493859,Psalms,74,19,Hebrew,Main,Q,poetry,>L TTN L XJT NPC TWRK
+NTN,493997,Psalms,77,18,Hebrew,Main,Q,poetry,QWL NTNW CXQJM
+NTN,494062,Psalms,78,20,Hebrew,SubArg,Q,poetry,TT
+NTN,494074,Psalms,78,24,Hebrew,Main,N,poetry,W DGN CMJM NTN LMW
+NTN,494132,Psalms,78,46,Hebrew,Main,N,poetry,W JTN L  XSJL JBWLM
+NTN,494167,Psalms,78,61,Hebrew,Main,N,poetry,W JTN L  CBJ <ZW
+NTN,494179,Psalms,78,66,Hebrew,Main,N,poetry,XRPT <WLM NTN LMW
+NTN,494198,Psalms,79,2,Hebrew,Main,Q,poetry,NTNW >T NBLT <BDJK M>KL L <WP H CMJM
+NTN,494300,Psalms,81,3,Hebrew,Main,Q,poetry,W TNW TP
+NTN,494449,Psalms,84,12,Hebrew,SubAdv,Q,poetry,XN W KBWD JTN JHWH
+NTN,494476,Psalms,85,8,Hebrew,Main,Q,poetry,W JC<K TTN LNW
+NTN,494487,Psalms,85,13,Hebrew,Main,Q,poetry,GM JHWH JTN H VWB
+NTN,494488,Psalms,85,13,Hebrew,Main,Q,poetry,W >RYNW TTN JBWLH
+NTN,494544,Psalms,86,16,Hebrew,Main,Q,poetry,TNH <ZK L <BDK
+NTN,494697,Psalms,89,28,Hebrew,Main,Q,poetry,>P >NJ BKWR >TNHW
+NTN,495131,Psalms,99,7,Hebrew,SubMod,Q,poetry,NTN LMW
+NTN,495349,Psalms,104,12,Hebrew,Main,Q,poetry,M BJN <P>JM JTNW QWL
+NTN,495393,Psalms,104,27,Hebrew,SubAdv,Q,poetry,L TT >KLM B <TW
+NTN,495394,Psalms,104,28,Hebrew,Main,Q,poetry,TTN LHM
+NTN,495447,Psalms,105,11,Hebrew,Main,Q,poetry,LK >TN >T >RY KN<N XBL NXLTKM
+NTN,495495,Psalms,105,32,Hebrew,Main,N,poetry,NTN GCMJHM BRD
+NTN,495525,Psalms,105,44,Hebrew,Main,N,poetry,W JTN LHM >RYWT GWJM
+NTN,495567,Psalms,106,15,Hebrew,Main,N,poetry,W JTN LHM C>LTM
+NTN,495623,Psalms,106,41,Hebrew,Main,N,poetry,W JTNM B JD GWJM
+NTN,495634,Psalms,106,46,Hebrew,Main,N,poetry,W JTN >WTM L RXMJM L PNJ KL CWBJHM
+NTN,495891,Psalms,111,5,Hebrew,Main,Q,poetry,VRP NTN L JR>JW
+NTN,495894,Psalms,111,6,Hebrew,SubAdv,Q,poetry,L TT LHM NXLT GWJM
+NTN,495926,Psalms,112,9,Hebrew,Main,Q,poetry,NTN L  >BJWNJM
+NTN,495979,Psalms,115,1,Hebrew,SubAdv,Q,poetry,KJ L CMK TN KBWD <L XSDK <L >MTK
+NTN,496020,Psalms,115,16,Hebrew,Main,Q,poetry,W H >RY NTN L BNJ >DM
+NTN,496124,Psalms,118,18,Hebrew,Main,Q,poetry,W L  MWT L> NTNNJ
+NTN,496406,Psalms,119,110,Hebrew,Main,Q,poetry,NTNW RC<JM PX LJ
+NTN,496571,Psalms,120,3,Hebrew,Main,Q,poetry,MH JTN LK
+NTN,496587,Psalms,121,3,Hebrew,Main,Q,poetry,>L JTN L  MWV RGLK
+NTN,496650,Psalms,124,6,Hebrew,SubMod,Q,poetry,C L> NTNNW VRP L CNJHM
+NTN,496702,Psalms,127,2,Hebrew,Main,Q,poetry,KN JTN L JDJDW CN>
+NTN,496787,Psalms,132,4,Hebrew,SubAdv,Q,poetry,>M >TN CNT L <JNJ
+NTN,496865,Psalms,135,12,Hebrew,SubAdv,Q,poetry,W NTN >RYM NXLH
+NTN,496937,Psalms,136,21,Hebrew,SubMod,N,poetry,W NTN >RYM L NXLH
+NTN,496945,Psalms,136,25,Hebrew,SubAdv,Q,poetry,NTN LXM L KL BFR
+NTN,497107,Psalms,140,9,Hebrew,Main,Q,poetry,>L TTN M>WJJ RC<
+NTN,497268,Psalms,144,10,Hebrew,SubMod,Q,poetry,H NWTN TCW<H L  MLKJM
+NTN,497324,Psalms,145,15,Hebrew,Main,Q,poetry,W >TH NWTN LHM >T >KLM B <TW
+NTN,497359,Psalms,146,7,Hebrew,SubAdv,Q,poetry,NTN LXM L  R<BJM
+NTN,497392,Psalms,147,9,Hebrew,SubAdv,Q,poetry,NWTN L BHMH LXMH
+NTN,497409,Psalms,147,16,Hebrew,SubAdv,Q,poetry,H NTN CLG K  YMR
+NTN,497442,Psalms,148,6,Hebrew,SubAdv,Q,poetry,XQ NTN
+NTN,497600,Job,1,21,Hebrew,Main,Q,poetry,JHWH NTN
+NTN,497604,Job,1,22,Hebrew,Main,N,poetry,W L> NTN TPLH L >LHJM
+NTN,497627,Job,2,4,Hebrew,Main,Q,poetry,W KL JTN B<D NPCW
+NTN,497724,Job,3,20,Hebrew,Main,Q,poetry,LMH JTN L <ML >WR
+NTN,497824,Job,5,10,Hebrew,SubMod,Q,poetry,H NTN MVR <L PNJ >RY
+NTN,497886,Job,6,8,Hebrew,Main,Q,poetry,MJ JTN
+NTN,497888,Job,6,8,Hebrew,Main,Q,poetry,W TQWTJ JTN >LWH
+NTN,498118,Job,9,18,Hebrew,Main,Q,poetry,L> JTNNJ
+NTN,498137,Job,9,24,Hebrew,Main,Q,poetry,>RY NTNH B JD RC<
+NTN,498249,Job,11,5,Hebrew,Main,Q,poetry,MJ JTN
+NTN,498377,Job,13,5,Hebrew,Main,Q,poetry,MJ JTN
+NTN,498447,Job,14,4,Hebrew,Main,Q,poetry,MJ JTN VHWR M VM>
+NTN,498475,Job,14,13,Hebrew,Main,Q,poetry,MJ JTN
+NTN,498554,Job,15,19,Hebrew,Main,Q,poetry,LHM L BDM NTNH H >RY
+NTN,498809,Job,19,23,Hebrew,Main,Q,poetry,MJ JTN >PW
+NTN,498811,Job,19,23,Hebrew,Main,Q,poetry,MJ JTN B  SPR
+NTN,499073,Job,23,3,Hebrew,Main,Q,poetry,MJ JTN
+NTN,499179,Job,24,23,Hebrew,Main,?,poetry,JTN LW L BVX
+NTN,499332,Job,28,15,Hebrew,Main,?,poetry,L> JTN SGWR TXTJH
+NTN,499368,Job,29,2,Hebrew,Main,Q,poetry,MJ JTNNJ K JRXJ QDM K JMJ
+NTN,499579,Job,31,30,Hebrew,Main,Q,poetry,W L> NTTJ XKJ
+NTN,499583,Job,31,31,Hebrew,Main,Q,poetry,MJ JTN
+NTN,499593,Job,31,35,Hebrew,Main,Q,poetry,MJ JTN LJ CM< LJ
+NTN,499891,Job,35,7,Hebrew,Main,Q,poetry,MH TTN LW
+NTN,499899,Job,35,10,Hebrew,SubMod,Q,poetry,NTN ZMRWT B  LJLH
+NTN,499921,Job,36,3,Hebrew,Main,Q,poetry,W L P<LJ >TN YDQ
+NTN,499928,Job,36,6,Hebrew,Main,Q,poetry,W MCPV <NJJM JTN
+NTN,499992,Job,36,31,Hebrew,SubAdv,Q,poetry,JTN >KL L MKBJR
+NTN,500019,Job,37,10,Hebrew,Main,Q,poetry,M NCMT >L JTN QRX
+NTN,500149,Job,38,36,Hebrew,Main,Q,poetry,>W MJ NTN L  FKWJ BJNH
+NTN,500210,Job,39,19,Hebrew,Main,Q,poetry,H TTN L  SWS GBWRH
+NTN,500421,Job,42,11,Hebrew,Main,N,poetry,W JTNW LW
+NTN,500431,Job,42,15,Hebrew,Main,N,poetry,W JTN LHM >BJHM NXLH B TWK >XJHM
+NTN,500441,Proverbs,1,4,Hebrew,SubAdv,?,poetry,L TT L PT>JM <RMH
+NTN,500481,Proverbs,1,20,Hebrew,Main,?,poetry,B  RXBWT TTN QWLH
+NTN,500525,Proverbs,2,3,Hebrew,SubAdv,Q,poetry,L  TBWNH TTN QWLK
+NTN,500530,Proverbs,2,6,Hebrew,SubAdv,Q,poetry,KJ JHWH JTN XKMH
+NTN,500636,Proverbs,3,28,Hebrew,Main,Q,poetry,W MXR >TN
+NTN,500649,Proverbs,3,34,Hebrew,Main,Q,poetry,W L <NJJM JTN XN
+NTN,500656,Proverbs,4,2,Hebrew,SubAdv,Q,poetry,KJ LQX VWB NTTJ LKM
+NTN,500680,Proverbs,4,9,Hebrew,Main,Q,poetry,TTN L R>CK LWJT XN
+NTN,500752,Proverbs,5,9,Hebrew,SubAdv,Q,poetry,PN TTN L >XRJM HWDK
+NTN,500796,Proverbs,6,4,Hebrew,Main,Q,poetry,>L TTN CNH L <JNJK
+NTN,500871,Proverbs,6,31,Hebrew,Main,Q,poetry,>T KL HWN BJTW JTN
+NTN,500953,Proverbs,8,1,Hebrew,Main,D,poetry,W TBWNH TTN QWLH
+NTN,501065,Proverbs,9,9,Hebrew,Main,Q,poetry,TN L XKM
+NTN,501116,Proverbs,10,10,Hebrew,Main,?,poetry,JTN <YBT
+NTN,501151,Proverbs,10,24,Hebrew,Main,?,poetry,W T>WT YDJQJM JTN
+NTN,501279,Proverbs,12,12,Hebrew,Main,?,poetry,W CRC YDJQJM JTN
+NTN,501342,Proverbs,13,10,Hebrew,Main,?,poetry,RQ B ZDWN JTN MYH
+NTN,501356,Proverbs,13,15,Hebrew,Main,?,poetry,FKL VWB JTN XN
+NTN,501974,Proverbs,21,26,Hebrew,Main,?,poetry,W YDJQ JTN
+NTN,502008,Proverbs,22,9,Hebrew,SubAdv,Q,poetry,KJ NTN M LXMW L  DL
+NTN,502026,Proverbs,22,16,Hebrew,Main,Q,poetry,NTN L <CJR
+NTN,502126,Proverbs,23,26,Hebrew,Main,Q,poetry,TNH LBK LJ
+NTN,502144,Proverbs,23,31,Hebrew,SubAdv,Q,poetry,KJ JTN B  KJS <JNW
+NTN,502346,Proverbs,26,8,Hebrew,SubArg,Q,poetry,NWTN L KSJL KBWD
+NTN,502544,Proverbs,28,27,Hebrew,Main,?,poetry,NWTN L  RC
+NTN,502589,Proverbs,29,15,Hebrew,Main,?,poetry,CBV W TWKXT JTN XKMH
+NTN,502596,Proverbs,29,17,Hebrew,Main,Q,poetry,W JTN M<DNJM L NPCK
+NTN,502616,Proverbs,29,25,Hebrew,Main,Q,poetry,XRDT >DM JTN MWQC
+NTN,502648,Proverbs,30,8,Hebrew,Main,Q,poetry,R>C W <CR >L TTN LJ
+NTN,502748,Proverbs,31,3,Hebrew,Main,Q,poetry,>L TTN L  NCJM XJLK
+NTN,502760,Proverbs,31,6,Hebrew,Main,Q,poetry,TNW CKR L >WBD
+NTN,502781,Proverbs,31,15,Hebrew,Main,N,poetry,W TTN VRP L BJTH
+NTN,502803,Proverbs,31,24,Hebrew,Main,?,poetry,W XGWR NTNH L  KN<NJ
+NTN,502820,Proverbs,31,31,Hebrew,Main,Q,poetry,TNW LH M PRJ JDJH
+NTN,502845,Ruth,1,6,Hebrew,SubAdv,N,prose,L TT LHM LXM
+NTN,502857,Ruth,1,9,Hebrew,Main,Q,prose,JTN JHWH LKM
+NTN,503039,Ruth,2,18,Hebrew,Main,N,prose,W TTN LH
+NTN,503171,Ruth,3,17,Hebrew,Main,Q,prose,CC H F<RJM H >LH NTN LJ
+NTN,503228,Ruth,4,7,Hebrew,Main,N,prose,W NTN L R<HW
+NTN,503245,Ruth,4,11,Hebrew,Main,Q,prose,JTN JHWH >T H >CH K RXL W K L>H
+NTN,503252,Ruth,4,12,Hebrew,SubMod,Q,prose,>CR JTN JHWH LK MN H N<RH H Z>T
+NTN,503256,Ruth,4,13,Hebrew,Main,N,prose,W JTN JHWH LH HRJWN
+NTN,503327,Song_of_songs,1,12,Hebrew,Main,Q,poetry,NRDJ NTN RJXW
+NTN,503382,Song_of_songs,2,13,Hebrew,Main,Q,poetry,W H GPNJM SMDR NTNW RJX
+NTN,503677,Song_of_songs,7,13,Hebrew,Main,Q,poetry,CM >TN >T DDJ LK
+NTN,503678,Song_of_songs,7,14,Hebrew,Main,Q,poetry,H DWD>JM NTNW RJX
+NTN,503682,Song_of_songs,8,1,Hebrew,Main,Q,poetry,MJ JTNK K >X LJ
+NTN,503712,Song_of_songs,8,7,Hebrew,SubAdv,Q,poetry,>M JTN >JC >T KL HWN BJTW B  >HBH
+NTN,503726,Song_of_songs,8,11,Hebrew,Main,Q,poetry,NTN >T H KRM L  NVRJM
+NTN,503797,Ecclesiastes,1,13,Hebrew,Main,Q,poetry,W NTTJ >T LBJ
+NTN,503802,Ecclesiastes,1,13,Hebrew,SubMod,Q,poetry,NTN >LHJM L BNJ H >DM
+NTN,503820,Ecclesiastes,1,17,Hebrew,Main,N,poetry,W >TNH LBJ
+NTN,503920,Ecclesiastes,2,21,Hebrew,Main,Q,poetry,W L >DM JTNNW XLQW
+NTN,503939,Ecclesiastes,2,26,Hebrew,SubAdv,Q,poetry,KJ L >DM NTN XKMH W D<T W FMXH
+NTN,503941,Ecclesiastes,2,26,Hebrew,Main,Q,poetry,W L  XWV> NTN <NJN
+NTN,503944,Ecclesiastes,2,26,Hebrew,SubAdv,Q,poetry,L TT L VWB L PNJ H >LHJM
+NTN,504007,Ecclesiastes,3,10,Hebrew,SubMod,Q,poetry,>CR NTN >LHJM L BNJ H >DM
+NTN,504010,Ecclesiastes,3,11,Hebrew,Main,Q,poetry,GM >T H <LM NTN B LBM
+NTN,504143,Ecclesiastes,4,17,Hebrew,SubAdv,Q,poetry,M TT H KSJLJM ZBX
+NTN,504164,Ecclesiastes,5,5,Hebrew,Main,Q,poetry,>L TTN >T PJK
+NTN,504224,Ecclesiastes,5,17,Hebrew,SubMod,Q,poetry,>CR NTN LW H >LHJM
+NTN,504227,Ecclesiastes,5,18,Hebrew,SubMod,Q,poetry,>CR NTN LW H >LHJM <CR W NKSJM
+NTN,504240,Ecclesiastes,6,2,Hebrew,SubMod,?,poetry,>CR JTN LW H >LHJM <CR W NKSJM W KBWD
+NTN,504298,Ecclesiastes,7,2,Hebrew,Main,?,poetry,W H XJ JTN >L LBW
+NTN,504355,Ecclesiastes,7,21,Hebrew,Main,Q,poetry,GM L KL H DBRJM >L TTN LBK
+NTN,504428,Ecclesiastes,8,9,Hebrew,Main,Q,poetry,W NTWN >T LBJ L KL M<FH
+NTN,504465,Ecclesiastes,8,15,Hebrew,SubMod,Q,poetry,>CR NTN LW H >LHJM TXT H CMC
+NTN,504466,Ecclesiastes,8,16,Hebrew,SubAdv,Q,poetry,K >CR NTTJ >T LBJ
+NTN,504482,Ecclesiastes,9,1,Hebrew,Main,Q,poetry,KJ >T KL ZH NTTJ >L LBJ
+NTN,504524,Ecclesiastes,9,9,Hebrew,SubMod,Q,poetry,>CR NTN LK TXT H CMC
+NTN,504581,Ecclesiastes,10,6,Hebrew,Main,Q,poetry,NTN H SKL B  MRWMJM RBJM
+NTN,504633,Ecclesiastes,11,2,Hebrew,Main,Q,poetry,TN XLQ L CB<H
+NTN,504709,Ecclesiastes,12,7,Hebrew,SubMod,Q,poetry,>CR NTNH
+NTN,504723,Ecclesiastes,12,11,Hebrew,Main,Q,poetry,NTNW M R<H >XD
+NTN,504792,Lamentations,1,11,Hebrew,Main,Q,poetry,NTNW MXMWDJHM B >KL
+NTN,504809,Lamentations,1,13,Hebrew,Main,Q,poetry,NTNNJ CMMH
+NTN,504815,Lamentations,1,14,Hebrew,Main,Q,poetry,NTNNJ >DNJ B JDJ
+NTN,504893,Lamentations,2,7,Hebrew,Main,D,poetry,QWL NTNW B BJT JHWH K JWM MW<D
+NTN,504959,Lamentations,2,18,Hebrew,Main,Q,poetry,>L TTNJ PWGT LK
+NTN,505042,Lamentations,3,29,Hebrew,Main,Q,poetry,JTN B  <PR PJHW
+NTN,505044,Lamentations,3,30,Hebrew,Main,Q,poetry,JTN L MKHW LXJ
+NTN,505116,Lamentations,3,65,Hebrew,Main,Q,poetry,TTN LHM MGNT LB
+NTN,505224,Lamentations,5,6,Hebrew,Main,Q,poetry,MYRJM NTNW JD
+NTN,505321,Esther,1,19,Hebrew,SubAdv,Q,prose,W MLKWTH JTN H MLK L R<WTH
+NTN,505326,Esther,1,20,Hebrew,Main,Q,prose,W KL H NCJM JTNW JQR L B<LJHN L M GDWL W <D QVN
+NTN,505342,Esther,2,3,Hebrew,Main,Q,prose,W NTWN TMRWQJHN
+NTN,505365,Esther,2,9,Hebrew,SubAdv,N,prose,L TT LH
+NTN,505367,Esther,2,9,Hebrew,SubAdv,N,prose,L TT LH M BJT H MLK
+NTN,505383,Esther,2,13,Hebrew,Main,D,prose,>T KL JNTN LH
+NTN,505406,Esther,2,18,Hebrew,Main,N,prose,W JTN MF>T K JD H MLK
+NTN,505473,Esther,3,10,Hebrew,Main,N,prose,W JTNH L HMN BN HMDT> H >GGJ
+NTN,505476,Esther,3,11,Hebrew,Main,Q,prose,H KSP NTWN LK
+NTN,505495,Esther,3,14,Hebrew,SubAdv,N,prose,L HNTN DT B KL MDJNH W MDJNH
+NTN,505500,Esther,3,15,Hebrew,Main,N,prose,W H DT NTNH B CWCN H BJRH
+NTN,505537,Esther,4,8,Hebrew,Main,N,prose,W >T PTCGN KTB H DT NTN LW
+NTN,505538,Esther,4,8,Hebrew,SubMod,N,prose,>CR NTN B CWCN
+NTN,505603,Esther,5,3,Hebrew,Main,Q,prose,W JNTN LK
+NTN,505615,Esther,5,6,Hebrew,Main,Q,prose,W JNTN LK
+NTN,505624,Esther,5,8,Hebrew,SubAdv,Q,prose,L TT >T C>LTJ
+NTN,505693,Esther,6,8,Hebrew,SubAdv,Q,prose,W >CR NTN KTR MLKWT B R>CW
+NTN,505694,Esther,6,9,Hebrew,Main,Q,prose,W NTWN H LBWC W H SWS <L JD >JC M FRJ H MLK H PRTMJM
+NTN,505735,Esther,7,2,Hebrew,Main,Q,prose,W TNTN LK
+NTN,505744,Esther,7,3,Hebrew,Main,Q,prose,TNTN LJ NPCJ B C>LTJ
+NTN,505785,Esther,8,1,Hebrew,Main,?,prose,B  JWM H HW> NTN H MLK >XCWRWC L >STR H MLKH >T BJT HMN YRR H JHWDJJM
+NTN,505791,Esther,8,2,Hebrew,Main,N,prose,W JTNH L MRDKJ
+NTN,505819,Esther,8,7,Hebrew,Main,Q,prose,HNH BJT HMN NTTJ L >STR
+NTN,505840,Esther,8,11,Hebrew,SubArg,N,prose,>CR NTN H MLK L  JHWDJM
+NTN,505853,Esther,8,13,Hebrew,SubAdv,N,prose,L HNTN DT B KL MDJNH W MDJNH
+NTN,505858,Esther,8,14,Hebrew,Main,N,prose,W H DT NTNH B CWCN H BJRH
+NTN,505903,Esther,9,12,Hebrew,Main,Q,prose,W JNTN LK
+NTN,505908,Esther,9,13,Hebrew,Main,Q,prose,JNTN GM MXR L  JHWDJM
+NTN,505914,Esther,9,14,Hebrew,Main,N,prose,W TNTN DT B CWCN
+NTN,505997,Daniel,1,2,Hebrew,Main,N,prose,W JTN >DNJ B JDW >T JHWJQJM MLK JHWDH W M QYT KLJ BJT H >LHJM
+NTN,506025,Daniel,1,9,Hebrew,Main,N,prose,W JTN H >LHJM >T DNJ>L L XSD W L RXMJM L PNJ FR H SRJSJM
+NTN,506036,Daniel,1,12,Hebrew,Main,Q,prose,W JTNW LNW MN H ZR<JM
+NTN,506052,Daniel,1,16,Hebrew,Main,N,prose,W NTN LHM ZR<NJM
+NTN,506054,Daniel,1,17,Hebrew,Main,N,prose,NTN LHM H >LHJM MD<
+NTN,506143,Daniel,2,16,Aramaic,SubArg,N,prose,DJ ZMN JNTN LH
+NTN,506532,Daniel,4,14,Aramaic,SubAdv,Q,prose,W L MN JTNNH
+NTN,506593,Daniel,4,22,Aramaic,SubAdv,Q,prose,W L MN JTNNH
+NTN,506624,Daniel,4,29,Aramaic,Main,Q,prose,W L MN JTNNH
+NTN,507148,Daniel,8,12,Hebrew,Main,D,prose,W YB> TNTN <L H TMJD B PC<
+NTN,507157,Daniel,8,13,Hebrew,Main,Q,prose,TT
+NTN,507231,Daniel,9,3,Hebrew,Main,N,prose,W >TNH >T PNJ >L >DNJ H >LHJM
+NTN,507260,Daniel,9,10,Hebrew,SubMod,Q,prose,>CR NTN L PNJNW B JD <BDJW H NBJ>JM
+NTN,507416,Daniel,10,12,Hebrew,SubMod,Q,prose,>CR NTT >T LBK
+NTN,507429,Daniel,10,15,Hebrew,Main,N,prose,W NTTJ PNJ >RYH
+NTN,507500,Daniel,11,6,Hebrew,Main,Q,prose,W TNTN HJ> W MBJ>JH W H JLDH W MXZQH B  <TJM
+NTN,507521,Daniel,11,11,Hebrew,Main,Q,prose,W NTN H HMWN B JDW
+NTN,507550,Daniel,11,17,Hebrew,Main,Q,prose,W BT H NCJM JTN LW
+NTN,507568,Daniel,11,21,Hebrew,Main,Q,prose,W L> NTNW <LJW HWD MLKWT
+NTN,507614,Daniel,11,31,Hebrew,Main,Q,prose,W NTNW H CQWY
+NTN,507720,Daniel,12,11,Hebrew,Main,Q,prose,W L TT CQWY CMM
+NTN,507733,Ezra,1,2,Hebrew,Main,Q,prose,KL MMLKWT H >RY NTN LJ JHWH >LHJ H CMJM
+NTN,507758,Ezra,1,7,Hebrew,SubAdv,N,prose,W JTNM B BJT >LHJW
+NTN,507866,Ezra,2,69,Hebrew,Main,N,prose,K KXM NTNW L >WYR H ML>KH ZHB DRKMWNJM CC RB>WT W >LP W KSP MNJM XMCT >LPJM W KTNT KHNJM M>H
+NTN,507889,Ezra,3,7,Hebrew,Main,N,prose,W JTNW KSP L  XYBJM W L  XRCJM
+NTN,507962,Ezra,4,13,Aramaic,SubArg,Q,prose,DJ MNDH BLW W HLK L> JNTNWN
+NTN,508187,Ezra,7,6,Hebrew,SubMod,?,prose,>CR NTN JHWH >LHJ JFR>L
+NTN,508188,Ezra,7,6,Hebrew,Main,N,prose,W JTN LW H MLK K JD JHWH >LHJW <LJW KL BQCTW
+NTN,508199,Ezra,7,11,Hebrew,SubMod,?,prose,>CR NTN H MLK >RTXCST> L <ZR> H KHN H SPR SPR DBRJ MYWT JHWH W XQJW <L JFR>L
+NTN,508225,Ezra,7,20,Aramaic,Main,Q,prose,W C>R XCXWT BJT >LHK TNTN MN BJT GNZJ MLK>
+NTN,508227,Ezra,7,20,Aramaic,SubAdv,Q,prose,L MNTN
+NTN,508256,Ezra,7,27,Hebrew,SubMod,Q,prose,>CR NTN K Z>T B LB H MLK
+NTN,508312,Ezra,8,20,Hebrew,SubMod,N,prose,C NTN DWJD W H FRJM L <BDT H LWJM
+NTN,508358,Ezra,8,36,Hebrew,Main,N,prose,W JTNW >T DTJ H MLK L >XCDRPNJ H MLK W PXWWT <BR H NHR
+NTN,508387,Ezra,9,7,Hebrew,Main,Q,prose,W B <WNTJNW NTNW >NXNW MLKJNW KHNJNW B JD MLKJ H >RYWT B  XRB B  CBJ W B  BZH W B BCT PNJM
+NTN,508392,Ezra,9,8,Hebrew,SubAdv,Q,prose,W L TT LNW JTD B MQWM QDCW
+NTN,508394,Ezra,9,8,Hebrew,SubAdv,Q,prose,W L TTNW MXJH M<V B <BDTNW
+NTN,508398,Ezra,9,9,Hebrew,SubAdv,N,prose,L TT LNW MXJH
+NTN,508401,Ezra,9,9,Hebrew,SubAdv,N,prose,W L TT LNW GDR B JHWDH W B JRWCLM
+NTN,508414,Ezra,9,12,Hebrew,Main,Q,prose,BNWTJKM >L TTNW L BNJHM
+NTN,508424,Ezra,9,13,Hebrew,Main,Q,prose,W NTTH LNW PLJVH K Z>T
+NTN,508487,Ezra,10,11,Hebrew,Main,Q,prose,TNW TWDH L JHWH >LHJ >BTJKM
+NTN,508519,Ezra,10,19,Hebrew,Main,N,prose,W JTNW JDM
+NTN,508603,Nehemiah,1,11,Hebrew,Main,Q,prose,W TNHW L RXMJM L PNJ H >JC H ZH
+NTN,508608,Nehemiah,2,1,Hebrew,Main,N,prose,W >TNH L  MLK
+NTN,508636,Nehemiah,2,6,Hebrew,Main,N,prose,W >TNH LW ZMN
+NTN,508639,Nehemiah,2,7,Hebrew,Main,Q,prose,>GRWT JTNW LJ <L PXWWT <BR H NHR
+NTN,508644,Nehemiah,2,8,Hebrew,SubAdv,Q,prose,>CR JTN LJ <YJM
+NTN,508650,Nehemiah,2,8,Hebrew,Main,N,prose,W JTN LJ H MLK K JD >LHJ
+NTN,508653,Nehemiah,2,9,Hebrew,Main,N,prose,W >TNH LHM >T >GRWT H MLK
+NTN,508663,Nehemiah,2,12,Hebrew,SubArg,N,prose,MH >LHJ NTN >L LBJ
+NTN,508811,Nehemiah,3,36,Hebrew,Main,Q,prose,W TNM L BZH B >RY CBJH
+NTN,508925,Nehemiah,5,7,Hebrew,Main,N,prose,W >TN <LJHM QHLH GDWLH
+NTN,509100,Nehemiah,7,5,Hebrew,Main,N,prose,W JTN >LHJ >L LBJ
+NTN,509193,Nehemiah,7,69,Hebrew,Main,N,prose,W M QYT R>CJ H >BWT NTNW L  ML>KH
+NTN,509194,Nehemiah,7,69,Hebrew,Main,N,prose,H TRCT> NTN L  >WYR ZHB DRKMNJM >LP MZRQWT XMCJM KTNWT KHNJM CLCJM W XMC M>WT
+NTN,509195,Nehemiah,7,70,Hebrew,Main,N,prose,W M R>CJ H >BWT NTNW L >WYR H ML>KH ZHB DRKMWNJM CTJ RBWT W KSP MNJM >LPJM W M>TJM
+NTN,509197,Nehemiah,7,71,Hebrew,SubArg,N,prose,>CR NTNW C>RJT H <M
+NTN,509318,Nehemiah,9,8,Hebrew,SubAdv,Q,prose,L TT >T >RY H KN<NJ H XTJ H >MRJ W H PRZJ W H JBWSJ W H GRGCJ
+NTN,509319,Nehemiah,9,8,Hebrew,SubAdv,Q,prose,L TT L ZR<W
+NTN,509324,Nehemiah,9,10,Hebrew,Main,N,prose,W TTN >TT W MPTJM B PR<H W B KL <BDJW W B KL <M >RYW
+NTN,509338,Nehemiah,9,13,Hebrew,Main,N,prose,W TTN LHM MCPVJM JCRJM W TWRWT >MT XQJM W MYWT VWBJM
+NTN,509341,Nehemiah,9,15,Hebrew,Main,N,prose,W LXM M CMJM NTTH LHM L R<BM
+NTN,509347,Nehemiah,9,15,Hebrew,SubAdv,N,prose,L TT LHM
+NTN,509356,Nehemiah,9,17,Hebrew,Main,N,prose,W JTNW R>C
+NTN,509373,Nehemiah,9,20,Hebrew,Main,N,prose,W RWXK H VWBH NTT
+NTN,509376,Nehemiah,9,20,Hebrew,Main,N,prose,W MJM NTTH LHM L YM>M
+NTN,509381,Nehemiah,9,22,Hebrew,Main,N,prose,W TTN LHM MMLKWT W <MMJM
+NTN,509392,Nehemiah,9,24,Hebrew,Main,N,prose,W TTNM B JDM
+NTN,509409,Nehemiah,9,27,Hebrew,Main,N,prose,W TTNM B JD YRJHM
+NTN,509413,Nehemiah,9,27,Hebrew,Main,D,prose,W K RXMJK H RBJM TTN LHM MWCJ<JM
+NTN,509431,Nehemiah,9,29,Hebrew,Main,N,prose,W JTNW KTP SWRRT
+NTN,509437,Nehemiah,9,30,Hebrew,Main,N,prose,W TTNM B JD <MJ H >RYT
+NTN,509454,Nehemiah,9,35,Hebrew,SubMod,Q,prose,>CR NTT LHM
+NTN,509455,Nehemiah,9,35,Hebrew,SubMod,Q,prose,>CR NTT L PNJHM
+NTN,509459,Nehemiah,9,36,Hebrew,SubMod,Q,prose,>CR NTTH L >BTJNW
+NTN,509463,Nehemiah,9,37,Hebrew,SubMod,Q,prose,>CR NTTH <LJNW B XV>WTJNW
+NTN,509509,Nehemiah,10,30,Hebrew,SubMod,Q,prose,>CR NTNH B JD MCH <BD H >LHJM
+NTN,509512,Nehemiah,10,31,Hebrew,SubAdv,Q,prose,W >CR L> NTN BNTJNW L <MJ H >RY
+NTN,509520,Nehemiah,10,33,Hebrew,SubAdv,Q,prose,L TT <LJNW CLCJT H CQL B  CNH L <BDT BJT >LHJNW
+NTN,509713,Nehemiah,12,47,Hebrew,Main,N,prose,W KL JFR>L B JMJ ZRBBL W B JMJ NXMJH NTNJM MNJWT H MCRRJM W H C<RJM DBR JWM B JWMW
+NTN,509728,Nehemiah,13,4,Hebrew,SubMod,Q,prose,NTWN B LCKT BJT >LHJNW
+NTN,509731,Nehemiah,13,5,Hebrew,Main,N,prose,W CM HJW L PNJM NTNJM >T H MNXH H LBWNH W H KLJM W M<FR H DGN H TJRWC W H JYHR
+NTN,509746,Nehemiah,13,10,Hebrew,SubArg,N,prose,KJ MNJWT H LWJM L> NTNH
+NTN,509821,Nehemiah,13,25,Hebrew,SubAdv,Q,prose,>M TTNW BNTJKM L BNJHM
+NTN,509826,Nehemiah,13,26,Hebrew,Main,N,prose,W JTNHW >LHJM MLK <L KL JFR>L
+NTN,510014,1_Chronicles,2,35,Hebrew,Main,N,prose,W JTN CCN >T BTW L JRX< <BDW L >CH
+NTN,510206,1_Chronicles,5,1,Hebrew,Main,?,prose,W NTNH BKRTW L BNJ JWSP BN JFR>L
+NTN,510245,1_Chronicles,5,20,Hebrew,Main,N,prose,W JNTNW B JDM H HGRJ>JM W KL
+NTN,510340,1_Chronicles,6,33,Hebrew,Main,?,prose,W >XJHM H LWJM NTWNJM L KL <BWDT MCKN BJT H >LHJM
+NTN,510351,1_Chronicles,6,40,Hebrew,Main,N,prose,W JTNW LHM >T XBRWN B >RY JHWDH W >T MGRCJH SBJBTJH
+NTN,510352,1_Chronicles,6,41,Hebrew,Main,N,prose,W >T FDH H <JR W >T XYRJH NTNW L KLB BN JPNH
+NTN,510353,1_Chronicles,6,42,Hebrew,Main,N,prose,W L BNJ >HRN NTNW >T <RJ H MQLV >T XBRWN W >T LBNH W >T MGRCJH W >T JTR W >T >CTM< W >T MGRCJH
+NTN,510362,1_Chronicles,6,49,Hebrew,Main,N,prose,W JTNW BNJ JFR>L L  LWJM >T H <RJM W >T MGRCJHM
+NTN,510363,1_Chronicles,6,50,Hebrew,Main,N,prose,W JTNW B  GWRL M MVH BNJ JHWDH W M MVH BNJ CM<WN W M MVH BNJ BNJMN >T H <RJM H >LH
+NTN,510367,1_Chronicles,6,52,Hebrew,Main,N,prose,W JTNW LHM >T <RJ H MQLV >T CKM W >T MGRCJH B HR >PRJM W >T GZR W >T MGRCJH
+NTN,510872,1_Chronicles,12,19,Hebrew,Main,N,prose,W JTNM B R>CJ H GDWD
+NTN,511008,1_Chronicles,14,10,Hebrew,Main,Q,prose,W NTTM B JDJ
+NTN,511011,1_Chronicles,14,10,Hebrew,Main,Q,prose,W NTTJM B JDK
+NTN,511036,1_Chronicles,14,17,Hebrew,Main,N,prose,W JHWH NTN >T PXDW <L KL H GWJM
+NTN,511127,1_Chronicles,16,4,Hebrew,Main,N,prose,W JTN L PNJ >RWN JHWH MN H LWJM MCRTJM
+NTN,511136,1_Chronicles,16,7,Hebrew,Main,N,prose,B  JWM H HW> >Z NTN DWJD B  R>C
+NTN,511164,1_Chronicles,16,18,Hebrew,Main,Q,prose,LK >TN >RY KN<N XBL NXLTKM
+NTN,511336,1_Chronicles,17,22,Hebrew,Main,N,prose,W TTN >T <MK JFR>L LK L <M <D <WLM
+NTN,511466,1_Chronicles,19,11,Hebrew,Main,N,prose,W >T JTR H <M NTN B JD >BCJ >XJW
+NTN,511562,1_Chronicles,21,5,Hebrew,Main,N,prose,W JTN JW>B >T MSPR MPQD H <M >L DWJD
+NTN,511604,1_Chronicles,21,14,Hebrew,Main,N,prose,W JTN JHWH DBR B JFR>L
+NTN,511650,1_Chronicles,21,22,Hebrew,Main,Q,prose,TNH LJ MQWM H GRN
+NTN,511652,1_Chronicles,21,22,Hebrew,Main,Q,prose,B KSP ML> TNHW LJ
+NTN,511659,1_Chronicles,21,23,Hebrew,Main,Q,prose,NTTJ H BQR L  <LWT
+NTN,511662,1_Chronicles,21,23,Hebrew,Main,Q,prose,H KL NTTJ
+NTN,511669,1_Chronicles,21,25,Hebrew,Main,N,prose,W JTN DWJD L >RNN B  MQWM CQLJ ZHB MCQL CC M>WT
+NTN,511726,1_Chronicles,22,9,Hebrew,Main,Q,prose,W CLWM W CQV >TN <L JFR>L B JMJW
+NTN,511737,1_Chronicles,22,12,Hebrew,Main,Q,prose,>K JTN LK JHWH FKL W BJNH
+NTN,511763,1_Chronicles,22,18,Hebrew,SubAdv,Q,prose,KJ NTN B JDJ >T JCBJ H >RY
+NTN,511765,1_Chronicles,22,19,Hebrew,Main,Q,prose,<TH TNW LBBKM W NPCKM
+NTN,511939,1_Chronicles,25,5,Hebrew,Main,N,prose,W JTN H >LHJM L HJMN BNJM >RB<H <FR W BNWT CLWC
+NTN,512178,1_Chronicles,28,5,Hebrew,SubAdv,N,prose,KJ RBJM BNJM NTN LJ JHWH
+NTN,512209,1_Chronicles,28,11,Hebrew,Main,N,prose,W JTN DWJD L CLMH BNW >T TBNJT H >WLM W >T BTJW W GNZKJW W <LJTJW W XDRJW H PNJMJM W BJT H KPRT
+NTN,512255,1_Chronicles,29,3,Hebrew,Main,Q,prose,W <WD ZHB W KSP NTTJ L BJT >LHJ L M<LH M KL
+NTN,512266,1_Chronicles,29,7,Hebrew,Main,N,prose,W JTNW L <BWDT BJT H >LHJM ZHB KKRJM XMCT >LPJM W >DRKNJM RBW W KSP KKRJM <FRT >LPJM W NXCT RBW W CMWNT >LPJM KKRJM W BRZL M>H >LP KKRJM
+NTN,512267,1_Chronicles,29,8,Hebrew,Main,N,prose,W NTNW L >WYR BJT JHWH <L JD JXJ>L H GRCNJ
+NTN,512298,1_Chronicles,29,14,Hebrew,Main,Q,prose,W M JDK NTNW LK
+NTN,512321,1_Chronicles,29,19,Hebrew,Main,Q,prose,W L CLMH BNJ TN LBB CLM
+NTN,512342,1_Chronicles,29,24,Hebrew,Main,N,prose,W KL H FRJM W H GBRJM W GM KL BNJ H MLK DWJD NTNW JD TXT CLMH H MLK
+NTN,512344,1_Chronicles,29,25,Hebrew,Main,N,prose,W JTN <LJW HWD MLKWT
+NTN,512377,2_Chronicles,1,7,Hebrew,Main,Q,prose,MH >TN LK
+NTN,512387,2_Chronicles,1,10,Hebrew,Main,Q,prose,XKMH W MD< TN LJ
+NTN,512399,2_Chronicles,1,12,Hebrew,Main,Q,prose,H XKMH W H MD< NTWN LK
+NTN,512400,2_Chronicles,1,12,Hebrew,Main,Q,prose,W <CR W NKSJM W KBWD >TN LK
+NTN,512411,2_Chronicles,1,15,Hebrew,Main,N,prose,W JTN H MLK >T H KSP W >T H ZHB B JRWCLM K  >BNJM
+NTN,512412,2_Chronicles,1,15,Hebrew,Main,N,prose,W >T H >RZJM NTN K  CQMJM
+NTN,512460,2_Chronicles,2,9,Hebrew,Main,Q,prose,W HNH L  XVBJM L KRTJ H <YJM NTTJ XVJM MKWT L <BDJK KRJM <FRJM >LP W F<RJM KRJM <FRJM >LP W JJN BTJM <FRJM >LP W CMN BTJM <FRJM >LP
+NTN,512463,2_Chronicles,2,10,Hebrew,Main,Q,prose,B >HBT JHWH >T <MW NTNK <LJHM MLK
+NTN,512467,2_Chronicles,2,11,Hebrew,SubMod,Q,prose,>CR NTN L DWJD H MLK BN XKM
+NTN,512479,2_Chronicles,2,13,Hebrew,SubMod,Q,prose,>CR JNTN LW
+NTN,512543,2_Chronicles,3,16,Hebrew,Main,N,prose,W JTN <L R>C H <MDJM
+NTN,512545,2_Chronicles,3,16,Hebrew,Main,N,prose,W JTN B  CRCRWT
+NTN,512576,2_Chronicles,4,6,Hebrew,Main,N,prose,W JTN XMCH M JMJN
+NTN,512583,2_Chronicles,4,7,Hebrew,Main,N,prose,W JTN B  HJKL XMC M JMJN
+NTN,512591,2_Chronicles,4,10,Hebrew,Main,N,prose,W >T H JM NTN M KTP H JMNJT QDMH M MWL NGBH
+NTN,512624,2_Chronicles,5,1,Hebrew,Main,N,prose,W >T H KSP W >T H ZHB W >T KL H KLJM NTN B >YRWT BJT H >LHJM
+NTN,512647,2_Chronicles,5,10,Hebrew,SubMod,N,prose,>CR NTN MCH B XRB
+NTN,512720,2_Chronicles,6,13,Hebrew,Main,N,prose,W JTNHW B TWK H <ZRH
+NTN,512777,2_Chronicles,6,23,Hebrew,SubAdv,Q,prose,L TT DRKW B R>CW
+NTN,512779,2_Chronicles,6,23,Hebrew,SubAdv,Q,prose,L TT LW K YDQTW
+NTN,512789,2_Chronicles,6,25,Hebrew,SubMod,Q,prose,>CR NTTH LHM W L >BTJHM
+NTN,512801,2_Chronicles,6,27,Hebrew,Main,Q,prose,W NTTH MVR <L >RYK
+NTN,512802,2_Chronicles,6,27,Hebrew,SubMod,Q,prose,>CR NTTH L <MK L NXLH
+NTN,512818,2_Chronicles,6,30,Hebrew,Main,Q,prose,W NTTH L  >JC K KL DRKJW
+NTN,512824,2_Chronicles,6,31,Hebrew,SubMod,Q,prose,>CR NTTH L >BTJNW
+NTN,512850,2_Chronicles,6,36,Hebrew,Main,Q,prose,W NTTM L PNJ >WJB
+NTN,512863,2_Chronicles,6,38,Hebrew,SubMod,Q,prose,>CR NTTH L >BWTM
+NTN,512967,2_Chronicles,7,19,Hebrew,SubMod,Q,prose,>CR NTTJ L PNJKM
+NTN,512972,2_Chronicles,7,20,Hebrew,SubMod,Q,prose,>CR NTTJ LHM
+NTN,512975,2_Chronicles,7,20,Hebrew,Main,Q,prose,W >TNNW L MCL W L CNJNH B KL H <MJM
+NTN,512991,2_Chronicles,8,2,Hebrew,SubMod,N,prose,>CR NTN XWRM L CLMH
+NTN,513012,2_Chronicles,8,9,Hebrew,SubMod,N,prose,>CR L> NTN CLMH L <BDJM L ML>KTW
+NTN,513074,2_Chronicles,9,8,Hebrew,SubAdv,Q,prose,L TTK <L KS>W L MLK L JHWH >LHJK
+NTN,513077,2_Chronicles,9,8,Hebrew,Main,Q,prose,W JTNK <LJHM L MLK
+NTN,513079,2_Chronicles,9,9,Hebrew,Main,N,prose,W TTN L  MLK M>H W <FRJM KKR ZHB W BFMJM L RB M>D W >BN JQRH
+NTN,513081,2_Chronicles,9,9,Hebrew,SubMod,N,prose,>CR NTNH MLKT CB> L  MLK CLMH
+NTN,513087,2_Chronicles,9,12,Hebrew,Main,N,prose,W H MLK CLMH NTN L MLKT CB> >T KL XPYH
+NTN,513102,2_Chronicles,9,16,Hebrew,Main,N,prose,W JTNM H MLK B BJT J<R H LBNWN
+NTN,513120,2_Chronicles,9,23,Hebrew,SubMod,N,prose,>CR NTN H >LHJM B LBW
+NTN,513127,2_Chronicles,9,27,Hebrew,Main,N,prose,W JTN H MLK >T H KSP B JRWCLM K  >BNJM
+NTN,513128,2_Chronicles,9,27,Hebrew,Main,N,prose,W >T H >RZJM NTN K  CQMJM
+NTN,513154,2_Chronicles,10,4,Hebrew,SubMod,Q,prose,>CR NTN <LJNW
+NTN,513183,2_Chronicles,10,9,Hebrew,SubMod,Q,prose,>CR NTN >BJK <LJNW
+NTN,513265,2_Chronicles,11,11,Hebrew,Main,N,prose,W JTN BHM NGJDJM W >YRWT M>KL W CMN W JJN
+NTN,513279,2_Chronicles,11,16,Hebrew,SubArg,N,prose,H NTNJM >T LBBM
+NTN,513297,2_Chronicles,11,23,Hebrew,Main,N,prose,W JTN LHM H MZWN L RB
+NTN,513328,2_Chronicles,12,7,Hebrew,Main,Q,prose,W NTTJ LHM K M<V L PLJVH
+NTN,513382,2_Chronicles,13,5,Hebrew,SubArg,Q,prose,KJ JHWH >LHJ JFR>L NTN MMLKH L DWJD <L JFR>L L <WLM
+NTN,513435,2_Chronicles,13,16,Hebrew,Main,N,prose,W JTNM >LHJM B JDM
+NTN,513576,2_Chronicles,16,1,Hebrew,SubAdv,N,prose,L BLTJ TT JWY> W B> L >S> MLK JHWDH
+NTN,513606,2_Chronicles,16,8,Hebrew,Main,Q,prose,W NTNM B JDK
+NTN,513615,2_Chronicles,16,10,Hebrew,Main,N,prose,W JTNHW BJT H MHPKT
+NTN,513635,2_Chronicles,17,2,Hebrew,Main,N,prose,W JTN XJL B KL <RJ JHWDH H BYRWT
+NTN,513636,2_Chronicles,17,2,Hebrew,Main,N,prose,W JTN NYJBJM B >RY JHWDH W B <RJ >PRJM
+NTN,513645,2_Chronicles,17,5,Hebrew,Main,N,prose,W JTNW KL JHWDH MNXH L JHWCPV
+NTN,513683,2_Chronicles,17,19,Hebrew,SubArg,N,prose,M L BD >CR NTN H MLK B <RJ H MBYR B KL JHWDH
+NTN,513706,2_Chronicles,18,5,Hebrew,Main,Q,prose,W JTN H >LHJM B JD H MLK
+NTN,513736,2_Chronicles,18,11,Hebrew,Main,Q,prose,W NTN JHWH B JD H MLK
+NTN,513757,2_Chronicles,18,14,Hebrew,Main,Q,prose,W JNTNW B JDKM
+NTN,513800,2_Chronicles,18,22,Hebrew,Main,Q,prose,HNH NTN JHWH RWX CQR B PJ NBJ>JK >LH
+NTN,513919,2_Chronicles,20,3,Hebrew,Main,N,prose,W JTN JHWCPV >T PNJW
+NTN,513936,2_Chronicles,20,7,Hebrew,Main,N,prose,W TTNH L ZR< >BRHM >HBK L <WLM
+NTN,513948,2_Chronicles,20,10,Hebrew,SubMod,Q,prose,>CR L> NTTH L JFR>L
+NTN,514014,2_Chronicles,20,22,Hebrew,Main,N,prose,W B <T NTN JHWH M>RBJM <L BNJ <MWN MW>B W HR F<JR
+NTN,514082,2_Chronicles,21,3,Hebrew,Main,N,prose,W JTN LHM >BJHM MTNWT RBWT L KSP W L ZHB W L MGDNWT <M <RJ MYRWT B JHWDH
+NTN,514083,2_Chronicles,21,3,Hebrew,Main,N,prose,W >T H MMLKH NTN L JHWRM
+NTN,514101,2_Chronicles,21,7,Hebrew,SubAdv,N,prose,L TT LW NJR
+NTN,514205,2_Chronicles,22,11,Hebrew,Main,N,prose,W TTN >TW W >T MJNQTW B XDR H MVWT
+NTN,514246,2_Chronicles,23,9,Hebrew,Main,N,prose,W JTN JHWJD< H KHN L FRJ H M>WT >T H XNJTJM W >T H MGNWT W >T H CLVJM
+NTN,514253,2_Chronicles,23,11,Hebrew,Main,N,prose,W JTNW <LJW >T H NZR W >T H <DWT
+NTN,514331,2_Chronicles,24,8,Hebrew,Main,N,prose,W JTNHW B C<R BJT JHWH XWYH
+NTN,514332,2_Chronicles,24,9,Hebrew,Main,N,prose,W JTNW QWL B JHWDH W B JRWCLM
+NTN,514348,2_Chronicles,24,12,Hebrew,Main,N,prose,W JTNHW H MLK W JHWJD< >L <WFH ML>KT <BWDT BJT JHWH
+NTN,514399,2_Chronicles,24,24,Hebrew,Main,N,prose,W JHWH NTN B JDM XJL L RB M>D
+NTN,514458,2_Chronicles,25,9,Hebrew,SubMod,Q,prose,>CR NTTJ L GDWD JFR>L
+NTN,514461,2_Chronicles,25,9,Hebrew,SubAdv,Q,prose,L TT LK HRBH M ZH
+NTN,514496,2_Chronicles,25,16,Hebrew,Main,Q,prose,H L JW<Y L  MLK NTNWK
+NTN,514517,2_Chronicles,25,18,Hebrew,Main,Q,prose,TNH >T BTK L BNJ L >CH
+NTN,514531,2_Chronicles,25,20,Hebrew,SubAdv,N,prose,LM<N TTM B JD
+NTN,514582,2_Chronicles,26,8,Hebrew,Main,N,prose,W JTNW H <MWNJM MNXH L <ZJHW
+NTN,514668,2_Chronicles,27,5,Hebrew,Main,N,prose,W JTNW LW BNJ <MWN B  CNH H HJ> M>H KKR KSP W <FRT >LPJM KRJM XVJM W F<WRJM <FRT >LPJM
+NTN,514693,2_Chronicles,28,5,Hebrew,Main,N,prose,W JTNHW JHWH >LHJW B JD MLK >RM
+NTN,514697,2_Chronicles,28,5,Hebrew,Main,N,prose,W GM B JD MLK JFR>L NTN
+NTN,514711,2_Chronicles,28,9,Hebrew,Main,Q,prose,HNH B XMT JHWH >LHJ >BWTJKM <L JHWDH NTNM B JDKM
+NTN,514760,2_Chronicles,28,21,Hebrew,SubAdv,N,prose,W JTN L MLK >CWR
+NTN,514812,2_Chronicles,29,6,Hebrew,Main,N,prose,W JTNW <RP
+NTN,514818,2_Chronicles,29,8,Hebrew,Main,N,prose,W JTNM L ZW<H L CMH W L CRQH
+NTN,514954,2_Chronicles,30,7,Hebrew,Main,N,prose,W JTNM L CMH
+NTN,514957,2_Chronicles,30,8,Hebrew,Main,Q,prose,TNW JD L JHWH
+NTN,514974,2_Chronicles,30,12,Hebrew,SubArg,N,prose,L TT LHM LB >XD
+NTN,515048,2_Chronicles,31,4,Hebrew,SubArg,N,prose,L TT MNT H KHNJM W H LWJM
+NTN,515057,2_Chronicles,31,6,Hebrew,Main,N,prose,W JTNW <RMWT <RMWT
+NTN,515083,2_Chronicles,31,14,Hebrew,SubAdv,N,prose,L TT TRWMT JHWH W QDCJ H QDCJM
+NTN,515085,2_Chronicles,31,15,Hebrew,SubAdv,N,prose,L TT L >XJHM B MXLQWT K  GDWL K  QVN
+NTN,515095,2_Chronicles,31,19,Hebrew,SubAdv,N,prose,L TT MNWT L KL ZKR B  KHNJM W L KL
+NTN,515128,2_Chronicles,32,6,Hebrew,Main,N,prose,W JTN FRJ MLXMWT <L H <M
+NTN,515152,2_Chronicles,32,11,Hebrew,SubAdv,Q,prose,L TT >TKM
+NTN,515207,2_Chronicles,32,24,Hebrew,Main,N,prose,W MWPT NTN LW
+NTN,515222,2_Chronicles,32,29,Hebrew,SubAdv,N,prose,KJ NTN LW >LHJM RKWC RB M>D
+NTN,515373,2_Chronicles,34,9,Hebrew,Main,N,prose,W JTNW >T H KSP
+NTN,515377,2_Chronicles,34,10,Hebrew,Main,N,prose,W JTNW <L JD <FH H ML>KH
+NTN,515379,2_Chronicles,34,10,Hebrew,Main,N,prose,W JTNW >TW <WFJ H ML>KH
+NTN,515383,2_Chronicles,34,11,Hebrew,Main,N,prose,W JTNW L  XRCJM W L  BNJM
+NTN,515401,2_Chronicles,34,15,Hebrew,Main,N,prose,W JTN XLQJHW >T H SPR >L CPN
+NTN,515406,2_Chronicles,34,16,Hebrew,SubMod,Q,prose,>CR NTN B JD <BDJK
+NTN,515409,2_Chronicles,34,17,Hebrew,Main,N,prose,W JTNWHW <L JD H MPQDJM W <L JD <WFJ H ML>KH
+NTN,515412,2_Chronicles,34,18,Hebrew,Main,Q,prose,SPR NTN LJ XLQJHW H KHN
+NTN,515495,2_Chronicles,35,3,Hebrew,Main,Q,prose,TNW >T >RWN H QDC B  BJT
+NTN,515512,2_Chronicles,35,8,Hebrew,Main,N,prose,XLQJH W ZKRJHW W JXJ>L NGJDJ BJT H >LHJM L  KHNJM NTNW L  PSXJM >LPJM W CC M>WT W BQR CLC M>WT
+NTN,515521,2_Chronicles,35,12,Hebrew,SubAdv,N,prose,L TTM L MPLGWT L BJT >BWT L BNJ H <M
+NTN,515583,2_Chronicles,35,25,Hebrew,Main,N,prose,W JTNWM L XQ <L JFR>L
+NTN,515608,2_Chronicles,36,7,Hebrew,Main,N,prose,W JTNM B HJKLW B BBL
+NTN,515646,2_Chronicles,36,17,Hebrew,Main,N,prose,H KL NTN B JDW
+NTN,515667,2_Chronicles,36,23,Hebrew,Main,Q,prose,KL MMLKWT H >RY NTN LJ JHWH >LHJ H CMJM
+FJM,427704,Genesis,2,8,Hebrew,Main,N,prose,W JFM CM >T H >DM
+FJM,427936,Genesis,4,15,Hebrew,Main,N,prose,W JFM JHWH L QJN >WT
+FJM,428111,Genesis,6,16,Hebrew,Main,Q,prose,W PTX H TBH B YDH TFJM
+FJM,428332,Genesis,9,23,Hebrew,Main,N,prose,W JFJMW <L CKM CNJHM
+FJM,428634,Genesis,13,16,Hebrew,Main,Q,prose,W FMTJ >T ZR<K K <PR H >RY
+FJM,429401,Genesis,21,13,Hebrew,Main,Q,prose,L GWJ >FJMNW
+FJM,429406,Genesis,21,14,Hebrew,SubAdv,N,prose,FM <L CKMH
+FJM,429431,Genesis,21,18,Hebrew,SubAdv,Q,prose,KJ L GWJ GDWL >FJMNW
+FJM,429510,Genesis,22,6,Hebrew,Main,N,prose,W JFM <L JYXQ BNW
+FJM,429531,Genesis,22,9,Hebrew,Main,N,prose,W JFM >TW <L H MZBX M M<L L  <YJM
+FJM,429666,Genesis,24,2,Hebrew,Main,Q,prose,FJM N> JDK TXT JRKJ
+FJM,429692,Genesis,24,9,Hebrew,Main,N,prose,W JFM H <BD >T JDW TXT JRK >BRHM >DNJW
+FJM,429805,Genesis,24,33,Hebrew,Main,N,prose,W JJFM L PNJW
+FJM,429875,Genesis,24,47,Hebrew,Main,N,prose,W >FM H NZM <L >PH
+FJM,430394,Genesis,27,37,Hebrew,Main,Q,prose,HN GBJR FMTJW LK
+FJM,430482,Genesis,28,11,Hebrew,Main,N,prose,W JFM MR>CTJW
+FJM,430518,Genesis,28,18,Hebrew,SubMod,N,prose,>CR FM MR>CTJW
+FJM,430519,Genesis,28,18,Hebrew,Main,N,prose,W JFM >TH MYBH
+FJM,430534,Genesis,28,22,Hebrew,SubMod,Q,prose,>CR FMTJ MYBH
+FJM,430824,Genesis,30,36,Hebrew,Main,N,prose,W JFM DRK CLCT JMJM BJNW W BJN J<QB
+FJM,430846,Genesis,30,41,Hebrew,Main,N,prose,W FM J<QB >T H MQLWT L <JNJ H Y>N B  RHVJM
+FJM,430848,Genesis,30,42,Hebrew,Main,D,prose,W L> JFJM
+FJM,430937,Genesis,31,21,Hebrew,Main,N,prose,W JFM >T PNJW HR H GL<D
+FJM,430990,Genesis,31,34,Hebrew,Main,N,prose,W TFMM B KR H GML
+FJM,431010,Genesis,31,37,Hebrew,Main,Q,prose,FJM KH NGD >XJ W >XJK
+FJM,431135,Genesis,32,13,Hebrew,Main,Q,prose,W FMTJ >T ZR<K K XWL H JM
+FJM,431145,Genesis,32,17,Hebrew,Main,Q,prose,W RWX TFJMW BJN <DR W BJN <DR
+FJM,431223,Genesis,33,2,Hebrew,Main,N,prose,W JFM >T H CPXWT W >T JLDJHN R>CNH
+FJM,431794,Genesis,37,34,Hebrew,Main,N,prose,W JFM FQ B MTNJW
+FJM,432118,Genesis,40,15,Hebrew,SubAdv,Q,prose,KJ FMW >TJ B  BWR
+FJM,432282,Genesis,41,42,Hebrew,Main,N,prose,W JFM RBD H ZHB <L YW>RW
+FJM,432634,Genesis,43,22,Hebrew,SubArg,Q,prose,MJ FM KSPNW B >MTXTJNW
+FJM,432681,Genesis,43,31,Hebrew,Main,Q,prose,FJMW LXM
+FJM,432682,Genesis,43,32,Hebrew,Main,N,prose,W JFJMW LW L BDW
+FJM,432704,Genesis,44,1,Hebrew,Main,Q,prose,W FJM KSP >JC B PJ >MTXTW
+FJM,432705,Genesis,44,2,Hebrew,Main,Q,prose,W >T GBJ<J GBJ< H KSP TFJM B PJ >MTXT H QVN
+FJM,432798,Genesis,44,21,Hebrew,Main,Q,prose,W >FJMH <JNJ <LJW
+FJM,432886,Genesis,45,7,Hebrew,SubAdv,N,prose,L FWM LKM C>RJT B  >RY
+FJM,432891,Genesis,45,8,Hebrew,Main,N,prose,W JFJMNJ L >B L PR<H W L >DWN L KL BJTW
+FJM,432897,Genesis,45,9,Hebrew,Main,Q,prose,FMNJ >LHJM L >DWN L KL MYRJM
+FJM,432987,Genesis,46,3,Hebrew,SubAdv,Q,prose,KJ L GWJ GDWL >FJMK CM
+FJM,433104,Genesis,47,6,Hebrew,Main,Q,prose,W FMTM FRJ MQNH
+FJM,433180,Genesis,47,26,Hebrew,Main,N,prose,W JFM >TH JWSP L XQ <D H JWM H ZH <L >DMT MYRJM
+FJM,433194,Genesis,47,29,Hebrew,Main,Q,prose,FJM N> JDK TXT JRKJ
+FJM,433289,Genesis,48,18,Hebrew,Main,Q,prose,FJM JMJNK <L R>CW
+FJM,433303,Genesis,48,20,Hebrew,Main,Q,prose,JFMK >LHJM K >PRJM W K MNCH
+FJM,433304,Genesis,48,20,Hebrew,Main,N,prose,W JFM >T >PRJM L PNJ MNCH
+FJM,433566,Exodus,1,11,Hebrew,Main,N,prose,W JFJMW <LJW FRJ MSJM
+FJM,433622,Exodus,2,3,Hebrew,Main,N,prose,W TFM BH >T H JLD
+FJM,433623,Exodus,2,3,Hebrew,Main,N,prose,W TFM B  SWP <L FPT H J>R
+FJM,433676,Exodus,2,14,Hebrew,Main,Q,prose,MJ FMK L >JC FR W CPV <LJNW
+FJM,433836,Exodus,3,22,Hebrew,Main,Q,prose,W FMTM <L BNJKM W <L BNTJKM
+FJM,433892,Exodus,4,11,Hebrew,Main,Q,prose,MJ FM PH L  >DM
+FJM,433893,Exodus,4,11,Hebrew,Main,Q,prose,>W MJ JFWM >LM >W XRC >W PQX >W <WR
+FJM,433915,Exodus,4,15,Hebrew,Main,Q,prose,W FMT >T H DBRJM B PJW
+FJM,433948,Exodus,4,21,Hebrew,SubMod,Q,prose,>CR FMTJ B JDK
+FJM,434025,Exodus,5,8,Hebrew,Main,Q,prose,W >T MTKNT H LBNJM TFJMW <LJHM
+FJM,434052,Exodus,5,14,Hebrew,SubMod,N,prose,>CR FMW <LHM NGFJ PR<H
+FJM,434340,Exodus,8,8,Hebrew,SubMod,N,prose,>CR FM L PR<H
+FJM,434387,Exodus,8,19,Hebrew,Main,Q,prose,W FMTJ PDT BJN <MJ W BJN <MK
+FJM,434443,Exodus,9,5,Hebrew,Main,N,prose,W JFM JHWH MW<D
+FJM,434506,Exodus,9,21,Hebrew,SubAdv,N,prose,W >CR L> FM LBW >L DBR JHWH
+FJM,434571,Exodus,10,2,Hebrew,SubMod,Q,prose,>CR FMTJ BM
+FJM,435089,Exodus,14,21,Hebrew,Main,N,prose,W JFM >T H JM L  XRBH
+FJM,435222,Exodus,15,25,Hebrew,Main,N,prose,CM FM LW XQ W MCPV
+FJM,435230,Exodus,15,26,Hebrew,Main,Q,prose,KL H MXLH L> >FJM <LJK
+FJM,435231,Exodus,15,26,Hebrew,SubMod,Q,prose,>CR FMTJ B MYRJM
+FJM,435464,Exodus,17,12,Hebrew,Main,N,prose,W JFJMW TXTJW
+FJM,435474,Exodus,17,14,Hebrew,Main,Q,prose,W FJM B >ZNJ JHWC<
+FJM,435563,Exodus,18,21,Hebrew,Main,Q,prose,W FMT <LHM FRJ >LPJM FRJ M>WT FRJ XMCJM W FRJ <FRT
+FJM,435610,Exodus,19,7,Hebrew,Main,N,prose,W JFM L PNJHM >T KL H DBRJM H >LH
+FJM,435774,Exodus,21,1,Hebrew,SubMod,Q,prose,>CR TFJM L PNJHM
+FJM,435814,Exodus,21,13,Hebrew,Main,Q,prose,W FMTJ LK MQWM
+FJM,435990,Exodus,22,24,Hebrew,Main,D,prose,L> TFJMWN <LJW NCK
+FJM,436136,Exodus,24,6,Hebrew,Main,N,prose,W JFM B  >GNT
+FJM,436376,Exodus,26,35,Hebrew,Main,Q,prose,W FMT >T H CLXN M XWY L  PRKT
+FJM,436477,Exodus,28,12,Hebrew,Main,Q,prose,W FMT >T CTJ H >BNJM <L KTPT H >PD >BNJ ZKRN L BNJ JFR>L
+FJM,436507,Exodus,28,26,Hebrew,Main,Q,prose,W FMT >TM <L CNJ QYWT H XCN <L FPTW BJTH
+FJM,436538,Exodus,28,37,Hebrew,Main,Q,prose,W FMT >TW <L PTJL TKLT
+FJM,436583,Exodus,29,6,Hebrew,Main,Q,prose,W FMT H MYNPT <L R>CW
+FJM,436633,Exodus,29,24,Hebrew,Main,Q,prose,W FMT H KL <L KPJ >HRN W <L KPJ BNJW
+FJM,437021,Exodus,32,27,Hebrew,Main,Q,prose,FJMW
+FJM,437172,Exodus,33,22,Hebrew,Main,Q,prose,W FMTJK B NQRT H YWR
+FJM,437684,Exodus,39,7,Hebrew,Main,N,prose,W JFM >TM <L KTPT H >PD
+FJM,437712,Exodus,39,19,Hebrew,Main,N,prose,W JFJMW <L CNJ QYWT H XCN <L FPTW
+FJM,437771,Exodus,40,3,Hebrew,Main,Q,prose,W FMT CM >T >RWN H <DWT
+FJM,437778,Exodus,40,5,Hebrew,Main,Q,prose,W FMT >T MSK H PTX L  MCKN
+FJM,437782,Exodus,40,8,Hebrew,Main,Q,prose,W FMT >T H XYR SBJB
+FJM,437815,Exodus,40,18,Hebrew,Main,N,prose,W JFM >T QRCJW
+FJM,437819,Exodus,40,19,Hebrew,Main,N,prose,W JFM >T MKSH H >HL <LJW M L M<LH
+FJM,437823,Exodus,40,20,Hebrew,Main,N,prose,W JFM >T H BDJM <L H >RN
+FJM,437826,Exodus,40,21,Hebrew,Main,N,prose,W JFM >T PRKT H MSK
+FJM,437832,Exodus,40,24,Hebrew,Main,N,prose,W JFM >T H MNRH B >HL MW<D NKX H CLXN <L JRK H MCKN NGBH
+FJM,437835,Exodus,40,26,Hebrew,Main,N,prose,W JFM >T MZBX H ZHB B >HL MW<D L PNJ H PRKT
+FJM,437838,Exodus,40,28,Hebrew,Main,N,prose,W JFM >T MSK H PTX L  MCKN
+FJM,437839,Exodus,40,29,Hebrew,Main,N,prose,W >T MZBX H <LH FM PTX MCKN >HL MW<D
+FJM,437842,Exodus,40,30,Hebrew,Main,N,prose,W JFM >T H KJR BJN >HL MW<D W BJN H MZBX
+FJM,437973,Leviticus,2,15,Hebrew,Main,Q,prose,W FMT <LJH LBNH
+FJM,438205,Leviticus,5,11,Hebrew,Main,?,prose,L> JFJM <LJH CMN
+FJM,438287,Leviticus,6,3,Hebrew,Main,Q,prose,W FMW >YL H MZBX
+FJM,438511,Leviticus,8,8,Hebrew,Main,N,prose,W JFM <LJW >T H XCN
+FJM,438513,Leviticus,8,9,Hebrew,Main,N,prose,W JFM >T H MYNPT <L R>CW
+FJM,438514,Leviticus,8,9,Hebrew,Main,N,prose,W JFM <L H MYNPT >L MWL PNJW >T YJY H ZHB NZR H QDC
+FJM,438568,Leviticus,8,26,Hebrew,Main,N,prose,W JFM <L H XLBJM W <L CWQ H JMJN
+FJM,438666,Leviticus,9,20,Hebrew,Main,N,prose,W JFJMW >T H XLBJM <L H XZWT
+FJM,438685,Leviticus,10,1,Hebrew,Main,N,prose,W JFJMW <LJH QVRT
+FJM,439958,Leviticus,20,5,Hebrew,Main,Q,prose,W FMTJ >NJ >T PNJ B  >JC H HW> W B MCPXTW
+FJM,440406,Leviticus,24,6,Hebrew,Main,Q,prose,W FMT >WTM CTJM M<RKWT <L H CLXN H VHR L PNJ JHWH
+FJM,441237,Numbers,4,6,Hebrew,Main,Q,prose,W FMW BDJW
+FJM,441243,Numbers,4,8,Hebrew,Main,Q,prose,W FMW >T BDJW
+FJM,441251,Numbers,4,11,Hebrew,Main,Q,prose,W FMW >T BDJW
+FJM,441262,Numbers,4,14,Hebrew,Main,Q,prose,W FMW BDJW
+FJM,441281,Numbers,4,19,Hebrew,Main,Q,prose,W FMW >WTM
+FJM,441559,Numbers,6,26,Hebrew,Main,Q,prose,W JFM LK CLWM
+FJM,441560,Numbers,6,27,Hebrew,Main,Q,prose,W FMW >T CMJ <L BNJ JFR>L
+FJM,442061,Numbers,11,11,Hebrew,SubAdv,Q,prose,L FWM >T MF> KL H <M H ZH <LJ
+FJM,442091,Numbers,11,17,Hebrew,Main,Q,prose,W FMTJ <LJHM
+FJM,442670,Numbers,16,7,Hebrew,Main,Q,prose,W FJMW <LJHN QVRT L PNJ JHWH MXR
+FJM,442718,Numbers,16,18,Hebrew,Main,N,prose,W JFJMW <LJHM QVRT
+FJM,442821,Numbers,17,11,Hebrew,Main,Q,prose,W FJM QVRT
+FJM,443220,Numbers,21,8,Hebrew,Main,Q,prose,W FJM >TW <L NS
+FJM,443225,Numbers,21,9,Hebrew,Main,N,prose,W JFMHW <L H NS
+FJM,443520,Numbers,22,38,Hebrew,SubMod,Q,prose,>CR JFJM >LHJM B PJ
+FJM,443550,Numbers,23,5,Hebrew,Main,N,prose,W JFM JHWH DBR B PJ BL<M
+FJM,443582,Numbers,23,12,Hebrew,SubArg,Q,prose,>T >CR JFJM JHWH B PJ
+FJM,443598,Numbers,23,16,Hebrew,Main,N,prose,W JFM DBR B PJW
+FJM,443758,Numbers,24,21,Hebrew,Main,Q,prose,W FJM B  SL< QNK
+FJM,443766,Numbers,24,23,Hebrew,SubAdv,Q,prose,M FMW >L
+FJM,444906,Deuteronomy,1,13,Hebrew,Main,Q,prose,W >FJMM B R>CJKM
+FJM,445494,Deuteronomy,4,44,Hebrew,SubMod,Q,prose,>CR FM MCH L PNJ BNJ JFR>L
+FJM,445781,Deuteronomy,7,15,Hebrew,Main,Q,prose,L> JFJMM BK
+FJM,446061,Deuteronomy,10,2,Hebrew,Main,Q,prose,W FMTM B  >RWN
+FJM,446071,Deuteronomy,10,5,Hebrew,Main,N,prose,W >FM >T H LXT B  >RWN
+FJM,446138,Deuteronomy,10,22,Hebrew,Main,Q,prose,W <TH FMK JHWH >LHJK K KWKBJ H CMJM L RB
+FJM,446206,Deuteronomy,11,18,Hebrew,Main,Q,prose,W FMTM >T DBRJ >LH <L LBBKM W <L NPCKM
+FJM,446280,Deuteronomy,12,5,Hebrew,SubAdv,Q,prose,L FWM >T CMW CM
+FJM,446340,Deuteronomy,12,21,Hebrew,SubAdv,Q,prose,L FWM CMW CM
+FJM,446484,Deuteronomy,14,1,Hebrew,Main,Q,prose,W L> TFJMW QRXH BJN <JNJKM L MT
+FJM,446550,Deuteronomy,14,24,Hebrew,SubAdv,Q,prose,L FWM CMW CM
+FJM,446800,Deuteronomy,17,14,Hebrew,Main,Q,prose,>FJMH <LJ MLK K KL H GWJM
+FJM,446802,Deuteronomy,17,15,Hebrew,Main,Q,prose,FWM TFJM <LJK MLK
+FJM,446804,Deuteronomy,17,15,Hebrew,Main,Q,prose,M QRB >XJK TFJM <LJK MLK
+FJM,447237,Deuteronomy,22,8,Hebrew,Main,Q,prose,W L> TFJM DMJM B BJTK
+FJM,447251,Deuteronomy,22,14,Hebrew,Main,Q,prose,W FM LH <LJLT DBRJM
+FJM,447263,Deuteronomy,22,17,Hebrew,Main,Q,prose,HW> FM <LJLT DBRJM
+FJM,447596,Deuteronomy,26,2,Hebrew,Main,Q,prose,W FMT B  VN>
+FJM,447722,Deuteronomy,27,15,Hebrew,SubAdv,Q,prose,W FM B  STR
+FJM,448324,Deuteronomy,31,19,Hebrew,Main,Q,prose,FJMH B PJHM
+FJM,448360,Deuteronomy,31,26,Hebrew,Main,Q,prose,W FMTM >TW M YD >RWN BRJT JHWH >LHJKM
+FJM,448553,Deuteronomy,32,46,Hebrew,Main,Q,prose,FJMW LBBKM L KL H DBRJM
+FJM,448618,Deuteronomy,33,10,Hebrew,Main,Q,prose,JFJMW QVWRH B >PK
+FJM,449260,Joshua,6,18,Hebrew,SubAdv,Q,prose,W FMTM >T MXNH JFR>L L XRM
+FJM,449356,Joshua,7,11,Hebrew,Main,Q,prose,W GM FMW B KLJHM
+FJM,449400,Joshua,7,19,Hebrew,Main,Q,prose,FJM N> KBWD L JHWH >LHJ JFR>L
+FJM,449445,Joshua,8,2,Hebrew,Main,Q,prose,FJM LK M >XRJH
+FJM,449493,Joshua,8,12,Hebrew,Main,N,prose,W JFM >WTM >RB BJN BJT_>L W BJN H <J M JM L  <JR
+FJM,449494,Joshua,8,13,Hebrew,Main,N,prose,W JFJMW H <M >T KL H MXNH
+FJM,449568,Joshua,8,28,Hebrew,Main,N,prose,W JFJMH TL <WLM CMMH <D H JWM H ZH
+FJM,449809,Joshua,10,24,Hebrew,Main,Q,prose,FJMW >T RGLJKM <L YW>RJ H MLKJM H >LH
+FJM,449811,Joshua,10,24,Hebrew,Main,N,prose,W JFJMW >T RGLJHM <L YW>RJHM
+FJM,449830,Joshua,10,27,Hebrew,Main,N,prose,W JFMW >BNJM GDLWT <L PJ H M<RH <D <YM H JWM H ZH
+FJM,450973,Joshua,24,7,Hebrew,Main,N,prose,W JFM M>PL BJNJKM W BJN H MYRJM
+FJM,451069,Joshua,24,25,Hebrew,Main,N,prose,W JFM LW XQ W MCPV B CKM
+FJM,451200,Judges,1,28,Hebrew,Main,N,prose,W JFM >T H KN<NJ L MS
+FJM,451529,Judges,4,21,Hebrew,Main,N,prose,W TFM >T H MQBT B JDH
+FJM,451761,Judges,6,19,Hebrew,Main,N,prose,H BFR FM B  SL
+FJM,451762,Judges,6,19,Hebrew,Main,N,prose,W H MRQ FM B  PRWR
+FJM,452005,Judges,7,22,Hebrew,Main,N,prose,W JFM JHWH >T XRB >JC B R<HW W B KL H MXNH
+FJM,452150,Judges,8,31,Hebrew,Main,N,prose,W JFM >T CMW >BJMLK
+FJM,452157,Judges,8,33,Hebrew,Main,N,prose,W JFJMW LHM B<L_BRJT L >LHJM
+FJM,452258,Judges,9,24,Hebrew,SubAdv,N,prose,L FWM <L >BJMLK >XJHM W <L B<LJ CKM
+FJM,452262,Judges,9,25,Hebrew,Main,N,prose,W JFJMW LW B<LJ CKM M>RBJM <L R>CJ H HRJM
+FJM,452374,Judges,9,48,Hebrew,Main,N,prose,W JFM <L CKMW
+FJM,452383,Judges,9,49,Hebrew,Main,N,prose,W JFJMW <L H YRJX
+FJM,452526,Judges,11,11,Hebrew,Main,N,prose,W JFJMW H <M >WTW <LJHM L R>C W L QYJN
+FJM,452669,Judges,12,3,Hebrew,Main,N,prose,W >FJMH NPCJ B KPJ
+FJM,452969,Judges,15,4,Hebrew,Main,N,prose,W JFM LPJD >XD BJN CNJ H ZNBWT B  TWK
+FJM,453073,Judges,16,3,Hebrew,Main,N,prose,W JFM <L KTPJW
+FJM,453402,Judges,18,19,Hebrew,Main,Q,prose,FJM JDK <L PJK
+FJM,453413,Judges,18,21,Hebrew,Main,N,prose,W JFJMW >T H VP W >T H MQNH W >T H KBWDH L PNJHM
+FJM,453462,Judges,18,31,Hebrew,Main,N,prose,W JFJMW LHM >T PSL MJKH KL JMJ
+FJM,453641,Judges,19,30,Hebrew,Main,Q,prose,FJMW LKM <LJH
+FJM,453756,Judges,20,29,Hebrew,Main,N,prose,W JFM JFR>L >RBJM >L H GB<H SBJB
+FJM,453786,Judges,20,36,Hebrew,SubMod,N,prose,>CR FMW >L H GB<H
+FJM,454152,1_Samuel,2,20,Hebrew,Main,Q,prose,JFM JHWH LK ZR< MN H >CH H Z>T TXT H C>LH
+FJM,454557,1_Samuel,6,8,Hebrew,Main,Q,prose,W >T KLJ H ZHB TFJMW B  >RGZ M YDW
+FJM,454573,1_Samuel,6,11,Hebrew,Main,N,prose,W JFMW >T >RWN JHWH >L H <GLH W >T H >RGZ W >T <KBRJ H ZHB W >T YLMJ VXRJHM
+FJM,454591,1_Samuel,6,15,Hebrew,Main,N,prose,W JFMW >L H >BN H GDWLH
+FJM,454672,1_Samuel,7,12,Hebrew,Main,N,prose,W JFM BJN H MYPH W BJN H CN
+FJM,454694,1_Samuel,8,1,Hebrew,Main,N,prose,W JFM >T BNJW CPVJM L JFR>L
+FJM,454707,1_Samuel,8,5,Hebrew,Main,Q,prose,<TH FJMH LNW MLK
+FJM,454737,1_Samuel,8,11,Hebrew,Main,Q,prose,W FM LW B MRKBTW W B PRCJW
+FJM,454739,1_Samuel,8,12,Hebrew,Main,Q,prose,W L FWM LW FRJ >LPJM W FRJ XMCJM
+FJM,454892,1_Samuel,9,20,Hebrew,Main,Q,prose,>L TFM >T LBK LHM
+FJM,454909,1_Samuel,9,23,Hebrew,Main,Q,prose,FJM >TH <MK
+FJM,454912,1_Samuel,9,24,Hebrew,Main,N,prose,W JFM L PNJ C>WL
+FJM,454916,1_Samuel,9,24,Hebrew,Main,Q,prose,FJM L PNJK
+FJM,455041,1_Samuel,10,19,Hebrew,Main,Q,prose,KJ MLK TFJM <LJNW
+FJM,455086,1_Samuel,11,2,Hebrew,Main,Q,prose,W FMTJH XRPH <L KL JFR>L
+FJM,455130,1_Samuel,11,11,Hebrew,Main,N,prose,W JFM C>WL >T H <M CLCH R>CJM
+FJM,455630,1_Samuel,15,2,Hebrew,SubMod,Q,prose,>CR FM LW B  DRK
+FJM,456095,1_Samuel,17,40,Hebrew,Main,N,prose,W JFM >TM B KLJ H R<JM W B  JLQWV
+FJM,456169,1_Samuel,17,54,Hebrew,Main,N,prose,W >T KLJW FM B >HLW
+FJM,456209,1_Samuel,18,5,Hebrew,Main,N,prose,W JFMHW C>WL <L >NCJ H MLXMH
+FJM,456243,1_Samuel,18,13,Hebrew,Main,N,prose,W JFMHW LW FR >LP
+FJM,456345,1_Samuel,19,5,Hebrew,Main,N,prose,W JFM >T NPCW B KPW
+FJM,456388,1_Samuel,19,13,Hebrew,Main,N,prose,W TFM >L H MVH
+FJM,456389,1_Samuel,19,13,Hebrew,Main,N,prose,W >T KBJR H <ZJM FMH MR>CTJW
+FJM,456708,1_Samuel,21,7,Hebrew,SubAdv,N,prose,L FWM LXM XM B JWM
+FJM,456738,1_Samuel,21,13,Hebrew,Main,N,prose,W JFM DWD >T H DBRJM H >LH B LBBW
+FJM,456784,1_Samuel,22,7,Hebrew,Main,Q,prose,L KLKM JFJM FRJ >LPJM W FRJ M>WT
+FJM,456824,1_Samuel,22,15,Hebrew,Main,Q,prose,>L JFM H MLK B <BDW DBR B KL BJT >BJ
+FJM,457216,1_Samuel,25,18,Hebrew,Main,N,prose,W TFM <L H XMRJM
+FJM,457249,1_Samuel,25,25,Hebrew,Main,Q,prose,>L N> JFJM >DNJ >T LBW >L >JC H BLJ<L H ZH <L NBL
+FJM,457566,1_Samuel,28,2,Hebrew,Main,Q,prose,LKN CMR L R>CJ >FJMK KL H JMJM
+FJM,457667,1_Samuel,28,21,Hebrew,Main,N,prose,W >FJM NPCJ B KPJ
+FJM,457672,1_Samuel,28,22,Hebrew,Main,Q,prose,W >FMH L PNJK PT LXM
+FJM,457881,1_Samuel,30,25,Hebrew,Main,N,prose,W JFMH L XQ W L MCPV L JFR>L <D H JWM H ZH
+FJM,457942,1_Samuel,31,10,Hebrew,Main,N,prose,W JFMW >T KLJW BJT <CTRWT
+FJM,458662,2_Samuel,7,10,Hebrew,Main,Q,prose,W FMTJ MQWM L <MJ L JFR>L
+FJM,458718,2_Samuel,7,23,Hebrew,SubAdv,Q,prose,W L FWM LW CM
+FJM,458773,2_Samuel,8,6,Hebrew,Main,N,prose,W JFM DWD NYBJM B >RM DMFQ
+FJM,458796,2_Samuel,8,14,Hebrew,Main,N,prose,W JFM B >DWM NYBJM
+FJM,458797,2_Samuel,8,14,Hebrew,Main,N,prose,B KL >DWM FM NYBJM
+FJM,459199,2_Samuel,12,20,Hebrew,Main,N,prose,W JFJMW LW LXM
+FJM,459255,2_Samuel,12,31,Hebrew,Main,N,prose,W JFM B  MGRH W B XRYJ H BRZL W B MGZRT H BRZL
+FJM,459369,2_Samuel,13,19,Hebrew,Main,N,prose,W TFM JDH <L R>CH
+FJM,459444,2_Samuel,13,32,Hebrew,SubAdv,Q,prose,KJ <L PJ >BCLWM HJTH FWMH M JWM
+FJM,459447,2_Samuel,13,33,Hebrew,Main,Q,prose,>L JFM >DNJ H MLK >L LBW DBR
+FJM,459489,2_Samuel,14,3,Hebrew,Main,N,prose,W JFM JW>B >T H DBRJM B PJH
+FJM,459515,2_Samuel,14,7,Hebrew,SubAdv,Q,prose,L BLTJ FWM L >JCJ CM W C>RJT <L PNJ H >DMH
+FJM,459585,2_Samuel,14,19,Hebrew,Main,Q,prose,W HW> FM B PJ CPXTK >T KL H DBRJM H >LH
+FJM,459682,2_Samuel,15,4,Hebrew,Main,Q,prose,MJ JFMNJ CPV B  >RY
+FJM,460096,2_Samuel,17,25,Hebrew,Main,N,prose,W >T <MF> FM >BCLM TXT JW>B <L H YB>
+FJM,460112,2_Samuel,18,1,Hebrew,Main,N,prose,W JFM <LJHM FRJ >LPJM W FRJ M>WT
+FJM,460122,2_Samuel,18,3,Hebrew,Main,Q,prose,L> JFJMW >LJNW LB
+FJM,460124,2_Samuel,18,3,Hebrew,Main,Q,prose,L> JFJMW >LJNW LB
+FJM,460396,2_Samuel,19,20,Hebrew,SubAdv,Q,prose,L FWM H MLK >L LBW
+FJM,460898,2_Samuel,23,5,Hebrew,SubAdv,Q,prose,KJ BRJT <WLM FM LJ
+FJM,460983,2_Samuel,23,23,Hebrew,Main,N,prose,W JFMHW DWD >L MCM<TW
+FJM,461391,1_Kings,2,5,Hebrew,SubAdv,N,prose,W JFM DMJ MLXMH B CLM
+FJM,461436,1_Kings,2,15,Hebrew,SubAdv,Q,prose,W <LJ FMW KL JFR>L PNJHM
+FJM,461459,1_Kings,2,19,Hebrew,Main,N,prose,W JFM KS> L >M H MLK
+FJM,461872,1_Kings,5,23,Hebrew,Main,Q,prose,W >NJ >FJMM DBRWT B  JM <D H MQWM
+FJM,462264,1_Kings,8,21,Hebrew,Main,N,prose,W >FM CM MQWM L  >RWN
+FJM,462491,1_Kings,9,3,Hebrew,SubAdv,Q,prose,L FWM CMJ CM <D <WLM
+FJM,462619,1_Kings,10,9,Hebrew,Main,N,prose,W JFJMK L MLK
+FJM,462808,1_Kings,11,36,Hebrew,SubAdv,Q,prose,L FWM CMJ CM
+FJM,462986,1_Kings,12,29,Hebrew,Main,N,prose,W JFM >T H >XD B BJT_>L
+FJM,463315,1_Kings,14,21,Hebrew,SubAdv,?,prose,L FWM >T CMW CM
+FJM,463818,1_Kings,18,23,Hebrew,Main,Q,prose,W JFJMW <L H <YJM
+FJM,463819,1_Kings,18,23,Hebrew,Main,Q,prose,W >C L> JFJMW
+FJM,463822,1_Kings,18,23,Hebrew,Main,Q,prose,W >C L> >FJM
+FJM,463837,1_Kings,18,25,Hebrew,Main,Q,prose,W >C L> TFJMW
+FJM,463882,1_Kings,18,33,Hebrew,Main,N,prose,W JFM <L H <YJM
+FJM,463936,1_Kings,18,42,Hebrew,Main,N,prose,W JFM PNJW BJN BRKW
+FJM,463972,1_Kings,19,2,Hebrew,SubAdv,Q,prose,KJ K  <T MXR >FJM >T NPCK K NPC >XD MHM
+FJM,464124,1_Kings,20,6,Hebrew,Main,Q,prose,KL MXMD <JNJK JFJMW B JDM
+FJM,464160,1_Kings,20,12,Hebrew,Main,Q,prose,FJMW
+FJM,464161,1_Kings,20,12,Hebrew,Main,N,prose,W JFJMW <L H <JR
+FJM,464221,1_Kings,20,24,Hebrew,Main,Q,prose,W FJM PXWT TXTJHM
+FJM,464261,1_Kings,20,31,Hebrew,Main,Q,prose,NFJMH N> FQJM B MTNJNW
+FJM,464288,1_Kings,20,34,Hebrew,Main,Q,prose,W XWYWT TFJM LK B DMFQ
+FJM,464289,1_Kings,20,34,Hebrew,SubAdv,Q,prose,K >CR FM >BJ B CMRWN
+FJM,464490,1_Kings,21,27,Hebrew,Main,N,prose,W JFM FQ <L BFRW
+FJM,464632,1_Kings,22,27,Hebrew,Main,Q,prose,FJMW >T ZH BJT H KL>
+FJM,464979,2_Kings,2,20,Hebrew,Main,Q,prose,W FJMW CM MLX
+FJM,465188,2_Kings,4,10,Hebrew,Main,Q,prose,W NFJM LW CM MVH W CLXN W KS> W MNWRH
+FJM,465297,2_Kings,4,29,Hebrew,Main,Q,prose,W FMT MC<NTJ <L PNJ H N<R
+FJM,465305,2_Kings,4,31,Hebrew,Main,N,prose,W JFM >T H MC<NT <L PNJ H N<R
+FJM,465321,2_Kings,4,34,Hebrew,Main,N,prose,W JFM PJW <L PJW
+FJM,465679,2_Kings,6,22,Hebrew,Main,Q,prose,FJM LXM W MJM L PNJHM
+FJM,465959,2_Kings,8,11,Hebrew,Main,N,prose,W JFM
+FJM,466101,2_Kings,9,13,Hebrew,Main,N,prose,W JFJMW TXTJW >L GRM H M<LWT
+FJM,466259,2_Kings,10,3,Hebrew,Main,Q,prose,W FMTM <L KS> >BJW
+FJM,466287,2_Kings,10,7,Hebrew,Main,N,prose,W JFJMW >T R>CJHM B  DWDJM
+FJM,466294,2_Kings,10,8,Hebrew,Main,Q,prose,FJMW >TM CNJ YBRJM PTX H C<R <D H BQR
+FJM,466381,2_Kings,10,24,Hebrew,Main,N,prose,W JHW> FM LW B  XWY CMNJM >JC
+FJM,466401,2_Kings,10,27,Hebrew,Main,N,prose,W JFMHW L MXR>WT <D H JWM
+FJM,466510,2_Kings,11,16,Hebrew,Main,N,prose,W JFMW LH JDJM
+FJM,466520,2_Kings,11,18,Hebrew,Main,N,prose,W JFM H KHN PQDWT <L BJT JHWH
+FJM,466592,2_Kings,12,18,Hebrew,Main,N,prose,W JFM XZ>L PNJW
+FJM,466632,2_Kings,13,7,Hebrew,Main,N,prose,W JFMM K  <PR
+FJM,466666,2_Kings,13,16,Hebrew,Main,N,prose,W JFM >LJC< JDJW <L JDJ H MLK
+FJM,467156,2_Kings,17,34,Hebrew,SubMod,N,prose,>CR FM CMW JFR>L
+FJM,467238,2_Kings,18,14,Hebrew,Main,N,prose,W JFM MLK >CWR <L XZQJH MLK JHWDH CLC M>WT KKR KSP W CLCJM KKR ZHB
+FJM,467475,2_Kings,19,28,Hebrew,Main,Q,prose,W FMTJ XXJ B >PK
+FJM,467552,2_Kings,20,7,Hebrew,Main,N,prose,W JFJMW <L H CXJN
+FJM,467634,2_Kings,21,4,Hebrew,Main,Q,prose,B JRWCLM >FJM >T CMJ
+FJM,467644,2_Kings,21,7,Hebrew,Main,N,prose,W JFM >T PSL H >CRH B  BJT
+FJM,467647,2_Kings,21,7,Hebrew,Main,Q,prose,B  BJT H ZH W B JRWCLM >FJM >T CMJ L <WLM
+FJM,468348,Isaiah,3,7,Hebrew,Main,Q,prophecy,L> TFJMNJ QYJN <M
+FJM,468512,Isaiah,5,20,Hebrew,SubAdv,Q,prophecy,FMJM XCK L >WR
+FJM,468514,Isaiah,5,20,Hebrew,SubAdv,Q,prophecy,FMJM MR L MTWQ
+FJM,468912,Isaiah,10,6,Hebrew,SubAdv,Q,prophecy,W L FJMW MRMS K XMR XWYWT
+FJM,469117,Isaiah,13,9,Hebrew,SubAdv,Q,prophecy,L FWM H >RY L CMH
+FJM,469219,Isaiah,14,17,Hebrew,Main,Q,prophecy,FM TBL K  MDBR
+FJM,469240,Isaiah,14,23,Hebrew,Main,D,prophecy,W FMTJH L MWRC QPD
+FJM,469603,Isaiah,21,4,Hebrew,Main,Q,prophecy,>T NCP XCQJ FM LJ L XRDH
+FJM,469804,Isaiah,23,13,Hebrew,Main,Q,prophecy,FMH L MPLH
+FJM,469924,Isaiah,25,2,Hebrew,SubAdv,Q,prophecy,KJ FMT M <JR L  GL QRJH BYWRH
+FJM,470077,Isaiah,27,9,Hebrew,SubAdv,D,prophecy,B FWMW KL >BNJ MZBX K >BNJ GR MNPYWT
+FJM,470164,Isaiah,28,15,Hebrew,SubAdv,Q,prophecy,KJ FMNW KZB MXSNW
+FJM,470171,Isaiah,28,17,Hebrew,Main,Q,prophecy,W FMTJ MCPV L QW
+FJM,470211,Isaiah,28,25,Hebrew,Main,Q,prophecy,W FM XVH FWRH
+FJM,471035,Isaiah,37,29,Hebrew,Main,Q,prophecy,W FMTJ XXJ B >PK
+FJM,471406,Isaiah,41,15,Hebrew,Main,Q,prophecy,HNH FMTJK L MWRG XRWY XDC B<L PJPJWT
+FJM,471409,Isaiah,41,15,Hebrew,Main,Q,prophecy,W GB<WT K  MY TFJM
+FJM,471424,Isaiah,41,18,Hebrew,Main,Q,prophecy,>FJM MDBR L >GM MJM
+FJM,471427,Isaiah,41,19,Hebrew,Main,Q,prophecy,>FJM B  <RBH BRWC TDHR W T>CWR JXDW
+FJM,471430,Isaiah,41,20,Hebrew,Main,Q,prophecy,W JFJMW
+FJM,471444,Isaiah,41,22,Hebrew,Main,Q,prophecy,W NFJMH LBNW
+FJM,471501,Isaiah,42,4,Hebrew,SubAdv,Q,prophecy,<D JFJM B  >RY MCPV
+FJM,471534,Isaiah,42,12,Hebrew,Main,Q,prophecy,JFJMW L JHWH KBWD
+FJM,471549,Isaiah,42,15,Hebrew,Main,Q,prophecy,W FMTJ NHRWT L  >JJM
+FJM,471555,Isaiah,42,16,Hebrew,Main,Q,prophecy,>FJM MXCK L PNJHM L  >WR
+FJM,471605,Isaiah,42,25,Hebrew,Main,D,prophecy,W L> JFJM <L LB
+FJM,471699,Isaiah,43,19,Hebrew,Main,Q,prophecy,>P >FJM B  MDBR DRK
+FJM,471761,Isaiah,44,7,Hebrew,SubAdv,Q,prophecy,M FWMJ <M <WLM
+FJM,472133,Isaiah,47,6,Hebrew,Main,N,prophecy,L> FMT LHM RXMJM
+FJM,472137,Isaiah,47,7,Hebrew,SubAdv,N,prophecy,<D L> FMT >LH <L LBK
+FJM,472307,Isaiah,49,2,Hebrew,Main,N,prophecy,W JFM PJ K XRB XDH
+FJM,472309,Isaiah,49,2,Hebrew,Main,N,prophecy,W JFJMNJ L XY BRWR
+FJM,472361,Isaiah,49,11,Hebrew,Main,Q,prophecy,W FMTJ KL HRJ L  DRK
+FJM,472449,Isaiah,50,2,Hebrew,Main,Q,prophecy,>FJM NHRWT MDBR
+FJM,472453,Isaiah,50,3,Hebrew,Main,Q,prophecy,W FQ >FJM KSWTM
+FJM,472468,Isaiah,50,7,Hebrew,Main,Q,prophecy,<L KN FMTJ PNJ K  XLMJC
+FJM,472510,Isaiah,51,3,Hebrew,Main,N,prophecy,W JFM MDBRH K <DN
+FJM,472551,Isaiah,51,10,Hebrew,SubAdv,Q,prophecy,H FMH M<MQJ JM DRK
+FJM,472581,Isaiah,51,16,Hebrew,Main,N,prophecy,W >FJM DBRJ B PJK
+FJM,472617,Isaiah,51,23,Hebrew,Main,Q,prophecy,W FMTJH B JD MWGJK
+FJM,472621,Isaiah,51,23,Hebrew,Main,N,prophecy,W TFJMJ K  >RY GWK
+FJM,472743,Isaiah,53,10,Hebrew,SubAdv,Q,prophecy,>M TFJM >CM NPCW
+FJM,472808,Isaiah,54,12,Hebrew,Main,Q,prophecy,W FMTJ KDKD CMCTJK
+FJM,472970,Isaiah,57,1,Hebrew,SubMod,?,prophecy,FM <L LB
+FJM,472992,Isaiah,57,7,Hebrew,Main,Q,prophecy,<L HR GBH W NF> FMT MCKBK
+FJM,472995,Isaiah,57,8,Hebrew,Main,Q,prophecy,W >XR H DLT W H MZWZH FMT ZKRWNK
+FJM,473015,Isaiah,57,11,Hebrew,Main,Q,prophecy,L> FMT <L LBK
+FJM,473247,Isaiah,59,21,Hebrew,SubMod,D,prophecy,>CR FMTJ B PJK
+FJM,473307,Isaiah,60,15,Hebrew,Main,Q,prophecy,W FMTJK L G>WN <WLM
+FJM,473317,Isaiah,60,17,Hebrew,Main,Q,prophecy,W FMTJ PQDTK CLWM
+FJM,473349,Isaiah,61,3,Hebrew,SubAdv,Q,prophecy,L FWM L >BLJ YJWN
+FJM,473421,Isaiah,62,7,Hebrew,SubAdv,Q,prophecy,W <D JFJM >T JRWCLM THLH B  >RY
+FJM,473500,Isaiah,63,11,Hebrew,SubArg,Q,prophecy,H FM B QRBW >T RWX QDCW
+FJM,473804,Isaiah,66,19,Hebrew,Main,Q,prophecy,W FMTJ BHM >WT
+FJM,473943,Jeremiah,2,7,Hebrew,Main,N,prophecy,W NXLTJ FMTM L TW<BH
+FJM,474242,Jeremiah,4,7,Hebrew,SubAdv,Q,prophecy,L FWM >RYK L CMH
+FJM,474469,Jeremiah,5,22,Hebrew,SubMod,Q,prophecy,>CR FMTJ XWL GBWL L  JM
+FJM,474546,Jeremiah,6,8,Hebrew,SubAdv,Q,prophecy,PN >FJMK CMMH
+FJM,474785,Jeremiah,7,30,Hebrew,Main,Q,prophecy,FMW CQWYJHM B  BJT
+FJM,474945,Jeremiah,9,7,Hebrew,Main,Q,prophecy,W B QRBW JFJM >RBW
+FJM,475117,Jeremiah,10,22,Hebrew,SubAdv,Q,prophecy,L FWM >T <RJ JHWDH CMMH M<WN TNJM
+FJM,475202,Jeremiah,11,13,Hebrew,Main,Q,prophecy,W MSPR XYWT JRWCLM FMTM MZBXWT L  BCT
+FJM,475297,Jeremiah,12,11,Hebrew,Main,Q,prophecy,FMH L CMMH
+FJM,475300,Jeremiah,12,11,Hebrew,SubAdv,Q,prophecy,KJ >JN >JC FM <L LB
+FJM,475336,Jeremiah,13,1,Hebrew,Main,Q,prophecy,W FMTW <L MTNJK
+FJM,475339,Jeremiah,13,2,Hebrew,Main,N,prophecy,W >FM <L MTNJ
+FJM,475411,Jeremiah,13,16,Hebrew,Main,Q,prophecy,W FMH L YLMWT
+FJM,475795,Jeremiah,17,5,Hebrew,SubAdv,Q,prophecy,W FM BFR ZR<W
+FJM,475963,Jeremiah,18,16,Hebrew,SubAdv,N,prophecy,L FWM >RYM L CMH CRWQT <WLM
+FJM,476038,Jeremiah,19,8,Hebrew,Main,Q,prophecy,W FMTJ >T H <JR H Z>T L CMH W L CRQH
+FJM,476201,Jeremiah,21,10,Hebrew,SubAdv,Q,prophecy,KJ FMTJ PNJ B  <JR H Z>T L R<H
+FJM,476583,Jeremiah,24,6,Hebrew,Main,Q,prophecy,W FMTJ <JNJ <LJHM L VWBH
+FJM,476644,Jeremiah,25,9,Hebrew,Main,Q,prophecy,W FMTJM L CMH W L CRQH W L XRBWT <WLM
+FJM,476653,Jeremiah,25,12,Hebrew,Main,Q,prophecy,W FMTJ >TW L CMMWT <WLM
+FJM,477099,Jeremiah,29,22,Hebrew,Main,Q,prophecy,JFMK JHWH K YDQJHW W K >XB
+FJM,477363,Jeremiah,31,21,Hebrew,Main,Q,prophecy,FMJ LK TMRWRJM
+FJM,477535,Jeremiah,32,20,Hebrew,SubAdv,Q,prophecy,>CR FMT >TWT W MPTJM B >RY MYRJM <D H JWM H ZH W B JFR>L W B  >DM
+FJM,477594,Jeremiah,32,34,Hebrew,Main,N,prophecy,W JFJMW CQWYJHM B  BJT
+FJM,477739,Jeremiah,33,25,Hebrew,Main,Q,prophecy,XQWT CMJM W >RY L> FMTJ
+FJM,478214,Jeremiah,38,12,Hebrew,Main,Q,prophecy,FJM N> BLW>J H SXBWT W H MLXJM TXT >YLWT JDJK M TXT L XBLJM
+FJM,478331,Jeremiah,39,12,Hebrew,Main,Q,prophecy,W <JNJK FJM <LJW
+FJM,478381,Jeremiah,40,4,Hebrew,Main,Q,prophecy,W >FJM >T <JNJ <LJK
+FJM,478421,Jeremiah,40,10,Hebrew,Main,Q,prophecy,W FMW B KLJKM
+FJM,478602,Jeremiah,42,15,Hebrew,Main,Q,prophecy,>M >TM FWM TFMWN PNJKM
+FJM,478613,Jeremiah,42,17,Hebrew,SubMod,Q,prophecy,>CR FMW >T PNJHM
+FJM,478681,Jeremiah,43,10,Hebrew,Main,Q,prophecy,W FMTJ KS>W M M<L L  >BNJM H >LH
+FJM,478749,Jeremiah,44,11,Hebrew,Main,Q,prophecy,HNNJ FM PNJ BKM L R<H
+FJM,478752,Jeremiah,44,12,Hebrew,SubMod,Q,prophecy,>CR FMW PNJHM
+FJM,479404,Jeremiah,49,38,Hebrew,Main,Q,prophecy,W FMTJ KS>J B <JLM
+FJM,479748,Jeremiah,51,29,Hebrew,SubAdv,N,prophecy,L FWM >T >RY BBL L CMH M >JN JWCB
+FJM,480325,Ezekiel,4,2,Hebrew,Main,Q,prophecy,W FJM <LJH KRJM SBJB
+FJM,480335,Ezekiel,4,4,Hebrew,Main,Q,prophecy,W FMT >T <WN BJT JFR>L <LJW
+FJM,480409,Ezekiel,5,5,Hebrew,Main,Q,prophecy,B TWK H GWJM FMTJH
+FJM,480476,Ezekiel,6,2,Hebrew,Main,Q,prophecy,FJM PNJK >L HRJ JFR>L
+FJM,480623,Ezekiel,7,20,Hebrew,Main,Q,prophecy,L G>WN FMHW
+FJM,480940,Ezekiel,11,7,Hebrew,SubMod,Q,prophecy,>CR FMTM B TWKH
+FJM,481231,Ezekiel,13,17,Hebrew,Main,Q,prophecy,W >TH FJM PNJK >L BNWT <MK
+FJM,481285,Ezekiel,14,4,Hebrew,SubAdv,Q,prophecy,W MKCWL <WNW JFJM NKX PNJW
+FJM,481300,Ezekiel,14,7,Hebrew,SubAdv,Q,prophecy,W MKCWL <WNW JFJM NKX PNJW
+FJM,481305,Ezekiel,14,8,Hebrew,Main,Q,prophecy,W HFMTJHW L >WT W L MCLJM
+FJM,481411,Ezekiel,15,7,Hebrew,SubAdv,Q,prophecy,B FWMJ >T PNJ BHM
+FJM,481478,Ezekiel,16,14,Hebrew,SubMod,N,prophecy,>CR FMTJ <LJK
+FJM,481684,Ezekiel,17,4,Hebrew,Main,N,prophecy,B <JR RKLJM FMW
+FJM,481688,Ezekiel,17,5,Hebrew,Main,N,prophecy,YPYPH FMW
+FJM,481971,Ezekiel,19,5,Hebrew,Main,N,prophecy,KPJR FMTHW
+FJM,482149,Ezekiel,20,28,Hebrew,Main,N,prophecy,W JFJMW CM RJX NJXWXJHM
+FJM,482230,Ezekiel,21,2,Hebrew,Main,Q,prophecy,FJM PNJK DRK TJMNH
+FJM,482251,Ezekiel,21,7,Hebrew,Main,Q,prophecy,FJM PNJK >L JRWCLM
+FJM,482328,Ezekiel,21,21,Hebrew,Main,Q,prophecy,HFJMJ
+FJM,482336,Ezekiel,21,24,Hebrew,Main,Q,prophecy,W >TH FJM LK CNJM DRKJM
+FJM,482342,Ezekiel,21,25,Hebrew,Main,Q,prophecy,DRK TFJM
+FJM,482350,Ezekiel,21,27,Hebrew,SubAdv,Q,prophecy,L FWM KRJM
+FJM,482353,Ezekiel,21,27,Hebrew,SubAdv,Q,prophecy,L FWM KRJM <L C<RJM
+FJM,482377,Ezekiel,21,32,Hebrew,Main,Q,prophecy,<WH <WH <WH >FJMNH
+FJM,482625,Ezekiel,23,24,Hebrew,Main,Q,prophecy,YNH W MGN W QWB< JFJMW <LJK SBJB
+FJM,482697,Ezekiel,23,41,Hebrew,Main,Q,prophecy,W QVRTJ W CMNJ FMT <LJH
+FJM,482753,Ezekiel,24,7,Hebrew,Main,Q,prophecy,<L YXJX SL< FMTHW
+FJM,482801,Ezekiel,24,17,Hebrew,Main,Q,prophecy,W N<LJK TFJM B RGLJK
+FJM,482851,Ezekiel,25,2,Hebrew,Main,Q,prophecy,FJM PNJK >L BNJ <MWN
+FJM,482970,Ezekiel,26,12,Hebrew,Main,Q,prophecy,W >BNJK W <YJK W <PRK B TWK MJM JFJMW
+FJM,483191,Ezekiel,28,21,Hebrew,Main,Q,prophecy,FJM PNJK >L YJDWN
+FJM,483228,Ezekiel,29,2,Hebrew,Main,Q,prophecy,FJM PNJK <L PR<H MLK MYRJM
+FJM,483392,Ezekiel,30,21,Hebrew,SubAdv,Q,prophecy,L FWM XTWL
+FJM,483943,Ezekiel,35,2,Hebrew,Main,Q,prophecy,FJM PNJK <L HR F<JR
+FJM,483951,Ezekiel,35,4,Hebrew,Main,Q,prophecy,<RJK XRBH >FJM
+FJM,484336,Ezekiel,38,2,Hebrew,Main,Q,prophecy,FJM PNJK >L GWG >RY H MGWG NFJ> R>C MCK W TBL
+FJM,484519,Ezekiel,39,21,Hebrew,SubMod,Q,prophecy,>CR FMTJ BHM
+FJM,484567,Ezekiel,40,4,Hebrew,Main,Q,prophecy,W FJM LBK L KL
+FJM,485046,Ezekiel,44,5,Hebrew,Main,Q,prophecy,FJM LBK
+FJM,485050,Ezekiel,44,5,Hebrew,Main,Q,prophecy,W FMT LBK L MBW> H BJT B KL MWY>J H MQDC
+FJM,485061,Ezekiel,44,8,Hebrew,Main,N,prophecy,W TFJMWN L CMRJ MCMRTJ B MQDCJ LKM
+FJM,485582,Hosea,2,2,Hebrew,Main,?,prophecy,W FMW LHM R>C >XD
+FJM,485598,Hosea,2,5,Hebrew,Main,Q,prophecy,W FMTJH K  MDBR
+FJM,485636,Hosea,2,14,Hebrew,Main,Q,prophecy,W FMTJM L J<R
+FJM,486185,Hosea,11,8,Hebrew,Main,Q,prophecy,>FJMK K YB>JM
+FJM,486390,Joel,1,7,Hebrew,Main,Q,prophecy,FM GPNJ L CMH
+FJM,487118,Amos,7,8,Hebrew,Main,Q,prophecy,HNNJ FM >NK B QRB <MJ JFR>L
+FJM,487209,Amos,8,10,Hebrew,Main,Q,prophecy,W FMTJH K >BL JXJD
+FJM,487251,Amos,9,4,Hebrew,Main,Q,prophecy,W FMTJ <JNJ <LJHM L R<H
+FJM,487323,Obadiah,1,4,Hebrew,SubAdv,Q,prophecy,W >M BJN KWKBJM FJM QNK
+FJM,487337,Obadiah,1,7,Hebrew,Main,Q,prophecy,LXMK JFJMW MZWR TXTJK
+FJM,487651,Micah,1,6,Hebrew,Main,Q,prophecy,W FMTJ CMRWN L <J H FDH L MV<J KRM
+FJM,487656,Micah,1,7,Hebrew,Main,Q,prophecy,W KL <YBJH >FJM CMMH
+FJM,487745,Micah,2,12,Hebrew,Main,Q,prophecy,JXD >FJMNW K Y>N BYRH
+FJM,487839,Micah,4,7,Hebrew,Main,Q,prophecy,W FMTJ >T H YL<H L C>RJT
+FJM,487871,Micah,4,13,Hebrew,SubAdv,Q,prophecy,KJ QRNK >FJM BRZL
+FJM,487872,Micah,4,13,Hebrew,Main,Q,prophecy,W PRSTJK >FJM NXWCH
+FJM,487878,Micah,4,14,Hebrew,Main,Q,prophecy,MYWR FM <LJNW
+FJM,488070,Micah,7,16,Hebrew,Main,Q,prophecy,JFJMW JD <L PH
+FJM,488143,Nahum,1,14,Hebrew,Main,Q,prophecy,>FJM QBRK
+FJM,488234,Nahum,3,6,Hebrew,Main,Q,prophecy,W FMTJK K R>J
+FJM,488346,Habakkuk,1,12,Hebrew,Main,Q,prophecy,L MCPV FMTW
+FJM,488420,Habakkuk,2,9,Hebrew,SubAdv,Q,prophecy,L FWM B  MRWM QNW
+FJM,488544,Habakkuk,3,19,Hebrew,Main,N,prophecy,W JFM RGLJ K  >JLWT
+FJM,488672,Zephaniah,2,13,Hebrew,Main,Q,prophecy,W JFM >T NJNWH L CMMH
+FJM,488775,Zephaniah,3,19,Hebrew,Main,Q,prophecy,W FMTJM L THLH W L CM
+FJM,488797,Haggai,1,5,Hebrew,Main,Q,prophecy,FJMW LBBKM <L DRKJKM
+FJM,488810,Haggai,1,7,Hebrew,Main,Q,prophecy,FJMW LBBKM <L DRKJKM
+FJM,488909,Haggai,2,15,Hebrew,Main,Q,prophecy,FJMW N> LBBKM MN H JWM H ZH W M<LH
+FJM,488910,Haggai,2,15,Hebrew,Main,Q,prophecy,M VRM FWM >BN >L >BN B HJKL JHWH
+FJM,488921,Haggai,2,18,Hebrew,Main,Q,prophecy,FJMW N> LBBKM MN H JWM H ZH W M<LH M JWM <FRJM W >RB<H L  TCJ<J L MN H JWM
+FJM,488923,Haggai,2,18,Hebrew,Main,Q,prophecy,FJMW LBBKM
+FJM,488941,Haggai,2,23,Hebrew,Main,Q,prophecy,W FMTJK K  XWTM
+FJM,489137,Zechariah,3,5,Hebrew,Main,Q,prophecy,JFJMW YNJP VHWR <L R>CW
+FJM,489138,Zechariah,3,5,Hebrew,Main,N,prophecy,W JFJMW H YNJP H VHWR <L R>CW
+FJM,489340,Zechariah,6,11,Hebrew,Main,Q,prophecy,W FMT B R>C JHWC< BN JHWYDQ H KHN H GDWL
+FJM,489404,Zechariah,7,12,Hebrew,Main,N,prophecy,W LBM FMW CMJR
+FJM,489417,Zechariah,7,14,Hebrew,Main,N,prophecy,W JFJMW >RY XMDH L CMH
+FJM,489576,Zechariah,9,13,Hebrew,Main,Q,prophecy,W FMTJK K XRB GBWR
+FJM,489608,Zechariah,10,3,Hebrew,Main,Q,prophecy,W FM >WTM K SWS HWDW B  MLXMH
+FJM,489744,Zechariah,12,2,Hebrew,Main,Q,prophecy,HNH >NKJ FM >T JRWCLM SP R<L L KL H <MJM SBJB
+FJM,489747,Zechariah,12,3,Hebrew,Main,Q,prophecy,B  JWM H HW> >FJM >T JRWCLM >BN M<MSH L KL H <MJM
+FJM,489757,Zechariah,12,6,Hebrew,Main,Q,prophecy,B  JWM H HW> >FJM >T >LPJ JHWDH K KJWR >C B <YJM
+FJM,489945,Malachi,1,3,Hebrew,Main,N,prophecy,W >FJM >T HRJW CMMH
+FJM,490027,Malachi,2,2,Hebrew,SubAdv,Q,prophecy,W >M L> TFJMW <L LB
+FJM,490033,Malachi,2,2,Hebrew,SubAdv,Q,prophecy,KJ >JNKM FMJM <L LB
+FJM,490948,Psalms,18,44,Hebrew,Main,D,poetry,TFJMNJ L R>C GWJM
+FJM,490980,Psalms,19,5,Hebrew,Main,?,poetry,L  CMC FM >HL BHM
+FJM,492080,Psalms,39,9,Hebrew,Main,Q,poetry,XRPT NBL >L TFJMNJ
+FJM,492115,Psalms,40,5,Hebrew,SubMod,Q,poetry,>CR FM JHWH MBVXW
+FJM,492318,Psalms,44,14,Hebrew,Main,D,poetry,TFJMNW XRPH L CKNJNW
+FJM,492320,Psalms,44,15,Hebrew,Main,D,poetry,TFJMNW MCL B  GWJM
+FJM,492428,Psalms,46,9,Hebrew,SubMod,Q,poetry,>CR FM CMWT B  >RY
+FJM,492632,Psalms,50,23,Hebrew,Main,Q,poetry,W FM DRK
+FJM,492718,Psalms,52,9,Hebrew,SubMod,Q,poetry,L> JFJM >LHJM M<WZW
+FJM,492770,Psalms,54,5,Hebrew,SubAdv,Q,poetry,L> FMW >LHJM L NGDM
+FJM,492882,Psalms,56,9,Hebrew,Main,Q,poetry,FJMH DM<TJ B N>DK
+FJM,493277,Psalms,66,2,Hebrew,Main,Q,poetry,FJMW KBWD THLTW
+FJM,493298,Psalms,66,9,Hebrew,SubMod,Q,poetry,H FM NPCNW B  XJJM
+FJM,493305,Psalms,66,11,Hebrew,SubAdv,Q,poetry,FMT MW<QH B MTNJNW
+FJM,493823,Psalms,74,4,Hebrew,Main,Q,poetry,FMW >WTTM >TWT
+FJM,494020,Psalms,78,5,Hebrew,Main,N,poetry,W TWRH FM B JFR>L
+FJM,494027,Psalms,78,7,Hebrew,SubAdv,D,poetry,W JFJMW B >LHJM KSLM
+FJM,494124,Psalms,78,43,Hebrew,SubArg,N,poetry,>CR FM B MYRJM >TWTJW
+FJM,494197,Psalms,79,1,Hebrew,Main,Q,poetry,FMW >T JRWCLM L <JJM
+FJM,494252,Psalms,80,7,Hebrew,Main,D,poetry,TFJMNW MDWN L CKNJNW
+FJM,494306,Psalms,81,6,Hebrew,SubAdv,Q,poetry,<DWT B JHWSP FMW
+FJM,494490,Psalms,85,14,Hebrew,Main,Q,poetry,W JFM L DRK P<MJW
+FJM,494538,Psalms,86,14,Hebrew,Main,Q,poetry,W L> FMWK L NGDM
+FJM,494692,Psalms,89,26,Hebrew,Main,Q,poetry,W FMTJ B  JM JDW
+FJM,494701,Psalms,89,30,Hebrew,Main,Q,poetry,W FMTJ L <D ZR<W
+FJM,494726,Psalms,89,41,Hebrew,Main,Q,poetry,FMT MBYRJW MXTH
+FJM,494840,Psalms,91,9,Hebrew,Main,Q,poetry,<LJWN FMT M<WNK
+FJM,495326,Psalms,104,3,Hebrew,SubAdv,Q,poetry,H FM <BJM RKWBW
+FJM,495340,Psalms,104,9,Hebrew,Main,Q,poetry,GBWL FMT
+FJM,495470,Psalms,105,21,Hebrew,Main,N,poetry,FMW >DWN L BJTW
+FJM,495484,Psalms,105,27,Hebrew,Main,N,poetry,FMW BM DBRJ >TWTJW
+FJM,495708,Psalms,107,33,Hebrew,Main,?,poetry,JFM NHRWT L MDBR
+FJM,495711,Psalms,107,35,Hebrew,Main,?,poetry,JFM MDBR L >GM MJM
+FJM,495727,Psalms,107,41,Hebrew,Main,N,poetry,W JFM K  Y>N MCPXWT
+FJM,495788,Psalms,109,5,Hebrew,Main,N,poetry,W JFJMW <LJ R<H TXT VWBH
+FJM,497405,Psalms,147,14,Hebrew,SubMod,Q,poetry,H FM GBWLK CLWM
+FJM,497531,Job,1,8,Hebrew,Main,Q,poetry,H FMT LBK <L <BDJ >JWB
+FJM,497574,Job,1,17,Hebrew,Main,Q,poetry,KFDJM FMW CLCH R>CJM
+FJM,497617,Job,2,3,Hebrew,Main,Q,poetry,H FMT LBK >L <BDJ >JWB
+FJM,497790,Job,4,18,Hebrew,Main,Q,poetry,W B ML>KJW JFJM THLH
+FJM,497795,Job,4,20,Hebrew,Main,Q,poetry,M BLJ MFJM L NYX J>BDW
+FJM,497820,Job,5,8,Hebrew,Main,Q,poetry,W >L >LHJM >FJM DBRTJ
+FJM,497826,Job,5,11,Hebrew,SubAdv,Q,poetry,L FWM CPLJM L MRWM
+FJM,497990,Job,7,12,Hebrew,SubAdv,Q,poetry,KJ TFJM <LJ MCMR
+FJM,498013,Job,7,20,Hebrew,Main,Q,poetry,LMH FMTNJ L MPG< LK
+FJM,498401,Job,13,14,Hebrew,Main,Q,poetry,W NPCJ >FJM B KPJ
+FJM,498666,Job,17,3,Hebrew,Main,Q,poetry,FJMH N>
+FJM,498691,Job,17,12,Hebrew,Main,Q,poetry,LJLH L JWM JFJMW
+FJM,498707,Job,18,2,Hebrew,Main,Q,poetry,<D >NH TFJMWN QNYJ L MLJN
+FJM,498773,Job,19,8,Hebrew,Main,Q,poetry,W <L NTJBWTJ XCK JFJM
+FJM,498836,Job,20,4,Hebrew,SubAdv,Q,poetry,MNJ FJM >DM <LJ >RY
+FJM,498915,Job,21,5,Hebrew,Main,Q,poetry,W FJMW JD <L PH
+FJM,499047,Job,22,22,Hebrew,Main,Q,poetry,W FJM >MRJW B LBBK
+FJM,499085,Job,23,6,Hebrew,Main,Q,poetry,>K HW> JFM BJ
+FJM,499147,Job,24,12,Hebrew,Main,?,poetry,W >LWH L> JFJM TPLH
+FJM,499157,Job,24,15,Hebrew,Main,?,poetry,W STR PNJM JFJM
+FJM,499189,Job,24,25,Hebrew,Main,Q,poetry,W JFM L >L MLTJ
+FJM,499301,Job,28,3,Hebrew,Main,?,poetry,QY FM L  XCK
+FJM,499385,Job,29,9,Hebrew,Main,Q,poetry,W KP JFJMW L PJHM
+FJM,499562,Job,31,24,Hebrew,SubAdv,Q,poetry,>M FMTJ ZHB KSLJ
+FJM,499703,Job,33,11,Hebrew,Main,Q,poetry,JFM B  SD RGLJ
+FJM,499803,Job,34,13,Hebrew,Main,Q,poetry,W MJ FM TBL KLH
+FJM,499804,Job,34,14,Hebrew,SubAdv,Q,poetry,>M JFJM >LJW LBW
+FJM,499830,Job,34,23,Hebrew,SubAdv,Q,poetry,KJ L> <L >JC JFJM <WD
+FJM,499947,Job,36,13,Hebrew,Main,Q,poetry,W XNPJ LB JFJMW >P
+FJM,500035,Job,37,15,Hebrew,SubArg,Q,poetry,B FWM >LWH <LJHM
+FJM,500072,Job,38,5,Hebrew,Main,Q,poetry,MJ FM MMDJH
+FJM,500082,Job,38,9,Hebrew,SubAdv,N,poetry,B FWMJ <NN LBCW
+FJM,500085,Job,38,10,Hebrew,SubAdv,N,poetry,W >FJM BRJX W DLTJM
+FJM,500141,Job,38,33,Hebrew,SubAdv,Q,poetry,>M TFJM MCVRW B  >RY
+FJM,500179,Job,39,6,Hebrew,SubMod,Q,poetry,>CR FMTJ <RBH BJTW
+FJM,500249,Job,40,4,Hebrew,Main,Q,poetry,JDJ FMTJ LMW PJ
+FJM,500301,Job,40,26,Hebrew,Main,Q,poetry,H TFJM >GMWN B >PW
+FJM,500313,Job,40,32,Hebrew,Main,Q,poetry,FJM <LJW KPK
+FJM,500371,Job,41,23,Hebrew,Main,Q,poetry,JM JFJM K  MRQXH
+FJM,501013,Proverbs,8,29,Hebrew,SubAdv,Q,poetry,B FWMW L  JM XQW
+FJM,502062,Proverbs,23,2,Hebrew,Main,Q,poetry,W FMT FKJN B L<K
+FJM,502716,Proverbs,30,26,Hebrew,Main,N,poetry,W JFJMW B  SL< BJTM
+FJM,503081,Ruth,3,3,Hebrew,Main,Q,prose,W FMT FMLTK <LJK
+FJM,503308,Song_of_songs,1,6,Hebrew,Main,Q,poetry,FMNJ
+FJM,503630,Song_of_songs,6,12,Hebrew,Main,Q,poetry,NPCJ FMTNJ MRKBWT <MJ NDJB
+FJM,503704,Song_of_songs,8,6,Hebrew,Main,Q,poetry,FJMNJ K  XWTM <L LBK
+FJM,505005,Lamentations,3,11,Hebrew,Main,Q,poetry,FMNJ CMM
+FJM,505074,Lamentations,3,45,Hebrew,Main,Q,poetry,SXJ W M>WS TFJMNW B QRB H <MJM
+FJM,505402,Esther,2,17,Hebrew,Main,N,prose,W JFM KTR MLKWT B R>CH
+FJM,505426,Esther,3,1,Hebrew,Main,N,prose,W JFM >T KS>W M <L KL H FRJM
+FJM,505792,Esther,8,2,Hebrew,Main,N,prose,W TFM >STR >T MRDKJ <L BJT HMN
+FJM,505986,Esther,10,1,Hebrew,Main,N,prose,W JFM H MLK >XCRC MS <L H >RY W >JJ H JM
+FJM,506016,Daniel,1,7,Hebrew,Main,N,prose,W JFM LHM FR H SRJSJM CMWT
+FJM,506017,Daniel,1,7,Hebrew,Main,N,prose,W JFM L DNJ>L BLVC>YR
+FJM,506021,Daniel,1,8,Hebrew,Main,N,prose,W JFM DNJ>L <L LBW
+FJM,506091,Daniel,2,5,Aramaic,Main,Q,prose,W BTJKWN NWLJ JTFMWN
+FJM,506345,Daniel,3,10,Aramaic,Main,Q,prose,>NTH FMT V<M
+FJM,506357,Daniel,3,12,Aramaic,Main,Q,prose,GBRJ> >LK L> FMW <LJK V<M
+FJM,506459,Daniel,3,29,Aramaic,Main,Q,prose,W MNJ FJM V<M
+FJM,506482,Daniel,4,3,Aramaic,Main,Q,prose,W MNJ FJM V<M
+FJM,506713,Daniel,5,12,Aramaic,SubMod,Q,prose,DJ MLK> FM CMH BLVC>YR
+FJM,506870,Daniel,6,14,Aramaic,Main,Q,prose,DJ DNJ>L L> FM <LJK V<M
+FJM,506878,Daniel,6,15,Aramaic,Main,?,prose,W <L DNJ>L FM BL
+FJM,506898,Daniel,6,18,Aramaic,Main,?,prose,W FMT <L PM GB>
+FJM,506941,Daniel,6,27,Aramaic,Main,Q,prose,MN QDMJ FJM V<M
+FJM,507546,Daniel,11,17,Hebrew,Main,Q,prose,W JFM PNJW
+FJM,507554,Daniel,11,18,Hebrew,Main,Q,prose,W JCB PNJW L >JJM
+FJM,507990,Ezra,4,19,Aramaic,Main,Q,prose,W MNJ FJM V<M
+FJM,507998,Ezra,4,21,Aramaic,Main,Q,prose,K<N FJMW V<M
+FJM,508001,Ezra,4,21,Aramaic,SubAdv,Q,prose,<D MNJ V<M> JTFM
+FJM,508023,Ezra,5,3,Aramaic,Main,Q,prose,MN FM LKM V<M
+FJM,508042,Ezra,5,8,Aramaic,Main,Q,prose,W >< MTFM B KTLJ>
+FJM,508047,Ezra,5,9,Aramaic,Main,Q,prose,MN FM LKM V<M
+FJM,508066,Ezra,5,13,Aramaic,Main,Q,prose,BRM B CNT XDH L KWRC MLK> DJ BBL KWRC MLK> FM V<M
+FJM,508077,Ezra,5,14,Aramaic,SubMod,Q,prose,DJ PXH FMH
+FJM,508094,Ezra,5,17,Aramaic,SubArg,Q,prose,DJ MN KWRC MLK> FJM V<M
+FJM,508097,Ezra,6,1,Aramaic,Main,N,prose,B >DJN DRJWC MLK> FM V<M
+FJM,508104,Ezra,6,3,Aramaic,Main,Q,prose,B CNT XDH L KWRC MLK> KWRC MLK> FM V<M
+FJM,508127,Ezra,6,8,Aramaic,Main,Q,prose,W MNJ FJM V<M L M>
+FJM,508139,Ezra,6,11,Aramaic,Main,Q,prose,W MNJ FJM V<M
+FJM,508152,Ezra,6,12,Aramaic,Main,Q,prose,>NH DRJWC FMT V<M
+FJM,508203,Ezra,7,13,Aramaic,Main,Q,prose,MNJ FJM V<M
+FJM,508228,Ezra,7,21,Aramaic,Main,Q,prose,W MNJ >NH >RTXCST> MLK> FJM V<M L KL GZBRJ>
+FJM,508302,Ezra,8,17,Hebrew,Main,N,prose,W >FJMH B PJHM DBRJM
+FJM,508550,Ezra,10,44,Hebrew,Main,N,prose,W JFJMW BNJM
+FJM,509229,Nehemiah,8,8,Hebrew,Main,N,prose,W FWM FKL
+FJM,509314,Nehemiah,9,7,Hebrew,SubAdv,Q,prose,W FMT CMW >BRHM
+FJM,510676,1_Chronicles,10,10,Hebrew,Main,N,prose,W JFJMW >T KLJW BJT >LHJHM
+FJM,510789,1_Chronicles,11,25,Hebrew,Main,N,prose,W JFJMHW DWJD <L MCM<TW
+FJM,511280,1_Chronicles,17,9,Hebrew,Main,N,prose,W FMTJ MQWM L <MJ JFR>L
+FJM,511333,1_Chronicles,17,21,Hebrew,SubAdv,Q,prose,L FWM LK CM GDLWT W NR>WT
+FJM,511382,1_Chronicles,18,6,Hebrew,Main,N,prose,W JFM DWJD B >RM DRMFQ
+FJM,511404,1_Chronicles,18,13,Hebrew,Main,N,prose,W JFM B >DWM NYJBJM
+FJM,512023,1_Chronicles,26,10,Hebrew,Main,N,prose,W JFJMHW >BJHW L R>C
+FJM,512368,2_Chronicles,1,5,Hebrew,Main,N,prose,W MZBX H NXCT FM L PNJ MCKN JHWH
+FJM,512714,2_Chronicles,6,11,Hebrew,Main,N,prose,W >FJM CM >T H >RWN
+FJM,512761,2_Chronicles,6,20,Hebrew,SubAdv,Q,prose,L FWM CMK CM
+FJM,513356,2_Chronicles,12,13,Hebrew,SubAdv,N,prose,L FWM >T CMW CM
+FJM,513817,2_Chronicles,18,26,Hebrew,Main,Q,prose,FJMW ZH BJT H KL>
+FJM,514281,2_Chronicles,23,15,Hebrew,Main,N,prose,W JFJMW LH JDJM
+FJM,514290,2_Chronicles,23,18,Hebrew,Main,N,prose,W JFM JHWJD< PQDT BJT JHWH B JD H KHNJM H LWJM
+FJM,515264,2_Chronicles,33,7,Hebrew,Main,N,prose,W JFM >T PSL H SML B BJT H >LHJM
+FJM,515267,2_Chronicles,33,7,Hebrew,Main,Q,prose,B  BJT H ZH W B JRWCLM >FJM >T CMJ L <JLWM
+FJM,515299,2_Chronicles,33,14,Hebrew,Main,N,prose,W JFM FRJ XJL B KL H <RJM H BYRWT B JHWDH
