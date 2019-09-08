@@ -7,7 +7,6 @@ library(Matrix)
 library(ggplot2)
 
 # import data
-setwd("C:/Users/geitb/Documents/SynVar/Proefschrift/JC_AJN")
 # biblical data
 dat <- read.csv("jc_nojc_bib.csv")
 # extrabiblical data
@@ -20,22 +19,12 @@ dath <- dath[dath$language %in% c('Hebrew','hbo'),]
 table(dath$subj_type)
 dat.jc.nojc <- dath[dath$subj_type != 'PP',]
 
-#label ABH as 'abh' and 'poetry'
+# relabel some verses
 dat.jc.nojc$ebh_lbh <- factor(dat.jc.nojc$ebh_lbh)
 dat.jc.nojc$book.ch <- paste(dat.jc.nojc$book, dat.jc.nojc$chapter, sep = '_')
 dat.jc.nojc$ebh_lbh <- as.character(dat.jc.nojc$ebh_lbh)
-#dat6$ebh_lbh[dat6$book.ch == 'Genesis_49' & as.numeric(dat6$verse) > 1 & as.numeric(dat6$verse) < 28] <- 'abh'
-#dat6$ebh_lbh[dat6$book.ch == 'Exodus_15' & as.numeric(dat6$verse) > 1 & as.numeric(dat6$verse) < 19] <- 'abh'
-#dat6$ebh_lbh[dat6$book.ch == 'Numbers_23' & as.numeric(dat6$verse) > 6] <- 'abh'
-##dat6$ebh_lbh[dat6$book.ch == 'Numbers_24' & as.numeric(dat6$verse) < 25] <- 'abh'
-#dat6$ebh_lbh[dat6$book.ch == 'Deuteronomy_32' & as.numeric(dat6$verse) < 44] <- 'abh'
-#dat6$ebh_lbh[dat6$book.ch == 'Deuteronomy_33' & as.numeric(dat6$verse) > 2] <- 'abh'
-#dat6$ebh_lbh[dat6$book.ch == 'Judges_5' & as.numeric(dat6$verse) > 1 & as.numeric(dat6$verse) < 31] <- 'abh'
 
-#dat6$ebh_lbh[dat6$book.ch == '2_Samuel_22' & as.numeric(dat6$verse) > 2] <- 'abh'
-#dat6$ebh_lbh[dat6$book.ch == '2_Samuel_1' & as.numeric(dat6$verse) > 18 & as.numeric(dat6$verse) < 28] <- 'abh'
 dat.jc.nojc$ebh_lbh <- as.factor(dat.jc.nojc$ebh_lbh)
-
 dat.jc.nojc$genre <- as.character(dat.jc.nojc$genre)
 dat.jc.nojc$genre[dat.jc.nojc$book.ch == 'Genesis_49' & as.numeric(dat.jc.nojc$verse) > 1 & as.numeric(dat.jc.nojc$verse) < 28] <- 'poetry'
 dat.jc.nojc$genre[dat6$book.ch == 'Exodus_15' & as.numeric(dat.jc.nojc$verse) > 1 & as.numeric(dat.jc.nojc$verse) < 19] <- 'poetry'
