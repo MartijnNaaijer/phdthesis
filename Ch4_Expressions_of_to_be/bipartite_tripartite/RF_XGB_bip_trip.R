@@ -5,9 +5,6 @@ library(xgboost)
 library(Matrix)
 library(pROC)
 
-
-setwd("C:/Users/geitb/Documents/SynVar/Proefschrift/Tripartite_TF_scripts")
-
 # import tripartite biblical data
 dat.trip.b1 <- read.csv('tripartite_bib.csv', header = T)
 head(dat.trip.b1)
