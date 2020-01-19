@@ -5,3 +5,6 @@ The data on which the analyses are based are extracted from the ETCBC database o
 using the open source software Text-Fabric. See: https://github.com/Dans-labs/text-fabric and also: https://etcbc.github.io/bhsa/
 The latter link gives a description of the electronic edition of the Hebrew Bible, developed at the ETCBC, which is based on the text
 of the fifthe edition of the Biblia Hebraica Stuttgartensia (BHS).
+
+The repository contains Python (.ipynb) and R files. Data are extracted with Text-Fabric using Python, most postprocessing is doen with R.
+Dependencies of the Pyhton scripts are Text-Fabric, Tensorflow 2.0 for gpu, sklearn numpy, and pandas.
