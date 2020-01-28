@@ -19,6 +19,7 @@ abline(v=0)
 
 # simulate data and fit with linear model 
 x <- 1:30
+set.seed(2)
 y <- 2 * x + rnorm(30, 0, 5)
 plot(x, y)
 
