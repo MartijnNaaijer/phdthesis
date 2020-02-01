@@ -12,3 +12,5 @@ agreement between the subject and the copular pronoun, for instance Psalms 44:5 
 These are encoded in a slightly different way in the etcbc database, and for clarity I have saved them in separate files.
 The files tripartite_bib.csv and tripartite_xbib.csv contain other candidates of tripartite clauses. They are encoded with the value
 "ReSu" in the feature rela, and they have a personal pronoun as subject.
+
+The analysis can be found in the file mosaic_plots_RF_XGB_bip_trip.R.
