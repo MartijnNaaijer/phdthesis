@@ -36,3 +36,11 @@ xgboost:
 Tianqi Chen, Tong He, Michael Benesty, Vadim Khotilovich, Yuan Tang, Hyunsu Cho, Kailong Chen, Rory Mitchell, Ignacio Cano, Tianyi Zhou, Mu Li, Junyuan Xie, Min Lin, Yifeng Geng and Yutian Li (2018). xgboost: Extreme Gradient Boosting. R package version 0.71.2.
 https://CRAN.R-project.org/package=xgboost  
 
+In the Python scipts I used next to Text-Fabric:
+Keras  
+https://keras.io, recently it was included in the TensorFlow library    
+pandas  
+https://pandas.pydata.org  
+
+
+
