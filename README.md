@@ -14,7 +14,7 @@ In Ch4_Expressions_of_to_be, you find three subfolders. These correspond with th
 In Ch5_Verbal_valence, you find datasets and analysis for chapter 5.
 Ch6_Sequence_analysis contains scripts for chapter 6. You need to run the Python scripts on a GPU and tensorflow-gpu.
 
-The map "Various" contains some useful scripts. adapt_genre.R is used in various other scripts for releveling the genre of clauses in some biblical verses. main_subordinate_clauses.ipynb contains some functions, in which it is decided whether a clause is a main clause or a subordinate clause. It is based on the research of Marianne Kaajan. subgenres_synvar.xls is made by Dirk Bakker. In this file you can find the way we have divided the Hebrew Bible in different genres. appendixB.R contains the simulations used in Appendix B of the thesis.
+The map "Various" contains some useful scripts. adapt_genre.R is used in various other scripts for releveling the genre of clauses in some biblical verses. main_subordinate_clauses.ipynb contains some functions, in which it is decided whether a clause is a main clause or a subordinate clause. It is based on the research of Marianne Kaajan. subgenres_synvar.xls is made by Dirk Bakker. In this file you can find the way we have divided the Hebrew Bible in different genres. appendixB.R contains the simulations used in Appendix B of the thesis. The file JCphrases.ipynb in the map Various is an example of a LAF Fabric notebook. Using LAF-Fabric was more laborious than Text-Fabric, which replaced it in 2016.
 
 The thesis uses two Text-Fabric packages. In the first place, the BHSA package, for which an app is available. The data can easily be downloaded from github with the incantation.
 
