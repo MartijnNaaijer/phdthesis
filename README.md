@@ -16,18 +16,15 @@ Ch6_Sequence_analysis contains scripts for chapter 6. You need to run the Python
 
 The map "Various" contains some useful scripts. adapt_genre.R is used in various other scripts for releveling the genre of clauses in some biblical verses. main_subordinate_clauses.ipynb contains some functions, in which it is decided whether a clause is a main clause or a subordinate clause. It is based on the research of Marianne Kaajan. subgenres_synvar.xls is made by Dirk Bakker. In this file you can find the way we have divided the Hebrew Bible in different genres. appendixB.R contains the simulations used in Appendix B of the thesis.
 
-The thesis uses two Text-Fabric packages. In the first place, the BHSA package. The data can easily be downloaded from github with the incantation:
+The thesis uses two Text-Fabric packages. In the first place, the BHSA package, for which an app is available. The data can easily be downloaded from github with the incantation.
 
 ```
 from tf.app import use
 A = use('bhsa', hoist=globals())
 ```
+The data are also loaded now, and one can start working with the data immediately.
 
 Such an app is not yet available for the other package, called "extrabiblical". The data can be downloaded with:
-
-```
-The thesis uses two Text-Fabric packages. In the first place, the BHSA package. The data can easily be downloaded from github with the incantation:
-
 ```
 from tf.applib.repo import checkoutRepo
 checkoutRepo(
@@ -37,9 +34,6 @@ checkoutRepo(
   version='0.2',
   checkout='',
 )
-```
-
-Such an app is not yet available for the other package, called "extrabiblical".
 ```
 
 
