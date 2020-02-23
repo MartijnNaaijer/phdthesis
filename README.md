@@ -46,7 +46,9 @@ van Rij J, Wieling M, Baayen R, van Rijn H (2017). “itsadug: Interpreting Time
 Matrix:  
 Douglas Bates and Martin Maechler (2018). Matrix: Sparse and Dense Matrix Classes and Methods. R package version 1.2-15. https://CRAN.R-project.org/package=Matrix  
 mgcv:  
-Wood, S.N. (2017) Generalized Additive Models: An Introduction with R (2nd edition). Chapman and Hall/CRC.  
+Wood, S.N. (2017) Generalized Additive Models: An Introduction with R (2nd edition). Chapman and Hall/CRC. 
+party:
+Torsten Hothorn, Kurt Hornik and Achim Zeileis (2006). Unbiased Recursive Partitioning: A Conditional Inference Framework. Journal of Computational and Graphical Statistics, 15(3), 651--674.
 randomForest:  
 A. Liaw and M. Wiener (2002). Classification and Regression by randomForest. R News 2(3), 18--22.  
 tidyverse:  
