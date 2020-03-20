@@ -169,12 +169,12 @@ table(dat.t$cl_type, dat.t$subcorp)
 table(dat.t$cl_type)
 nrow(dat.t)
 
-lbh_books <- dat.t[dat.t$ebh_lbh %in% c("ebh", "lbh"),]
-lbh_books <- droplevels(lbh_books)
-lbh_books$book2 <- factor(lbh_books$book2, levels = unique(lbh_books$book2))
-lbh_table <- table(lbh_books$book2, lbh_books$cl_type)
-colnames(lbh_table) <- c('HYH clauses', 'verbless clauses')
-mosaicplot(lbh_table, main = '', cex.axis = 1.2, color = c('#E6B0AA', '#5DADE2'), las = 2)
+ebh_lbh_books <- dat.t[dat.t$ebh_lbh %in% c("ebh", "lbh"),]
+ebh_lbh_books <- droplevels(ebh_lbh_books)
+ebh_lbh_books$book2 <- factor(ebh_lbh_books$book2, levels = unique(ebh_lbh_books$book2))
+ebh_lbh_table <- table(ebh_lbh_books$book2, ebh_lbh_books$cl_type)
+colnames(ebh_lbh_table) <- c('HYH clauses', 'verbless clauses')
+mosaicplot(ebh_lbh_table, main = '', cex.axis = 1.2, color = c('#E6B0AA', '#5DADE2'), las = 2)
 
 table(dat.t$cl_type, dat.t$book2)
 head(dat.t)
