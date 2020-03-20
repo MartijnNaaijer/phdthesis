@@ -216,7 +216,7 @@ genre <- table(dat.t$genre, dat.t$cl_type)
 colnames(genre) <- c('HYH clauses', 'verbless clauses')
 mosaicplot(genre, main = '', cex.axis = 1.2,color = c('#E6B0AA', '#5DADE2'), las = 2)
 
-# make spineplot of clause length versus clause type 4.11
+# make spineplot of clause length versus clause type
 len_table <- table(dat.t$cl_len, dat.t$cl_type)
 colnames(len_table) <- c('HYH clauses', 'verbless clauses')
 spineplot(len_table, xlab = "Clause length in phrases", 
