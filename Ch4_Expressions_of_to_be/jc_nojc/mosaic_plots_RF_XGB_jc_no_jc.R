@@ -465,7 +465,7 @@ overall$maxs <- as.numeric(as.character(overall$maxs))
 overall <- overall[2:3,]
 overall
 
-axis_labels <- c('????', 'no-????')
+axis_labels <- c('JC', 'no-JC')
 
 p <- ggplot(overall, aes(x = data, y = means, ymin = mins, ymax = maxs)) + 
   geom_bar(stat = "identity") + 
