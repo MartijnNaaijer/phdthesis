@@ -332,9 +332,7 @@ table(with.nega$cl_type)
 
 ######################################################
 
-# check models with gam.check()
-
-# make model with interactions
+# make model
 
 dat.t <- droplevels(dat.t)
 table(dat.t$subj_type)
