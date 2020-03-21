@@ -408,7 +408,7 @@ ggplot(ntn_fjm_counts_melt, aes(fill=variable, y=value, x=book)) +
 
 # Mosaic plot of distribution in Pentateuch
 fjm <- c(14, 2)
-ntn <- c(7, 24)
+ntn <- c(7, 22)
 pent <- rbind(fjm, ntn)
 colnames(pent) <- c("J/E", "P")
 
