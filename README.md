@@ -66,4 +66,4 @@ pandas
 https://pandas.pydata.org  
 
 
-
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:19ab94323490bfe52b43236493a548fe08ea4ef3;origin=https://github.com/MartijnNaaijer/phdthesis/)](https://archive.softwareheritage.org/swh:1:dir:19ab94323490bfe52b43236493a548fe08ea4ef3;origin=https://github.com/MartijnNaaijer/phdthesis/)
