@@ -1,4 +1,7 @@
 # phdthesis
+
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:19ab94323490bfe52b43236493a548fe08ea4ef3;origin=https://github.com/MartijnNaaijer/phdthesis/)](https://archive.softwareheritage.org/swh:1:dir:19ab94323490bfe52b43236493a548fe08ea4ef3;origin=https://github.com/MartijnNaaijer/phdthesis/)
+
 The repository contains scripts and data related to my PhD thesis "Clause Structure Variation in Biblical Hebrew, a Quantitative Approach".
 
 The data on which the analyses are based are extracted from the ETCBC database of the Hebrew Bible and related texts, 
@@ -65,5 +68,3 @@ https://keras.io, recently it was included in the TensorFlow library
 pandas  
 https://pandas.pydata.org  
 
-
-[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:19ab94323490bfe52b43236493a548fe08ea4ef3;origin=https://github.com/MartijnNaaijer/phdthesis/)](https://archive.softwareheritage.org/swh:1:dir:19ab94323490bfe52b43236493a548fe08ea4ef3;origin=https://github.com/MartijnNaaijer/phdthesis/)
