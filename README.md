@@ -10,7 +10,7 @@ The latter link gives a description of the electronic edition of the Hebrew Bibl
 of the fifthe edition of the Biblia Hebraica Stuttgartensia (BHS).
 
 The repository contains Python (.ipynb) and R files. Data are extracted with Text-Fabric using Python, most postprocessing is doen with R.
-Dependencies of the Pyhton scripts are Text-Fabric, Tensorflow 2.0 for gpu, sklearn numpy, and pandas.
+Dependencies of the Python scripts are Text-Fabric, Tensorflow 2.0 for gpu, sklearn numpy, and pandas.
 
 In Ch2_History_of_scholarship, you find a word count of the prose tale of Job.
 In Ch4_Expressions_of_to_be, you find three subfolders. These correspond with the sections 4.2, 4.3, and 4.4 in the thesis.
