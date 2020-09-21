@@ -39,7 +39,7 @@ checkoutRepo(
 )
 ```
 
-
+For this research R version 3.5.2 was used.
 The following R packages were used:
 
 factoextra:  
